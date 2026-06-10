@@ -1,0 +1,1858 @@
+event_month,event_year,topic_label,event_count
+2007-05,2007,Road safety,1
+2007-09,2007,Civic work,1
+2007-09,2007,Fire and emergency,1
+2007-09,2007,Road safety,3
+2007-10,2007,Civic work,1
+2007-10,2007,Education,2
+2007-10,2007,Health,2
+2007-10,2007,Rain and weather,2
+2007-10,2007,Road safety,2
+2007-11,2007,Civic work,2
+2007-11,2007,Education,1
+2007-11,2007,Fire and emergency,2
+2007-11,2007,Rain and weather,2
+2007-11,2007,Road safety,10
+2007-11,2007,Transport,1
+2007-12,2007,Fire and emergency,1
+2007-12,2007,Rain and weather,1
+2007-12,2007,Road safety,8
+2007-12,2007,Transport,3
+2008-01,2008,Civic work,1
+2008-01,2008,Fire and emergency,1
+2008-01,2008,Rain and weather,1
+2008-01,2008,Road safety,8
+2008-01,2008,Transport,1
+2008-02,2008,Civic work,1
+2008-02,2008,Education,1
+2008-02,2008,Governance,1
+2008-02,2008,Health,2
+2008-02,2008,Public safety,2
+2008-02,2008,Rain and weather,3
+2008-02,2008,Road safety,2
+2008-02,2008,Transport,1
+2008-03,2008,Education,5
+2008-03,2008,Fire and emergency,5
+2008-03,2008,Public safety,1
+2008-03,2008,Road safety,3
+2008-04,2008,Civic work,2
+2008-04,2008,Fire and emergency,3
+2008-04,2008,Road safety,1
+2008-05,2008,Education,1
+2008-05,2008,Fire and emergency,1
+2008-05,2008,Public safety,1
+2008-05,2008,Road safety,5
+2008-05,2008,Transport,1
+2008-06,2008,Civic work,1
+2008-06,2008,Governance,1
+2008-06,2008,Health,2
+2008-06,2008,Public safety,8
+2008-06,2008,Rain and weather,7
+2008-06,2008,Road safety,7
+2008-07,2008,Education,1
+2008-07,2008,Fire and emergency,2
+2008-07,2008,Public safety,1
+2008-07,2008,Rain and weather,3
+2008-07,2008,Road safety,7
+2008-07,2008,Transport,1
+2008-08,2008,Civic work,2
+2008-08,2008,Education,3
+2008-08,2008,Fire and emergency,2
+2008-08,2008,Public safety,1
+2008-08,2008,Rain and weather,3
+2008-08,2008,Road safety,10
+2008-08,2008,Transport,1
+2008-09,2008,Civic work,1
+2008-09,2008,Education,1
+2008-09,2008,Fire and emergency,3
+2008-09,2008,Governance,1
+2008-09,2008,Health,1
+2008-09,2008,Rain and weather,2
+2008-09,2008,Road safety,5
+2008-09,2008,Transport,2
+2008-10,2008,Civic work,1
+2008-10,2008,Fire and emergency,1
+2008-10,2008,Governance,2
+2008-10,2008,Public safety,1
+2008-10,2008,Road safety,5
+2008-10,2008,Transport,1
+2008-11,2008,Civic work,3
+2008-11,2008,Education,1
+2008-11,2008,Fire and emergency,2
+2008-11,2008,Rain and weather,1
+2008-11,2008,Road safety,6
+2008-12,2008,Civic work,2
+2008-12,2008,Fire and emergency,1
+2008-12,2008,Health,3
+2008-12,2008,Road safety,7
+2009-01,2009,Civic work,2
+2009-01,2009,Education,2
+2009-01,2009,Fire and emergency,2
+2009-01,2009,Public safety,2
+2009-01,2009,Road safety,10
+2009-02,2009,Civic work,2
+2009-02,2009,Fire and emergency,1
+2009-02,2009,Public safety,2
+2009-02,2009,Rain and weather,1
+2009-02,2009,Road safety,1
+2009-03,2009,Civic work,1
+2009-03,2009,Education,1
+2009-03,2009,Fire and emergency,2
+2009-03,2009,Health,1
+2009-03,2009,Public safety,1
+2009-03,2009,Rain and weather,3
+2009-03,2009,Road safety,5
+2009-04,2009,Civic work,2
+2009-04,2009,Fire and emergency,1
+2009-04,2009,Governance,1
+2009-04,2009,Public safety,1
+2009-04,2009,Road safety,5
+2009-05,2009,Civic work,6
+2009-05,2009,Education,1
+2009-05,2009,Health,1
+2009-05,2009,Public safety,1
+2009-05,2009,Road safety,7
+2009-06,2009,Civic work,4
+2009-06,2009,Health,2
+2009-06,2009,Public safety,1
+2009-06,2009,Rain and weather,4
+2009-06,2009,Road safety,5
+2009-06,2009,Transport,1
+2009-07,2009,Civic work,5
+2009-07,2009,Education,1
+2009-07,2009,Public safety,1
+2009-07,2009,Rain and weather,9
+2009-07,2009,Road safety,6
+2009-07,2009,Transport,4
+2009-08,2009,Civic work,1
+2009-08,2009,Education,1
+2009-08,2009,Fire and emergency,4
+2009-08,2009,Rain and weather,1
+2009-08,2009,Road safety,9
+2009-08,2009,Transport,3
+2009-09,2009,Civic work,3
+2009-09,2009,Coastal environment,1
+2009-09,2009,Road safety,2
+2009-10,2009,Fire and emergency,2
+2009-10,2009,Rain and weather,22
+2009-10,2009,Road safety,3
+2009-10,2009,Transport,1
+2009-11,2009,Civic work,4
+2009-11,2009,Fire and emergency,1
+2009-11,2009,Health,1
+2009-11,2009,Rain and weather,4
+2009-11,2009,Road safety,3
+2009-11,2009,Transport,1
+2009-12,2009,Education,1
+2009-12,2009,Fire and emergency,4
+2009-12,2009,Health,1
+2009-12,2009,Rain and weather,1
+2009-12,2009,Road safety,5
+2009-12,2009,Transport,1
+2010-01,2010,Civic work,3
+2010-01,2010,Fire and emergency,1
+2010-01,2010,Public safety,1
+2010-01,2010,Rain and weather,1
+2010-01,2010,Road safety,1
+2010-01,2010,Transport,1
+2010-02,2010,Civic work,3
+2010-02,2010,Education,1
+2010-02,2010,Fire and emergency,3
+2010-02,2010,Public safety,1
+2010-02,2010,Rain and weather,2
+2010-02,2010,Road safety,6
+2010-03,2010,Civic work,1
+2010-03,2010,Education,1
+2010-03,2010,Public safety,1
+2010-03,2010,Road safety,6
+2010-04,2010,Civic work,1
+2010-04,2010,Education,1
+2010-04,2010,Fire and emergency,2
+2010-04,2010,Health,2
+2010-04,2010,Rain and weather,1
+2010-04,2010,Road safety,4
+2010-04,2010,Transport,1
+2010-05,2010,Civic work,3
+2010-05,2010,Education,1
+2010-05,2010,Fire and emergency,5
+2010-05,2010,Public safety,1
+2010-05,2010,Road safety,38
+2010-06,2010,Fire and emergency,1
+2010-06,2010,Public safety,1
+2010-06,2010,Rain and weather,12
+2010-06,2010,Road safety,25
+2010-07,2010,Civic work,2
+2010-07,2010,Education,1
+2010-07,2010,Fire and emergency,6
+2010-07,2010,Governance,1
+2010-07,2010,Health,2
+2010-07,2010,Rain and weather,5
+2010-07,2010,Road safety,16
+2010-08,2010,Civic work,8
+2010-08,2010,Fire and emergency,1
+2010-08,2010,Governance,2
+2010-08,2010,Health,3
+2010-08,2010,Rain and weather,5
+2010-08,2010,Road safety,10
+2010-08,2010,Transport,1
+2010-09,2010,Civic work,4
+2010-09,2010,Education,2
+2010-09,2010,Fire and emergency,1
+2010-09,2010,Governance,1
+2010-09,2010,Health,1
+2010-09,2010,Public safety,1
+2010-09,2010,Rain and weather,2
+2010-09,2010,Road safety,7
+2010-09,2010,Transport,1
+2010-10,2010,Civic work,2
+2010-10,2010,Education,3
+2010-10,2010,Health,2
+2010-10,2010,Public safety,1
+2010-10,2010,Rain and weather,2
+2010-10,2010,Road safety,5
+2010-11,2010,Civic work,1
+2010-11,2010,Education,2
+2010-11,2010,Health,2
+2010-11,2010,Road safety,9
+2010-11,2010,Transport,1
+2010-12,2010,Civic work,1
+2010-12,2010,Education,5
+2010-12,2010,Fire and emergency,2
+2010-12,2010,Governance,1
+2010-12,2010,Health,1
+2010-12,2010,Road safety,2
+2011-01,2011,Communal tension,1
+2011-01,2011,Education,1
+2011-01,2011,Health,1
+2011-01,2011,Public safety,2
+2011-01,2011,Road safety,5
+2011-02,2011,Civic work,1
+2011-02,2011,Fire and emergency,1
+2011-02,2011,Health,1
+2011-02,2011,Public safety,1
+2011-02,2011,Road safety,4
+2011-03,2011,Civic work,2
+2011-03,2011,Fire and emergency,3
+2011-03,2011,Rain and weather,3
+2011-03,2011,Road safety,10
+2011-04,2011,Civic work,5
+2011-04,2011,Education,2
+2011-04,2011,Rain and weather,2
+2011-04,2011,Road safety,12
+2011-05,2011,Civic work,6
+2011-05,2011,Education,1
+2011-05,2011,Fire and emergency,4
+2011-05,2011,Governance,1
+2011-05,2011,Rain and weather,1
+2011-05,2011,Road safety,15
+2011-05,2011,Transport,1
+2011-06,2011,Civic work,4
+2011-06,2011,Fire and emergency,2
+2011-06,2011,Health,1
+2011-06,2011,Public safety,1
+2011-06,2011,Rain and weather,3
+2011-06,2011,Road safety,11
+2011-07,2011,Civic work,7
+2011-07,2011,Education,1
+2011-07,2011,Fire and emergency,4
+2011-07,2011,Governance,3
+2011-07,2011,Health,3
+2011-07,2011,Public safety,1
+2011-07,2011,Rain and weather,5
+2011-07,2011,Road safety,14
+2011-07,2011,Transport,2
+2011-08,2011,Civic work,5
+2011-08,2011,Fire and emergency,3
+2011-08,2011,Health,1
+2011-08,2011,Rain and weather,2
+2011-08,2011,Road safety,11
+2011-09,2011,Civic work,1
+2011-09,2011,Education,3
+2011-09,2011,Fire and emergency,4
+2011-09,2011,Governance,1
+2011-09,2011,Health,2
+2011-09,2011,Public safety,2
+2011-09,2011,Road safety,12
+2011-09,2011,Transport,2
+2011-10,2011,Civic work,3
+2011-10,2011,Education,3
+2011-10,2011,Fire and emergency,4
+2011-10,2011,Governance,2
+2011-10,2011,Health,1
+2011-10,2011,Public safety,1
+2011-10,2011,Rain and weather,1
+2011-10,2011,Road safety,19
+2011-10,2011,Transport,1
+2011-11,2011,Civic work,3
+2011-11,2011,Education,1
+2011-11,2011,Fire and emergency,5
+2011-11,2011,Public safety,1
+2011-11,2011,Rain and weather,1
+2011-11,2011,Road safety,12
+2011-11,2011,Transport,3
+2011-12,2011,Civic work,2
+2011-12,2011,Education,3
+2011-12,2011,Fire and emergency,4
+2011-12,2011,Governance,2
+2011-12,2011,Public safety,2
+2011-12,2011,Rain and weather,2
+2011-12,2011,Road safety,18
+2012-01,2012,Civic work,3
+2012-01,2012,Education,2
+2012-01,2012,Fire and emergency,4
+2012-01,2012,Health,2
+2012-01,2012,Public safety,5
+2012-01,2012,Rain and weather,1
+2012-01,2012,Road safety,14
+2012-01,2012,Transport,3
+2012-02,2012,Education,2
+2012-02,2012,Fire and emergency,7
+2012-02,2012,Public safety,1
+2012-02,2012,Rain and weather,3
+2012-02,2012,Road safety,18
+2012-02,2012,Transport,1
+2012-03,2012,Civic work,2
+2012-03,2012,Education,1
+2012-03,2012,Fire and emergency,1
+2012-03,2012,Governance,7
+2012-03,2012,Public safety,2
+2012-03,2012,Rain and weather,1
+2012-03,2012,Road safety,10
+2012-03,2012,Transport,2
+2012-04,2012,Civic work,2
+2012-04,2012,Education,1
+2012-04,2012,Fire and emergency,4
+2012-04,2012,Governance,1
+2012-04,2012,Health,1
+2012-04,2012,Public safety,1
+2012-04,2012,Rain and weather,4
+2012-04,2012,Road safety,16
+2012-04,2012,Transport,1
+2012-05,2012,Civic work,9
+2012-05,2012,Education,3
+2012-05,2012,Fire and emergency,9
+2012-05,2012,Health,3
+2012-05,2012,Public safety,4
+2012-05,2012,Rain and weather,8
+2012-05,2012,Road safety,12
+2012-05,2012,Transport,3
+2012-06,2012,Civic work,8
+2012-06,2012,Education,3
+2012-06,2012,Fire and emergency,6
+2012-06,2012,Public safety,6
+2012-06,2012,Rain and weather,7
+2012-06,2012,Road safety,10
+2012-06,2012,Transport,1
+2012-07,2012,Civic work,5
+2012-07,2012,Education,1
+2012-07,2012,Fire and emergency,1
+2012-07,2012,Health,1
+2012-07,2012,Public safety,1
+2012-07,2012,Rain and weather,3
+2012-07,2012,Road safety,16
+2012-07,2012,Transport,1
+2012-08,2012,Civic work,2
+2012-08,2012,Education,2
+2012-08,2012,Fire and emergency,2
+2012-08,2012,Health,5
+2012-08,2012,Public safety,2
+2012-08,2012,Rain and weather,4
+2012-08,2012,Road safety,15
+2012-09,2012,Civic work,2
+2012-09,2012,Education,1
+2012-09,2012,Fire and emergency,1
+2012-09,2012,Health,1
+2012-09,2012,Public safety,1
+2012-09,2012,Rain and weather,4
+2012-09,2012,Road safety,16
+2012-09,2012,Transport,2
+2012-10,2012,Education,1
+2012-10,2012,Fire and emergency,4
+2012-10,2012,Health,2
+2012-10,2012,Public safety,3
+2012-10,2012,Road safety,22
+2012-10,2012,Transport,2
+2012-11,2012,Civic work,5
+2012-11,2012,Education,4
+2012-11,2012,Fire and emergency,8
+2012-11,2012,Health,2
+2012-11,2012,Rain and weather,5
+2012-11,2012,Road safety,10
+2012-12,2012,Civic work,4
+2012-12,2012,Education,2
+2012-12,2012,Fire and emergency,3
+2012-12,2012,Health,3
+2012-12,2012,Public safety,5
+2012-12,2012,Rain and weather,4
+2012-12,2012,Road safety,15
+2013-01,2013,Civic work,3
+2013-01,2013,Fire and emergency,5
+2013-01,2013,Public safety,4
+2013-01,2013,Rain and weather,1
+2013-01,2013,Road safety,13
+2013-01,2013,Transport,2
+2013-02,2013,Civic work,1
+2013-02,2013,Education,2
+2013-02,2013,Fire and emergency,2
+2013-02,2013,Health,2
+2013-02,2013,Public safety,6
+2013-02,2013,Rain and weather,1
+2013-02,2013,Road safety,18
+2013-03,2013,Civic work,1
+2013-03,2013,Education,3
+2013-03,2013,Fire and emergency,3
+2013-03,2013,Governance,1
+2013-03,2013,Public safety,2
+2013-03,2013,Rain and weather,1
+2013-03,2013,Road safety,21
+2013-03,2013,Transport,1
+2013-04,2013,Civic work,1
+2013-04,2013,Education,1
+2013-04,2013,Fire and emergency,12
+2013-04,2013,Governance,2
+2013-04,2013,Health,1
+2013-04,2013,Public safety,3
+2013-04,2013,Rain and weather,4
+2013-04,2013,Road safety,24
+2013-04,2013,Transport,3
+2013-05,2013,Civic work,4
+2013-05,2013,Fire and emergency,5
+2013-05,2013,Health,2
+2013-05,2013,Rain and weather,3
+2013-05,2013,Road safety,25
+2013-06,2013,Civic work,1
+2013-06,2013,Education,4
+2013-06,2013,Fire and emergency,2
+2013-06,2013,Health,3
+2013-06,2013,Public safety,3
+2013-06,2013,Rain and weather,10
+2013-06,2013,Road safety,33
+2013-07,2013,Civic work,1
+2013-07,2013,Coastal environment,2
+2013-07,2013,Education,1
+2013-07,2013,Fire and emergency,3
+2013-07,2013,Health,3
+2013-07,2013,Public safety,8
+2013-07,2013,Rain and weather,3
+2013-07,2013,Road safety,30
+2013-07,2013,Transport,2
+2013-08,2013,Civic work,3
+2013-08,2013,Fire and emergency,5
+2013-08,2013,Governance,2
+2013-08,2013,Rain and weather,4
+2013-08,2013,Road safety,28
+2013-08,2013,Transport,1
+2013-09,2013,Civic work,10
+2013-09,2013,Fire and emergency,3
+2013-09,2013,Governance,7
+2013-09,2013,Rain and weather,1
+2013-09,2013,Road safety,21
+2013-09,2013,Transport,2
+2013-10,2013,Civic work,1
+2013-10,2013,Fire and emergency,2
+2013-10,2013,Health,2
+2013-10,2013,Rain and weather,1
+2013-10,2013,Road safety,28
+2013-10,2013,Transport,1
+2013-11,2013,Civic work,4
+2013-11,2013,Fire and emergency,1
+2013-11,2013,Governance,4
+2013-11,2013,Health,2
+2013-11,2013,Rain and weather,3
+2013-11,2013,Road safety,32
+2013-11,2013,Transport,2
+2013-12,2013,Civic work,6
+2013-12,2013,Fire and emergency,3
+2013-12,2013,Governance,3
+2013-12,2013,Road safety,32
+2013-12,2013,Transport,1
+2014-01,2014,Civic work,3
+2014-01,2014,Fire and emergency,2
+2014-01,2014,Governance,1
+2014-01,2014,Health,4
+2014-01,2014,Road safety,27
+2014-01,2014,Transport,2
+2014-02,2014,Civic work,1
+2014-02,2014,Fire and emergency,6
+2014-02,2014,Governance,1
+2014-02,2014,Health,2
+2014-02,2014,Rain and weather,1
+2014-02,2014,Road safety,20
+2014-02,2014,Transport,1
+2014-03,2014,Civic work,5
+2014-03,2014,Governance,4
+2014-03,2014,Health,1
+2014-03,2014,Road safety,24
+2014-04,2014,Civic work,5
+2014-04,2014,Governance,4
+2014-04,2014,Rain and weather,1
+2014-04,2014,Road safety,27
+2014-04,2014,Transport,1
+2014-05,2014,Civic work,6
+2014-05,2014,Fire and emergency,2
+2014-05,2014,Governance,4
+2014-05,2014,Health,3
+2014-05,2014,Rain and weather,2
+2014-05,2014,Road safety,22
+2014-05,2014,Transport,1
+2014-06,2014,Civic work,12
+2014-06,2014,Fire and emergency,1
+2014-06,2014,Governance,8
+2014-06,2014,Health,2
+2014-06,2014,Rain and weather,3
+2014-06,2014,Road safety,36
+2014-06,2014,Transport,4
+2014-07,2014,Civic work,12
+2014-07,2014,Fire and emergency,3
+2014-07,2014,Governance,6
+2014-07,2014,Health,1
+2014-07,2014,Rain and weather,3
+2014-07,2014,Road safety,29
+2014-07,2014,Transport,3
+2014-08,2014,Civic work,6
+2014-08,2014,Governance,6
+2014-08,2014,Health,2
+2014-08,2014,Rain and weather,1
+2014-08,2014,Road safety,21
+2014-09,2014,Civic work,6
+2014-09,2014,Fire and emergency,1
+2014-09,2014,Governance,5
+2014-09,2014,Rain and weather,5
+2014-09,2014,Road safety,28
+2014-09,2014,Transport,2
+2014-10,2014,Civic work,4
+2014-10,2014,Fire and emergency,2
+2014-10,2014,Governance,3
+2014-10,2014,Health,3
+2014-10,2014,Rain and weather,4
+2014-10,2014,Road safety,30
+2014-11,2014,Civic work,9
+2014-11,2014,Fire and emergency,3
+2014-11,2014,Governance,5
+2014-11,2014,Health,3
+2014-11,2014,Rain and weather,1
+2014-11,2014,Road safety,26
+2014-11,2014,Transport,2
+2014-12,2014,Civic work,6
+2014-12,2014,Fire and emergency,12
+2014-12,2014,Governance,4
+2014-12,2014,Health,4
+2014-12,2014,Road safety,44
+2015-01,2015,Civic work,6
+2015-01,2015,Fire and emergency,5
+2015-01,2015,Governance,5
+2015-01,2015,Health,4
+2015-01,2015,Road safety,34
+2015-01,2015,Transport,1
+2015-02,2015,Civic work,4
+2015-02,2015,Fire and emergency,4
+2015-02,2015,Governance,2
+2015-02,2015,Health,2
+2015-02,2015,Road safety,33
+2015-02,2015,Transport,2
+2015-03,2015,Civic work,8
+2015-03,2015,Fire and emergency,1
+2015-03,2015,Governance,8
+2015-03,2015,Health,8
+2015-03,2015,Rain and weather,2
+2015-03,2015,Road safety,48
+2015-03,2015,Transport,2
+2015-04,2015,Civic work,9
+2015-04,2015,Fire and emergency,4
+2015-04,2015,Governance,6
+2015-04,2015,Health,3
+2015-04,2015,Rain and weather,6
+2015-04,2015,Road safety,33
+2015-04,2015,Transport,1
+2015-05,2015,Civic work,7
+2015-05,2015,Fire and emergency,1
+2015-05,2015,Governance,7
+2015-05,2015,Health,3
+2015-05,2015,Rain and weather,4
+2015-05,2015,Road safety,40
+2015-06,2015,Civic work,9
+2015-06,2015,Fire and emergency,3
+2015-06,2015,Governance,8
+2015-06,2015,Health,8
+2015-06,2015,Rain and weather,11
+2015-06,2015,Road safety,34
+2015-06,2015,Transport,1
+2015-07,2015,Civic work,4
+2015-07,2015,Fire and emergency,1
+2015-07,2015,Governance,1
+2015-07,2015,Health,7
+2015-07,2015,Rain and weather,2
+2015-07,2015,Road safety,33
+2015-08,2015,Civic work,7
+2015-08,2015,Fire and emergency,2
+2015-08,2015,Governance,4
+2015-08,2015,Health,5
+2015-08,2015,Rain and weather,2
+2015-08,2015,Road safety,31
+2015-09,2015,Civic work,4
+2015-09,2015,Fire and emergency,2
+2015-09,2015,Governance,3
+2015-09,2015,Health,7
+2015-09,2015,Rain and weather,2
+2015-09,2015,Road safety,25
+2015-09,2015,Transport,2
+2015-10,2015,Civic work,8
+2015-10,2015,Fire and emergency,3
+2015-10,2015,Governance,6
+2015-10,2015,Health,2
+2015-10,2015,Road safety,31
+2015-10,2015,Transport,1
+2015-11,2015,Civic work,3
+2015-11,2015,Fire and emergency,3
+2015-11,2015,Governance,3
+2015-11,2015,Health,7
+2015-11,2015,Road safety,28
+2015-12,2015,Civic work,5
+2015-12,2015,Governance,3
+2015-12,2015,Health,1
+2015-12,2015,Road safety,28
+2015-12,2015,Transport,1
+2016-01,2016,Civic work,4
+2016-01,2016,Fire and emergency,3
+2016-01,2016,Governance,2
+2016-01,2016,Health,5
+2016-01,2016,Road safety,31
+2016-01,2016,Transport,4
+2016-02,2016,Civic work,5
+2016-02,2016,Fire and emergency,3
+2016-02,2016,Governance,5
+2016-02,2016,Health,6
+2016-02,2016,Rain and weather,1
+2016-02,2016,Road safety,33
+2016-03,2016,Civic work,8
+2016-03,2016,Fire and emergency,1
+2016-03,2016,Governance,7
+2016-03,2016,Health,6
+2016-03,2016,Rain and weather,2
+2016-03,2016,Road safety,34
+2016-03,2016,Transport,1
+2016-04,2016,Civic work,11
+2016-04,2016,Fire and emergency,2
+2016-04,2016,Governance,6
+2016-04,2016,Health,2
+2016-04,2016,Rain and weather,4
+2016-04,2016,Road safety,30
+2016-04,2016,Transport,4
+2016-05,2016,Civic work,6
+2016-05,2016,Fire and emergency,2
+2016-05,2016,Governance,3
+2016-05,2016,Health,10
+2016-05,2016,Rain and weather,2
+2016-05,2016,Road safety,39
+2016-05,2016,Transport,1
+2016-06,2016,Civic work,3
+2016-06,2016,Coastal environment,1
+2016-06,2016,Fire and emergency,1
+2016-06,2016,Governance,2
+2016-06,2016,Health,5
+2016-06,2016,Rain and weather,8
+2016-06,2016,Road safety,49
+2016-07,2016,Civic work,6
+2016-07,2016,Governance,3
+2016-07,2016,Health,4
+2016-07,2016,Rain and weather,3
+2016-07,2016,Road safety,42
+2016-07,2016,Transport,1
+2016-08,2016,Civic work,11
+2016-08,2016,Fire and emergency,4
+2016-08,2016,Governance,4
+2016-08,2016,Health,6
+2016-08,2016,Rain and weather,1
+2016-08,2016,Road safety,29
+2016-08,2016,Transport,1
+2016-09,2016,Civic work,11
+2016-09,2016,Fire and emergency,1
+2016-09,2016,Governance,8
+2016-09,2016,Health,5
+2016-09,2016,Road safety,37
+2016-09,2016,Transport,3
+2016-10,2016,Civic work,15
+2016-10,2016,Governance,11
+2016-10,2016,Health,9
+2016-10,2016,Rain and weather,1
+2016-10,2016,Road safety,38
+2016-10,2016,Transport,3
+2016-11,2016,Civic work,18
+2016-11,2016,Coastal environment,3
+2016-11,2016,Education,7
+2016-11,2016,Fire and emergency,4
+2016-11,2016,Governance,16
+2016-11,2016,Health,16
+2016-11,2016,Public safety,11
+2016-11,2016,Rain and weather,12
+2016-11,2016,Road safety,23
+2016-11,2016,Transport,7
+2016-12,2016,Civic work,18
+2016-12,2016,Coastal environment,2
+2016-12,2016,Education,15
+2016-12,2016,Fire and emergency,5
+2016-12,2016,Governance,12
+2016-12,2016,Health,23
+2016-12,2016,Public safety,10
+2016-12,2016,Rain and weather,7
+2016-12,2016,Road safety,23
+2016-12,2016,Transport,11
+2017-01,2017,Civic work,19
+2017-01,2017,Coastal environment,2
+2017-01,2017,Education,9
+2017-01,2017,Fire and emergency,10
+2017-01,2017,Governance,19
+2017-01,2017,Health,21
+2017-01,2017,Public safety,16
+2017-01,2017,Rain and weather,4
+2017-01,2017,Road safety,28
+2017-01,2017,Transport,20
+2017-02,2017,Civic work,13
+2017-02,2017,Coastal environment,6
+2017-02,2017,Education,9
+2017-02,2017,Fire and emergency,4
+2017-02,2017,Governance,24
+2017-02,2017,Health,20
+2017-02,2017,Public safety,12
+2017-02,2017,Rain and weather,4
+2017-02,2017,Road safety,23
+2017-02,2017,Transport,17
+2017-03,2017,Civic work,16
+2017-03,2017,Coastal environment,3
+2017-03,2017,Education,9
+2017-03,2017,Fire and emergency,8
+2017-03,2017,Governance,13
+2017-03,2017,Health,30
+2017-03,2017,Public safety,11
+2017-03,2017,Rain and weather,8
+2017-03,2017,Road safety,28
+2017-03,2017,Transport,12
+2017-04,2017,Civic work,18
+2017-04,2017,Coastal environment,3
+2017-04,2017,Education,10
+2017-04,2017,Fire and emergency,8
+2017-04,2017,Governance,19
+2017-04,2017,Health,28
+2017-04,2017,Public safety,12
+2017-04,2017,Rain and weather,6
+2017-04,2017,Road safety,28
+2017-04,2017,Transport,8
+2017-05,2017,Civic work,23
+2017-05,2017,Coastal environment,7
+2017-05,2017,Education,15
+2017-05,2017,Fire and emergency,7
+2017-05,2017,Governance,16
+2017-05,2017,Health,37
+2017-05,2017,Public safety,14
+2017-05,2017,Rain and weather,8
+2017-05,2017,Road safety,42
+2017-05,2017,Transport,13
+2017-06,2017,Civic work,20
+2017-06,2017,Coastal environment,8
+2017-06,2017,Education,8
+2017-06,2017,Fire and emergency,3
+2017-06,2017,Governance,23
+2017-06,2017,Health,19
+2017-06,2017,Public safety,8
+2017-06,2017,Rain and weather,16
+2017-06,2017,Road safety,22
+2017-06,2017,Transport,23
+2017-07,2017,Civic work,15
+2017-07,2017,Coastal environment,2
+2017-07,2017,Education,9
+2017-07,2017,Fire and emergency,2
+2017-07,2017,Governance,22
+2017-07,2017,Health,23
+2017-07,2017,Public safety,15
+2017-07,2017,Rain and weather,6
+2017-07,2017,Road safety,17
+2017-07,2017,Transport,12
+2017-08,2017,Civic work,13
+2017-08,2017,Coastal environment,8
+2017-08,2017,Education,17
+2017-08,2017,Fire and emergency,3
+2017-08,2017,Governance,25
+2017-08,2017,Health,25
+2017-08,2017,Public safety,11
+2017-08,2017,Rain and weather,10
+2017-08,2017,Road safety,24
+2017-08,2017,Transport,12
+2017-09,2017,Civic work,12
+2017-09,2017,Coastal environment,3
+2017-09,2017,Education,7
+2017-09,2017,Fire and emergency,3
+2017-09,2017,Governance,15
+2017-09,2017,Health,18
+2017-09,2017,Public safety,13
+2017-09,2017,Rain and weather,6
+2017-09,2017,Road safety,20
+2017-09,2017,Transport,17
+2017-10,2017,Civic work,21
+2017-10,2017,Coastal environment,1
+2017-10,2017,Education,15
+2017-10,2017,Fire and emergency,11
+2017-10,2017,Governance,20
+2017-10,2017,Health,32
+2017-10,2017,Public safety,14
+2017-10,2017,Rain and weather,12
+2017-10,2017,Road safety,42
+2017-10,2017,Transport,26
+2017-11,2017,Civic work,14
+2017-11,2017,Coastal environment,3
+2017-11,2017,Education,5
+2017-11,2017,Fire and emergency,6
+2017-11,2017,Governance,14
+2017-11,2017,Health,15
+2017-11,2017,Public safety,4
+2017-11,2017,Rain and weather,5
+2017-11,2017,Road safety,14
+2017-11,2017,Transport,8
+2017-12,2017,Civic work,18
+2017-12,2017,Coastal environment,2
+2017-12,2017,Education,12
+2017-12,2017,Fire and emergency,10
+2017-12,2017,Governance,17
+2017-12,2017,Health,24
+2017-12,2017,Public safety,12
+2017-12,2017,Rain and weather,7
+2017-12,2017,Road safety,34
+2017-12,2017,Transport,16
+2018-01,2018,Civic work,17
+2018-01,2018,Coastal environment,3
+2018-01,2018,Education,14
+2018-01,2018,Fire and emergency,8
+2018-01,2018,Governance,14
+2018-01,2018,Health,27
+2018-01,2018,Public safety,6
+2018-01,2018,Rain and weather,6
+2018-01,2018,Road safety,28
+2018-01,2018,Transport,14
+2018-02,2018,Civic work,16
+2018-02,2018,Coastal environment,1
+2018-02,2018,Education,7
+2018-02,2018,Fire and emergency,3
+2018-02,2018,Governance,10
+2018-02,2018,Health,20
+2018-02,2018,Public safety,13
+2018-02,2018,Rain and weather,6
+2018-02,2018,Road safety,16
+2018-02,2018,Transport,16
+2018-03,2018,Civic work,14
+2018-03,2018,Coastal environment,1
+2018-03,2018,Education,8
+2018-03,2018,Fire and emergency,6
+2018-03,2018,Governance,10
+2018-03,2018,Health,20
+2018-03,2018,Public safety,4
+2018-03,2018,Rain and weather,6
+2018-03,2018,Road safety,23
+2018-03,2018,Transport,10
+2018-04,2018,Civic work,9
+2018-04,2018,Coastal environment,1
+2018-04,2018,Education,12
+2018-04,2018,Fire and emergency,1
+2018-04,2018,Governance,13
+2018-04,2018,Health,13
+2018-04,2018,Public safety,8
+2018-04,2018,Rain and weather,3
+2018-04,2018,Road safety,21
+2018-04,2018,Transport,9
+2018-05,2018,Civic work,12
+2018-05,2018,Coastal environment,6
+2018-05,2018,Communal tension,1
+2018-05,2018,Education,4
+2018-05,2018,Fire and emergency,11
+2018-05,2018,Governance,17
+2018-05,2018,Health,15
+2018-05,2018,Public safety,8
+2018-05,2018,Rain and weather,16
+2018-05,2018,Road safety,18
+2018-05,2018,Transport,10
+2018-06,2018,Civic work,47
+2018-06,2018,Coastal environment,12
+2018-06,2018,Communal tension,2
+2018-06,2018,Education,29
+2018-06,2018,Fire and emergency,15
+2018-06,2018,Governance,38
+2018-06,2018,Health,55
+2018-06,2018,Public safety,20
+2018-06,2018,Rain and weather,62
+2018-06,2018,Road safety,42
+2018-06,2018,Transport,23
+2018-07,2018,Civic work,52
+2018-07,2018,Coastal environment,7
+2018-07,2018,Communal tension,3
+2018-07,2018,Education,32
+2018-07,2018,Fire and emergency,16
+2018-07,2018,Governance,46
+2018-07,2018,Health,58
+2018-07,2018,Public safety,17
+2018-07,2018,Rain and weather,41
+2018-07,2018,Road safety,53
+2018-07,2018,Transport,24
+2018-08,2018,Civic work,49
+2018-08,2018,Coastal environment,14
+2018-08,2018,Communal tension,1
+2018-08,2018,Education,26
+2018-08,2018,Fire and emergency,22
+2018-08,2018,Governance,50
+2018-08,2018,Health,55
+2018-08,2018,Public safety,24
+2018-08,2018,Rain and weather,89
+2018-08,2018,Road safety,71
+2018-08,2018,Transport,27
+2018-09,2018,Civic work,41
+2018-09,2018,Coastal environment,2
+2018-09,2018,Communal tension,3
+2018-09,2018,Education,19
+2018-09,2018,Fire and emergency,13
+2018-09,2018,Governance,33
+2018-09,2018,Health,60
+2018-09,2018,Public safety,15
+2018-09,2018,Rain and weather,55
+2018-09,2018,Road safety,30
+2018-09,2018,Transport,12
+2018-10,2018,Civic work,31
+2018-10,2018,Coastal environment,6
+2018-10,2018,Communal tension,1
+2018-10,2018,Education,24
+2018-10,2018,Fire and emergency,13
+2018-10,2018,Governance,18
+2018-10,2018,Health,47
+2018-10,2018,Public safety,20
+2018-10,2018,Rain and weather,41
+2018-10,2018,Road safety,46
+2018-10,2018,Transport,17
+2018-11,2018,Civic work,28
+2018-11,2018,Coastal environment,3
+2018-11,2018,Communal tension,3
+2018-11,2018,Education,19
+2018-11,2018,Fire and emergency,13
+2018-11,2018,Governance,26
+2018-11,2018,Health,49
+2018-11,2018,Public safety,16
+2018-11,2018,Rain and weather,33
+2018-11,2018,Road safety,30
+2018-11,2018,Transport,15
+2018-12,2018,Civic work,29
+2018-12,2018,Communal tension,2
+2018-12,2018,Education,17
+2018-12,2018,Fire and emergency,21
+2018-12,2018,Governance,24
+2018-12,2018,Health,50
+2018-12,2018,Public safety,13
+2018-12,2018,Rain and weather,21
+2018-12,2018,Road safety,43
+2018-12,2018,Transport,18
+2019-01,2019,Civic work,30
+2019-01,2019,Coastal environment,5
+2019-01,2019,Communal tension,2
+2019-01,2019,Education,27
+2019-01,2019,Fire and emergency,18
+2019-01,2019,Governance,24
+2019-01,2019,Health,63
+2019-01,2019,Public safety,13
+2019-01,2019,Rain and weather,46
+2019-01,2019,Road safety,32
+2019-01,2019,Transport,17
+2019-02,2019,Civic work,28
+2019-02,2019,Coastal environment,6
+2019-02,2019,Communal tension,1
+2019-02,2019,Education,16
+2019-02,2019,Fire and emergency,21
+2019-02,2019,Governance,26
+2019-02,2019,Health,43
+2019-02,2019,Public safety,14
+2019-02,2019,Rain and weather,34
+2019-02,2019,Road safety,34
+2019-02,2019,Transport,17
+2019-03,2019,Civic work,23
+2019-03,2019,Coastal environment,5
+2019-03,2019,Communal tension,4
+2019-03,2019,Education,25
+2019-03,2019,Fire and emergency,15
+2019-03,2019,Governance,18
+2019-03,2019,Health,43
+2019-03,2019,Public safety,16
+2019-03,2019,Rain and weather,26
+2019-03,2019,Road safety,35
+2019-03,2019,Transport,14
+2019-04,2019,Civic work,20
+2019-04,2019,Coastal environment,2
+2019-04,2019,Communal tension,3
+2019-04,2019,Education,16
+2019-04,2019,Fire and emergency,20
+2019-04,2019,Governance,9
+2019-04,2019,Health,28
+2019-04,2019,Public safety,12
+2019-04,2019,Rain and weather,26
+2019-04,2019,Road safety,25
+2019-04,2019,Transport,10
+2019-05,2019,Civic work,29
+2019-05,2019,Coastal environment,3
+2019-05,2019,Communal tension,3
+2019-05,2019,Education,12
+2019-05,2019,Fire and emergency,4
+2019-05,2019,Governance,11
+2019-05,2019,Health,30
+2019-05,2019,Public safety,6
+2019-05,2019,Rain and weather,34
+2019-05,2019,Road safety,34
+2019-05,2019,Transport,11
+2019-06,2019,Civic work,32
+2019-06,2019,Coastal environment,5
+2019-06,2019,Communal tension,1
+2019-06,2019,Education,14
+2019-06,2019,Fire and emergency,11
+2019-06,2019,Governance,14
+2019-06,2019,Health,47
+2019-06,2019,Public safety,8
+2019-06,2019,Rain and weather,59
+2019-06,2019,Road safety,55
+2019-06,2019,Transport,13
+2019-07,2019,Civic work,30
+2019-07,2019,Coastal environment,4
+2019-07,2019,Communal tension,2
+2019-07,2019,Education,18
+2019-07,2019,Fire and emergency,27
+2019-07,2019,Governance,17
+2019-07,2019,Health,92
+2019-07,2019,Public safety,22
+2019-07,2019,Rain and weather,74
+2019-07,2019,Road safety,43
+2019-07,2019,Transport,13
+2019-08,2019,Civic work,39
+2019-08,2019,Coastal environment,4
+2019-08,2019,Communal tension,1
+2019-08,2019,Education,27
+2019-08,2019,Fire and emergency,30
+2019-08,2019,Governance,13
+2019-08,2019,Health,54
+2019-08,2019,Public safety,21
+2019-08,2019,Rain and weather,96
+2019-08,2019,Road safety,37
+2019-08,2019,Transport,16
+2019-09,2019,Civic work,33
+2019-09,2019,Coastal environment,2
+2019-09,2019,Communal tension,1
+2019-09,2019,Education,21
+2019-09,2019,Fire and emergency,12
+2019-09,2019,Governance,15
+2019-09,2019,Health,53
+2019-09,2019,Public safety,9
+2019-09,2019,Rain and weather,62
+2019-09,2019,Road safety,51
+2019-09,2019,Transport,9
+2019-10,2019,Civic work,32
+2019-10,2019,Coastal environment,2
+2019-10,2019,Communal tension,2
+2019-10,2019,Education,23
+2019-10,2019,Fire and emergency,19
+2019-10,2019,Governance,23
+2019-10,2019,Health,44
+2019-10,2019,Public safety,16
+2019-10,2019,Rain and weather,60
+2019-10,2019,Road safety,41
+2019-10,2019,Transport,15
+2019-11,2019,Civic work,34
+2019-11,2019,Coastal environment,5
+2019-11,2019,Communal tension,4
+2019-11,2019,Education,17
+2019-11,2019,Fire and emergency,4
+2019-11,2019,Governance,32
+2019-11,2019,Health,31
+2019-11,2019,Public safety,5
+2019-11,2019,Rain and weather,27
+2019-11,2019,Road safety,35
+2019-11,2019,Transport,11
+2019-12,2019,Civic work,41
+2019-12,2019,Coastal environment,3
+2019-12,2019,Communal tension,3
+2019-12,2019,Education,14
+2019-12,2019,Fire and emergency,21
+2019-12,2019,Governance,31
+2019-12,2019,Health,53
+2019-12,2019,Public safety,15
+2019-12,2019,Rain and weather,32
+2019-12,2019,Road safety,35
+2019-12,2019,Transport,10
+2020-01,2020,Civic work,48
+2020-01,2020,Coastal environment,7
+2020-01,2020,Communal tension,1
+2020-01,2020,Education,17
+2020-01,2020,Fire and emergency,16
+2020-01,2020,Governance,21
+2020-01,2020,Health,37
+2020-01,2020,Public safety,12
+2020-01,2020,Rain and weather,31
+2020-01,2020,Road safety,23
+2020-01,2020,Transport,10
+2020-02,2020,Civic work,29
+2020-02,2020,Coastal environment,6
+2020-02,2020,Education,15
+2020-02,2020,Fire and emergency,22
+2020-02,2020,Governance,12
+2020-02,2020,Health,63
+2020-02,2020,Public safety,5
+2020-02,2020,Rain and weather,32
+2020-02,2020,Road safety,35
+2020-02,2020,Transport,20
+2020-03,2020,Civic work,13
+2020-03,2020,Communal tension,1
+2020-03,2020,Education,12
+2020-03,2020,Fire and emergency,181
+2020-03,2020,Governance,9
+2020-03,2020,Health,205
+2020-03,2020,Public safety,5
+2020-03,2020,Rain and weather,17
+2020-03,2020,Road safety,16
+2020-03,2020,Transport,7
+2020-04,2020,Civic work,6
+2020-04,2020,Coastal environment,2
+2020-04,2020,Communal tension,1
+2020-04,2020,Education,1
+2020-04,2020,Fire and emergency,170
+2020-04,2020,Health,199
+2020-04,2020,Public safety,6
+2020-04,2020,Rain and weather,11
+2020-04,2020,Road safety,6
+2020-04,2020,Transport,1
+2020-05,2020,Civic work,13
+2020-05,2020,Coastal environment,1
+2020-05,2020,Education,5
+2020-05,2020,Fire and emergency,184
+2020-05,2020,Governance,3
+2020-05,2020,Health,198
+2020-05,2020,Public safety,4
+2020-05,2020,Rain and weather,39
+2020-05,2020,Road safety,21
+2020-05,2020,Transport,16
+2020-06,2020,Civic work,24
+2020-06,2020,Education,1
+2020-06,2020,Fire and emergency,174
+2020-06,2020,Governance,7
+2020-06,2020,Health,197
+2020-06,2020,Public safety,5
+2020-06,2020,Rain and weather,26
+2020-06,2020,Road safety,20
+2020-06,2020,Transport,3
+2020-07,2020,Civic work,14
+2020-07,2020,Coastal environment,2
+2020-07,2020,Communal tension,3
+2020-07,2020,Education,8
+2020-07,2020,Fire and emergency,260
+2020-07,2020,Governance,2
+2020-07,2020,Health,294
+2020-07,2020,Public safety,6
+2020-07,2020,Rain and weather,24
+2020-07,2020,Road safety,13
+2020-07,2020,Transport,3
+2020-08,2020,Civic work,14
+2020-08,2020,Coastal environment,1
+2020-08,2020,Communal tension,1
+2020-08,2020,Education,1
+2020-08,2020,Fire and emergency,179
+2020-08,2020,Governance,11
+2020-08,2020,Health,190
+2020-08,2020,Public safety,8
+2020-08,2020,Rain and weather,48
+2020-08,2020,Road safety,33
+2020-08,2020,Transport,3
+2020-09,2020,Civic work,10
+2020-09,2020,Education,1
+2020-09,2020,Fire and emergency,22
+2020-09,2020,Governance,3
+2020-09,2020,Health,17
+2020-09,2020,Public safety,2
+2020-09,2020,Rain and weather,22
+2020-09,2020,Road safety,19
+2020-09,2020,Transport,3
+2020-10,2020,Civic work,9
+2020-10,2020,Education,2
+2020-10,2020,Fire and emergency,15
+2020-10,2020,Governance,3
+2020-10,2020,Health,17
+2020-10,2020,Public safety,5
+2020-10,2020,Rain and weather,14
+2020-10,2020,Road safety,16
+2020-10,2020,Transport,1
+2020-11,2020,Civic work,13
+2020-11,2020,Education,2
+2020-11,2020,Fire and emergency,7
+2020-11,2020,Health,23
+2020-11,2020,Public safety,5
+2020-11,2020,Rain and weather,8
+2020-11,2020,Road safety,12
+2020-12,2020,Civic work,7
+2020-12,2020,Fire and emergency,10
+2020-12,2020,Governance,2
+2020-12,2020,Health,13
+2020-12,2020,Rain and weather,7
+2020-12,2020,Road safety,19
+2020-12,2020,Transport,1
+2021-01,2021,Civic work,14
+2021-01,2021,Coastal environment,1
+2021-01,2021,Fire and emergency,20
+2021-01,2021,Governance,6
+2021-01,2021,Health,15
+2021-01,2021,Public safety,3
+2021-01,2021,Rain and weather,15
+2021-01,2021,Road safety,31
+2021-01,2021,Transport,2
+2021-02,2021,Civic work,5
+2021-02,2021,Coastal environment,2
+2021-02,2021,Education,1
+2021-02,2021,Fire and emergency,7
+2021-02,2021,Governance,3
+2021-02,2021,Health,6
+2021-02,2021,Public safety,2
+2021-02,2021,Rain and weather,6
+2021-02,2021,Road safety,25
+2021-02,2021,Transport,1
+2021-03,2021,Civic work,16
+2021-03,2021,Education,3
+2021-03,2021,Fire and emergency,14
+2021-03,2021,Governance,1
+2021-03,2021,Health,8
+2021-03,2021,Public safety,5
+2021-03,2021,Rain and weather,14
+2021-03,2021,Road safety,34
+2021-04,2021,Civic work,16
+2021-04,2021,Education,1
+2021-04,2021,Fire and emergency,11
+2021-04,2021,Governance,7
+2021-04,2021,Health,24
+2021-04,2021,Public safety,6
+2021-04,2021,Rain and weather,11
+2021-04,2021,Road safety,31
+2021-04,2021,Transport,2
+2021-05,2021,Civic work,10
+2021-05,2021,Fire and emergency,5
+2021-05,2021,Governance,4
+2021-05,2021,Health,15
+2021-05,2021,Public safety,2
+2021-05,2021,Rain and weather,16
+2021-05,2021,Road safety,19
+2021-05,2021,Transport,3
+2021-06,2021,Civic work,17
+2021-06,2021,Coastal environment,2
+2021-06,2021,Education,1
+2021-06,2021,Fire and emergency,5
+2021-06,2021,Governance,5
+2021-06,2021,Health,13
+2021-06,2021,Public safety,2
+2021-06,2021,Rain and weather,12
+2021-06,2021,Road safety,17
+2021-06,2021,Transport,1
+2021-07,2021,Civic work,11
+2021-07,2021,Education,1
+2021-07,2021,Fire and emergency,8
+2021-07,2021,Health,16
+2021-07,2021,Public safety,7
+2021-07,2021,Rain and weather,28
+2021-07,2021,Road safety,19
+2021-07,2021,Transport,6
+2021-08,2021,Civic work,16
+2021-08,2021,Education,1
+2021-08,2021,Fire and emergency,5
+2021-08,2021,Governance,1
+2021-08,2021,Health,7
+2021-08,2021,Public safety,1
+2021-08,2021,Rain and weather,10
+2021-08,2021,Road safety,15
+2021-08,2021,Transport,2
+2021-09,2021,Civic work,9
+2021-09,2021,Education,6
+2021-09,2021,Fire and emergency,4
+2021-09,2021,Governance,2
+2021-09,2021,Health,13
+2021-09,2021,Other public news,2
+2021-09,2021,Public safety,4
+2021-09,2021,Rain and weather,3
+2021-09,2021,Road safety,14
+2021-09,2021,Transport,1
+2021-10,2021,Civic work,12
+2021-10,2021,Education,3
+2021-10,2021,Fire and emergency,4
+2021-10,2021,Governance,1
+2021-10,2021,Health,13
+2021-10,2021,Other public news,1
+2021-10,2021,Public safety,3
+2021-10,2021,Rain and weather,14
+2021-10,2021,Road safety,28
+2021-10,2021,Transport,2
+2021-11,2021,Civic work,11
+2021-11,2021,Education,2
+2021-11,2021,Fire and emergency,5
+2021-11,2021,Governance,4
+2021-11,2021,Health,9
+2021-11,2021,Public safety,2
+2021-11,2021,Rain and weather,15
+2021-11,2021,Road safety,23
+2021-11,2021,Transport,5
+2021-12,2021,Civic work,9
+2021-12,2021,Fire and emergency,5
+2021-12,2021,Health,6
+2021-12,2021,Public safety,4
+2021-12,2021,Rain and weather,5
+2021-12,2021,Road safety,20
+2021-12,2021,Transport,1
+2022-01,2022,Civic work,9
+2022-01,2022,Fire and emergency,4
+2022-01,2022,Governance,1
+2022-01,2022,Health,9
+2022-01,2022,Public safety,4
+2022-01,2022,Rain and weather,11
+2022-01,2022,Road safety,21
+2022-01,2022,Transport,4
+2022-02,2022,Civic work,5
+2022-02,2022,Fire and emergency,2
+2022-02,2022,Governance,2
+2022-02,2022,Health,5
+2022-02,2022,Public safety,4
+2022-02,2022,Rain and weather,4
+2022-02,2022,Road safety,23
+2022-03,2022,Civic work,10
+2022-03,2022,Education,4
+2022-03,2022,Fire and emergency,4
+2022-03,2022,Governance,2
+2022-03,2022,Health,12
+2022-03,2022,Public safety,5
+2022-03,2022,Rain and weather,7
+2022-03,2022,Road safety,27
+2022-03,2022,Transport,2
+2022-04,2022,Civic work,21
+2022-04,2022,Education,7
+2022-04,2022,Fire and emergency,15
+2022-04,2022,Governance,17
+2022-04,2022,Health,33
+2022-04,2022,Public safety,20
+2022-04,2022,Rain and weather,7
+2022-04,2022,Road safety,23
+2022-04,2022,Transport,4
+2022-05,2022,Civic work,25
+2022-05,2022,Coastal environment,1
+2022-05,2022,Education,16
+2022-05,2022,Fire and emergency,19
+2022-05,2022,Governance,23
+2022-05,2022,Health,43
+2022-05,2022,Public safety,13
+2022-05,2022,Rain and weather,13
+2022-05,2022,Road safety,25
+2022-05,2022,Transport,7
+2022-06,2022,Civic work,22
+2022-06,2022,Coastal environment,2
+2022-06,2022,Education,20
+2022-06,2022,Fire and emergency,18
+2022-06,2022,Governance,17
+2022-06,2022,Health,45
+2022-06,2022,Other public news,3
+2022-06,2022,Public safety,21
+2022-06,2022,Rain and weather,12
+2022-06,2022,Road safety,35
+2022-06,2022,Transport,8
+2022-07,2022,Civic work,35
+2022-07,2022,Coastal environment,5
+2022-07,2022,Education,8
+2022-07,2022,Fire and emergency,29
+2022-07,2022,Governance,22
+2022-07,2022,Health,47
+2022-07,2022,Other public news,2
+2022-07,2022,Public safety,16
+2022-07,2022,Rain and weather,31
+2022-07,2022,Road safety,34
+2022-07,2022,Transport,14
+2022-08,2022,Civic work,28
+2022-08,2022,Coastal environment,1
+2022-08,2022,Education,23
+2022-08,2022,Fire and emergency,14
+2022-08,2022,Governance,15
+2022-08,2022,Health,37
+2022-08,2022,Public safety,13
+2022-08,2022,Rain and weather,12
+2022-08,2022,Road safety,37
+2022-08,2022,Transport,13
+2022-09,2022,Civic work,30
+2022-09,2022,Coastal environment,5
+2022-09,2022,Education,20
+2022-09,2022,Fire and emergency,22
+2022-09,2022,Governance,23
+2022-09,2022,Health,63
+2022-09,2022,Public safety,28
+2022-09,2022,Rain and weather,8
+2022-09,2022,Road safety,52
+2022-09,2022,Transport,21
+2022-10,2022,Civic work,27
+2022-10,2022,Coastal environment,4
+2022-10,2022,Education,16
+2022-10,2022,Fire and emergency,13
+2022-10,2022,Governance,24
+2022-10,2022,Health,39
+2022-10,2022,Public safety,18
+2022-10,2022,Rain and weather,5
+2022-10,2022,Road safety,39
+2022-10,2022,Transport,13
+2022-11,2022,Civic work,26
+2022-11,2022,Coastal environment,12
+2022-11,2022,Education,21
+2022-11,2022,Fire and emergency,34
+2022-11,2022,Governance,50
+2022-11,2022,Health,46
+2022-11,2022,Public safety,50
+2022-11,2022,Rain and weather,14
+2022-11,2022,Road safety,64
+2022-11,2022,Transport,36
+2022-12,2022,Civic work,56
+2022-12,2022,Coastal environment,7
+2022-12,2022,Education,36
+2022-12,2022,Fire and emergency,18
+2022-12,2022,Governance,42
+2022-12,2022,Health,84
+2022-12,2022,Other public news,22
+2022-12,2022,Public safety,37
+2022-12,2022,Rain and weather,33
+2022-12,2022,Road safety,85
+2022-12,2022,Transport,41
+2023-01,2023,Civic work,59
+2023-01,2023,Coastal environment,11
+2023-01,2023,Education,41
+2023-01,2023,Fire and emergency,20
+2023-01,2023,Governance,48
+2023-01,2023,Health,66
+2023-01,2023,Other public news,39
+2023-01,2023,Public safety,46
+2023-01,2023,Rain and weather,34
+2023-01,2023,Road safety,68
+2023-01,2023,Transport,33
+2023-02,2023,Civic work,44
+2023-02,2023,Coastal environment,3
+2023-02,2023,Education,20
+2023-02,2023,Fire and emergency,10
+2023-02,2023,Governance,29
+2023-02,2023,Health,34
+2023-02,2023,Other public news,31
+2023-02,2023,Public safety,29
+2023-02,2023,Rain and weather,25
+2023-02,2023,Road safety,43
+2023-02,2023,Transport,19
+2023-03,2023,Civic work,78
+2023-03,2023,Coastal environment,4
+2023-03,2023,Education,24
+2023-03,2023,Fire and emergency,22
+2023-03,2023,Governance,54
+2023-03,2023,Health,56
+2023-03,2023,Other public news,37
+2023-03,2023,Public safety,38
+2023-03,2023,Rain and weather,50
+2023-03,2023,Road safety,73
+2023-03,2023,Transport,25
+2023-04,2023,Civic work,72
+2023-04,2023,Coastal environment,9
+2023-04,2023,Education,40
+2023-04,2023,Fire and emergency,16
+2023-04,2023,Governance,65
+2023-04,2023,Health,57
+2023-04,2023,Other public news,81
+2023-04,2023,Public safety,34
+2023-04,2023,Rain and weather,52
+2023-04,2023,Road safety,89
+2023-04,2023,Transport,29
+2023-05,2023,Civic work,41
+2023-05,2023,Coastal environment,6
+2023-05,2023,Education,34
+2023-05,2023,Fire and emergency,11
+2023-05,2023,Governance,21
+2023-05,2023,Health,32
+2023-05,2023,Other public news,9
+2023-05,2023,Public safety,17
+2023-05,2023,Rain and weather,18
+2023-05,2023,Road safety,83
+2023-05,2023,Transport,32
+2023-06,2023,Civic work,51
+2023-06,2023,Coastal environment,11
+2023-06,2023,Education,50
+2023-06,2023,Fire and emergency,6
+2023-06,2023,Governance,34
+2023-06,2023,Health,41
+2023-06,2023,Public safety,25
+2023-06,2023,Rain and weather,30
+2023-06,2023,Road safety,100
+2023-06,2023,Transport,38
+2023-07,2023,Civic work,75
+2023-07,2023,Coastal environment,8
+2023-07,2023,Education,52
+2023-07,2023,Fire and emergency,18
+2023-07,2023,Governance,37
+2023-07,2023,Health,41
+2023-07,2023,Other public news,4
+2023-07,2023,Public safety,24
+2023-07,2023,Rain and weather,72
+2023-07,2023,Road safety,99
+2023-07,2023,Transport,45
+2023-08,2023,Civic work,54
+2023-08,2023,Coastal environment,9
+2023-08,2023,Education,55
+2023-08,2023,Fire and emergency,8
+2023-08,2023,Governance,52
+2023-08,2023,Health,62
+2023-08,2023,Other public news,20
+2023-08,2023,Public safety,47
+2023-08,2023,Rain and weather,38
+2023-08,2023,Road safety,88
+2023-08,2023,Transport,19
+2023-09,2023,Civic work,76
+2023-09,2023,Coastal environment,12
+2023-09,2023,Education,39
+2023-09,2023,Fire and emergency,8
+2023-09,2023,Governance,42
+2023-09,2023,Health,70
+2023-09,2023,Other public news,19
+2023-09,2023,Public safety,29
+2023-09,2023,Rain and weather,28
+2023-09,2023,Road safety,97
+2023-09,2023,Transport,36
+2023-10,2023,Civic work,81
+2023-10,2023,Coastal environment,9
+2023-10,2023,Education,32
+2023-10,2023,Fire and emergency,15
+2023-10,2023,Governance,57
+2023-10,2023,Health,67
+2023-10,2023,Other public news,32
+2023-10,2023,Public safety,25
+2023-10,2023,Rain and weather,33
+2023-10,2023,Road safety,120
+2023-10,2023,Transport,30
+2023-11,2023,Civic work,57
+2023-11,2023,Coastal environment,8
+2023-11,2023,Education,41
+2023-11,2023,Fire and emergency,20
+2023-11,2023,Governance,38
+2023-11,2023,Health,56
+2023-11,2023,Other public news,22
+2023-11,2023,Public safety,27
+2023-11,2023,Rain and weather,28
+2023-11,2023,Road safety,105
+2023-11,2023,Transport,16
+2023-12,2023,Civic work,45
+2023-12,2023,Coastal environment,12
+2023-12,2023,Education,35
+2023-12,2023,Fire and emergency,10
+2023-12,2023,Governance,31
+2023-12,2023,Health,63
+2023-12,2023,Other public news,12
+2023-12,2023,Public safety,23
+2023-12,2023,Rain and weather,11
+2023-12,2023,Road safety,84
+2023-12,2023,Transport,21
+2024-01,2024,Civic work,43
+2024-01,2024,Coastal environment,4
+2024-01,2024,Education,26
+2024-01,2024,Fire and emergency,13
+2024-01,2024,Governance,28
+2024-01,2024,Health,44
+2024-01,2024,Other public news,21
+2024-01,2024,Public safety,11
+2024-01,2024,Rain and weather,25
+2024-01,2024,Road safety,63
+2024-01,2024,Transport,10
+2024-02,2024,Civic work,49
+2024-02,2024,Coastal environment,4
+2024-02,2024,Education,70
+2024-02,2024,Fire and emergency,9
+2024-02,2024,Governance,48
+2024-02,2024,Health,43
+2024-02,2024,Other public news,17
+2024-02,2024,Public safety,25
+2024-02,2024,Rain and weather,18
+2024-02,2024,Road safety,86
+2024-02,2024,Transport,27
+2024-03,2024,Civic work,70
+2024-03,2024,Coastal environment,8
+2024-03,2024,Education,29
+2024-03,2024,Fire and emergency,42
+2024-03,2024,Governance,66
+2024-03,2024,Health,57
+2024-03,2024,Other public news,22
+2024-03,2024,Public safety,34
+2024-03,2024,Rain and weather,72
+2024-03,2024,Road safety,85
+2024-03,2024,Transport,23
+2024-04,2024,Civic work,82
+2024-04,2024,Coastal environment,11
+2024-04,2024,Education,27
+2024-04,2024,Fire and emergency,22
+2024-04,2024,Governance,38
+2024-04,2024,Health,64
+2024-04,2024,Other public news,34
+2024-04,2024,Public safety,18
+2024-04,2024,Rain and weather,76
+2024-04,2024,Road safety,96
+2024-04,2024,Transport,26
+2024-05,2024,Civic work,86
+2024-05,2024,Coastal environment,9
+2024-05,2024,Education,31
+2024-05,2024,Fire and emergency,19
+2024-05,2024,Governance,44
+2024-05,2024,Health,81
+2024-05,2024,Other public news,21
+2024-05,2024,Public safety,21
+2024-05,2024,Rain and weather,75
+2024-05,2024,Road safety,123
+2024-05,2024,Transport,26
+2024-06,2024,Civic work,55
+2024-06,2024,Coastal environment,19
+2024-06,2024,Education,21
+2024-06,2024,Fire and emergency,20
+2024-06,2024,Governance,24
+2024-06,2024,Health,45
+2024-06,2024,Public safety,8
+2024-06,2024,Rain and weather,59
+2024-06,2024,Road safety,93
+2024-06,2024,Transport,23
+2024-07,2024,Civic work,93
+2024-07,2024,Coastal environment,20
+2024-07,2024,Education,31
+2024-07,2024,Fire and emergency,23
+2024-07,2024,Governance,48
+2024-07,2024,Health,54
+2024-07,2024,Public safety,12
+2024-07,2024,Rain and weather,92
+2024-07,2024,Road safety,103
+2024-07,2024,Transport,35
+2024-08,2024,Civic work,59
+2024-08,2024,Coastal environment,12
+2024-08,2024,Education,25
+2024-08,2024,Fire and emergency,12
+2024-08,2024,Governance,36
+2024-08,2024,Health,39
+2024-08,2024,Public safety,12
+2024-08,2024,Rain and weather,51
+2024-08,2024,Road safety,83
+2024-08,2024,Transport,26
+2024-09,2024,Civic work,68
+2024-09,2024,Coastal environment,7
+2024-09,2024,Education,32
+2024-09,2024,Fire and emergency,18
+2024-09,2024,Governance,38
+2024-09,2024,Health,62
+2024-09,2024,Public safety,8
+2024-09,2024,Rain and weather,44
+2024-09,2024,Road safety,106
+2024-09,2024,Transport,37
+2024-10,2024,Civic work,36
+2024-10,2024,Coastal environment,8
+2024-10,2024,Education,18
+2024-10,2024,Fire and emergency,18
+2024-10,2024,Governance,29
+2024-10,2024,Health,53
+2024-10,2024,Public safety,9
+2024-10,2024,Rain and weather,39
+2024-10,2024,Road safety,122
+2024-10,2024,Transport,30
+2024-11,2024,Civic work,47
+2024-11,2024,Coastal environment,5
+2024-11,2024,Education,24
+2024-11,2024,Fire and emergency,15
+2024-11,2024,Governance,35
+2024-11,2024,Health,58
+2024-11,2024,Public safety,16
+2024-11,2024,Rain and weather,28
+2024-11,2024,Road safety,102
+2024-11,2024,Transport,31
+2024-12,2024,Civic work,48
+2024-12,2024,Coastal environment,14
+2024-12,2024,Education,21
+2024-12,2024,Fire and emergency,39
+2024-12,2024,Governance,42
+2024-12,2024,Health,62
+2024-12,2024,Public safety,21
+2024-12,2024,Rain and weather,35
+2024-12,2024,Road safety,147
+2024-12,2024,Transport,49
+2025-01,2025,Civic work,52
+2025-01,2025,Coastal environment,7
+2025-01,2025,Education,11
+2025-01,2025,Fire and emergency,20
+2025-01,2025,Governance,43
+2025-01,2025,Health,54
+2025-01,2025,Public safety,12
+2025-01,2025,Rain and weather,28
+2025-01,2025,Road safety,104
+2025-01,2025,Transport,31
+2025-02,2025,Civic work,41
+2025-02,2025,Coastal environment,8
+2025-02,2025,Communal tension,1
+2025-02,2025,Education,7
+2025-02,2025,Fire and emergency,29
+2025-02,2025,Governance,35
+2025-02,2025,Health,45
+2025-02,2025,Public safety,15
+2025-02,2025,Rain and weather,31
+2025-02,2025,Road safety,110
+2025-02,2025,Transport,32
+2025-03,2025,Civic work,42
+2025-03,2025,Coastal environment,5
+2025-03,2025,Education,15
+2025-03,2025,Fire and emergency,18
+2025-03,2025,Governance,39
+2025-03,2025,Health,46
+2025-03,2025,Public safety,14
+2025-03,2025,Rain and weather,49
+2025-03,2025,Road safety,110
+2025-03,2025,Transport,40
+2025-04,2025,Civic work,57
+2025-04,2025,Coastal environment,6
+2025-04,2025,Communal tension,1
+2025-04,2025,Education,12
+2025-04,2025,Fire and emergency,23
+2025-04,2025,Governance,52
+2025-04,2025,Health,52
+2025-04,2025,Public safety,19
+2025-04,2025,Rain and weather,55
+2025-04,2025,Road safety,121
+2025-04,2025,Transport,41
+2025-05,2025,Civic work,54
+2025-05,2025,Coastal environment,18
+2025-05,2025,Communal tension,1
+2025-05,2025,Education,26
+2025-05,2025,Fire and emergency,22
+2025-05,2025,Governance,65
+2025-05,2025,Health,67
+2025-05,2025,Public safety,21
+2025-05,2025,Rain and weather,121
+2025-05,2025,Road safety,147
+2025-05,2025,Transport,39
+2025-06,2025,Civic work,71
+2025-06,2025,Coastal environment,19
+2025-06,2025,Education,20
+2025-06,2025,Fire and emergency,29
+2025-06,2025,Governance,60
+2025-06,2025,Health,64
+2025-06,2025,Public safety,18
+2025-06,2025,Rain and weather,89
+2025-06,2025,Road safety,149
+2025-06,2025,Transport,51
+2025-07,2025,Civic work,78
+2025-07,2025,Coastal environment,27
+2025-07,2025,Education,26
+2025-07,2025,Fire and emergency,21
+2025-07,2025,Governance,69
+2025-07,2025,Health,58
+2025-07,2025,Public safety,12
+2025-07,2025,Rain and weather,98
+2025-07,2025,Road safety,134
+2025-07,2025,Transport,50
+2025-08,2025,Civic work,59
+2025-08,2025,Coastal environment,17
+2025-08,2025,Education,20
+2025-08,2025,Fire and emergency,9
+2025-08,2025,Governance,47
+2025-08,2025,Health,56
+2025-08,2025,Public safety,19
+2025-08,2025,Rain and weather,68
+2025-08,2025,Road safety,112
+2025-08,2025,Transport,39
+2025-09,2025,Civic work,53
+2025-09,2025,Coastal environment,14
+2025-09,2025,Education,13
+2025-09,2025,Fire and emergency,9
+2025-09,2025,Governance,44
+2025-09,2025,Health,53
+2025-09,2025,Public safety,20
+2025-09,2025,Rain and weather,30
+2025-09,2025,Road safety,146
+2025-09,2025,Transport,39
+2025-10,2025,Civic work,30
+2025-10,2025,Coastal environment,15
+2025-10,2025,Education,15
+2025-10,2025,Fire and emergency,26
+2025-10,2025,Governance,35
+2025-10,2025,Health,51
+2025-10,2025,Public safety,18
+2025-10,2025,Rain and weather,46
+2025-10,2025,Road safety,107
+2025-10,2025,Transport,30
+2025-11,2025,Civic work,44
+2025-11,2025,Coastal environment,11
+2025-11,2025,Education,17
+2025-11,2025,Fire and emergency,18
+2025-11,2025,Governance,47
+2025-11,2025,Health,59
+2025-11,2025,Public safety,13
+2025-11,2025,Rain and weather,30
+2025-11,2025,Road safety,120
+2025-11,2025,Transport,32
+2025-12,2025,Civic work,39
+2025-12,2025,Coastal environment,9
+2025-12,2025,Education,17
+2025-12,2025,Fire and emergency,18
+2025-12,2025,Governance,41
+2025-12,2025,Health,46
+2025-12,2025,Public safety,11
+2025-12,2025,Rain and weather,31
+2025-12,2025,Road safety,85
+2025-12,2025,Transport,38
+2026-01,2026,Civic work,45
+2026-01,2026,Coastal environment,13
+2026-01,2026,Education,20
+2026-01,2026,Fire and emergency,26
+2026-01,2026,Governance,41
+2026-01,2026,Health,58
+2026-01,2026,Public safety,16
+2026-01,2026,Rain and weather,31
+2026-01,2026,Road safety,108
+2026-01,2026,Transport,41
+2026-02,2026,Civic work,56
+2026-02,2026,Coastal environment,16
+2026-02,2026,Education,20
+2026-02,2026,Fire and emergency,31
+2026-02,2026,Governance,43
+2026-02,2026,Health,73
+2026-02,2026,Public safety,19
+2026-02,2026,Rain and weather,43
+2026-02,2026,Road safety,99
+2026-02,2026,Transport,55
+2026-03,2026,Civic work,44
+2026-03,2026,Coastal environment,13
+2026-03,2026,Communal tension,2
+2026-03,2026,Education,18
+2026-03,2026,Fire and emergency,17
+2026-03,2026,Governance,49
+2026-03,2026,Health,61
+2026-03,2026,Public safety,17
+2026-03,2026,Rain and weather,39
+2026-03,2026,Road safety,91
+2026-03,2026,Transport,43
+2026-04,2026,Civic work,36
+2026-04,2026,Coastal environment,9
+2026-04,2026,Communal tension,1
+2026-04,2026,Education,27
+2026-04,2026,Fire and emergency,22
+2026-04,2026,Governance,27
+2026-04,2026,Health,57
+2026-04,2026,Public safety,16
+2026-04,2026,Rain and weather,36
+2026-04,2026,Road safety,93
+2026-04,2026,Transport,38
+2026-05,2026,Civic work,74
+2026-05,2026,Coastal environment,36
+2026-05,2026,Education,26
+2026-05,2026,Fire and emergency,24
+2026-05,2026,Governance,36
+2026-05,2026,Health,67
+2026-05,2026,Public safety,15
+2026-05,2026,Rain and weather,71
+2026-05,2026,Road safety,106
+2026-05,2026,Transport,73
+2026-06,2026,Civic work,18
+2026-06,2026,Coastal environment,2
+2026-06,2026,Communal tension,4
+2026-06,2026,Education,5
+2026-06,2026,Fire and emergency,1
+2026-06,2026,Governance,17
+2026-06,2026,Health,7
+2026-06,2026,Public safety,3
+2026-06,2026,Rain and weather,10
+2026-06,2026,Road safety,14
+2026-06,2026,Transport,10
+2026-09,2026,Health,1

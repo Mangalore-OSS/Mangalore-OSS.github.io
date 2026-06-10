@@ -1,0 +1,81 @@
+:root {
+  color-scheme: light;
+  --hue-primary: 210;
+  --hue-step: 30;
+  --hue-complement: calc(var(--hue-primary) + 180);
+  --hue-base: var(--hue-primary);
+  --hue-a: var(--hue-primary);
+  --hue-b: calc(var(--hue-primary) + var(--hue-step));
+  --hue-c: calc(var(--hue-primary) + (var(--hue-step) * 2));
+  --hue-d: var(--hue-complement);
+  --transparent: hsla(0, 0%, 0%, 0);
+  --page: hsla(var(--hue-primary), 46%, 97%, 1);
+  --paper: hsla(var(--hue-primary), 48%, 99%, 1);
+  --panel: hsla(var(--hue-primary), 42%, 95%, 1);
+  --panel-quiet: hsla(var(--hue-primary), 40%, 93%, 0.56);
+  --ink: hsla(var(--hue-primary), 16%, 9%, 1);
+  --muted: hsla(var(--hue-primary), 9%, 42%, 1);
+  --subtle: hsla(var(--hue-primary), 9%, 38%, 0.78);
+  --faded: hsla(var(--hue-primary), 9%, 38%, 0.58);
+  --axis-label: hsla(var(--hue-primary), 9%, 38%, 0.48);
+  --rule: hsla(var(--hue-primary), 20%, 55%, 0.16);
+  --accent: hsla(var(--hue-primary), 28%, 14%, 1);
+  --accent-ink: hsla(var(--hue-primary), 56%, 98%, 1);
+  --series-a: hsla(var(--hue-a), 38%, 42%, 1);
+  --series-b: hsla(var(--hue-b), 36%, 43%, 1);
+  --series-c: hsla(var(--hue-c), 34%, 41%, 1);
+  --series-d: hsla(var(--hue-d), 33%, 43%, 1);
+  --soft-a: hsla(var(--hue-a), 46%, 92%, 1);
+  --soft-b: hsla(var(--hue-b), 44%, 92%, 1);
+  --soft-c: hsla(var(--hue-c), 42%, 92%, 1);
+  --soft-d: hsla(var(--hue-d), 42%, 92%, 1);
+  --focus: hsla(var(--hue-primary), 42%, 28%, 1);
+  --shadow-soft: hsla(var(--hue-primary), 35%, 18%, 0.045);
+  --shadow-medium: hsla(var(--hue-primary), 35%, 18%, 0.07);
+  --shadow-strong: hsla(var(--hue-primary), 35%, 18%, 0.1);
+  --radius: 22px;
+  --gutter-page: 36px;
+  --gutter-content: 58px;
+}
+
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --page: hsla(var(--hue-primary), 24%, 10%, 1);
+  --paper: hsla(var(--hue-primary), 21%, 15%, 1);
+  --panel: hsla(var(--hue-primary), 20%, 17%, 1);
+  --panel-quiet: hsla(var(--hue-primary), 20%, 18%, 0.52);
+  --ink: hsla(var(--hue-primary), 42%, 93%, 1);
+  --muted: hsla(var(--hue-primary), 15%, 68%, 1);
+  --subtle: hsla(var(--hue-primary), 18%, 76%, 0.78);
+  --faded: hsla(var(--hue-primary), 18%, 76%, 0.58);
+  --axis-label: hsla(var(--hue-primary), 18%, 76%, 0.48);
+  --rule: hsla(var(--hue-primary), 18%, 72%, 0.16);
+  --accent: hsla(var(--hue-primary), 52%, 89%, 1);
+  --accent-ink: hsla(var(--hue-primary), 24%, 13%, 1);
+  --series-a: hsla(var(--hue-a), 42%, 68%, 1);
+  --series-b: hsla(var(--hue-b), 42%, 68%, 1);
+  --series-c: hsla(var(--hue-c), 40%, 67%, 1);
+  --series-d: hsla(var(--hue-d), 40%, 68%, 1);
+  --soft-a: hsla(var(--hue-a), 28%, 24%, 1);
+  --soft-b: hsla(var(--hue-b), 28%, 24%, 1);
+  --soft-c: hsla(var(--hue-c), 27%, 24%, 1);
+  --soft-d: hsla(var(--hue-d), 27%, 24%, 1);
+  --focus: hsla(var(--hue-primary), 48%, 82%, 1);
+  --shadow-soft: hsla(0, 0%, 0%, 0.16);
+  --shadow-medium: hsla(0, 0%, 0%, 0.22);
+  --shadow-strong: hsla(0, 0%, 0%, 0.28);
+}
+
+@media (max-width: 820px) {
+  :root {
+    --gutter-page: 22px;
+    --gutter-content: 28px;
+  }
+}
+
+@media (max-width: 460px) {
+  :root {
+    --gutter-page: 14px;
+    --gutter-content: 22px;
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Mangalore Smart City tender and project records",
+  "generated_from": "Processed tender release, 2026-06-05",
+  "project_count": 34,
+  "source_record_count": 1109,
+  "document_count": 529,
+  "work_order_project_count": 22,
+  "work_order_amount_total_inr": 3318800000.0,
+  "actual_completion_project_count": 6,
+  "public_party_lead_project_count": 7,
+  "verified_winner_project_count": 0,
+  "status_counts": {
+    "completed": 25,
+    "ongoing": 5,
+    "unknown": 2,
+    "tendered": 1,
+    "under_hold": 1
+  },
+  "files": {
+    "project_index": "project_index.csv",
+    "opportunities": "opportunities.csv",
+    "documents": "documents.csv",
+    "source_records": "source_records.csv",
+    "work_orders": "work_orders.csv",
+    "boq_totals": "boq_totals.csv",
+    "timeline_events": "timeline_events.csv",
+    "public_party_leads": "public_party_leads.csv",
+    "award_closure_dossiers": "award_closure_dossiers.csv"
+  },
+  "caveats": [
+    "Public party leads are not the same as verified tender winners.",
+    "The source corpus is selected around Mangaluru Smart City and related public works records.",
+    "Local filesystem paths, raw payload blobs, and private trace hashes are not included in this public release."
+  ]
+}

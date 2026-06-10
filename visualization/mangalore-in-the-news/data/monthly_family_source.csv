@@ -1,0 +1,2555 @@
+event_month,event_year,family_group,family_group_label,source_label,event_count
+2007-05,2007,road_safety,Road safety,Daijiworld,1
+2007-09,2007,civic_infrastructure,Civic work,Daijiworld,1
+2007-09,2007,fire_emergency,Fire and emergency,Daijiworld,1
+2007-09,2007,road_safety,Road safety,Daijiworld,3
+2007-10,2007,civic_infrastructure,Civic work,Daijiworld,1
+2007-10,2007,education,Education,Daijiworld,2
+2007-10,2007,health,Health,Daijiworld,2
+2007-10,2007,flood_weather,Rain and weather,Daijiworld,2
+2007-10,2007,road_safety,Road safety,Daijiworld,2
+2007-11,2007,civic_infrastructure,Civic work,Daijiworld,2
+2007-11,2007,education,Education,Daijiworld,1
+2007-11,2007,fire_emergency,Fire and emergency,Daijiworld,2
+2007-11,2007,other,Other,Daijiworld,1
+2007-11,2007,flood_weather,Rain and weather,Daijiworld,1
+2007-11,2007,road_safety,Road safety,Daijiworld,10
+2007-12,2007,fire_emergency,Fire and emergency,Daijiworld,1
+2007-12,2007,other,Other,Daijiworld,3
+2007-12,2007,flood_weather,Rain and weather,Daijiworld,1
+2007-12,2007,road_safety,Road safety,Daijiworld,8
+2008-01,2008,civic_infrastructure,Civic work,Daijiworld,1
+2008-01,2008,fire_emergency,Fire and emergency,Daijiworld,1
+2008-01,2008,other,Other,Daijiworld,1
+2008-01,2008,road_safety,Road safety,Daijiworld,8
+2008-02,2008,civic_infrastructure,Civic work,Daijiworld,1
+2008-02,2008,education,Education,Daijiworld,1
+2008-02,2008,governance,Governance,Daijiworld,1
+2008-02,2008,health,Health,Daijiworld,2
+2008-02,2008,other,Other,Daijiworld,1
+2008-02,2008,crime_public_safety,Public safety,Daijiworld,2
+2008-02,2008,flood_weather,Rain and weather,Daijiworld,3
+2008-02,2008,road_safety,Road safety,Daijiworld,2
+2008-03,2008,education,Education,Daijiworld,5
+2008-03,2008,fire_emergency,Fire and emergency,Daijiworld,5
+2008-03,2008,crime_public_safety,Public safety,Daijiworld,1
+2008-03,2008,road_safety,Road safety,Daijiworld,3
+2008-04,2008,civic_infrastructure,Civic work,Daijiworld,2
+2008-04,2008,fire_emergency,Fire and emergency,Daijiworld,3
+2008-04,2008,road_safety,Road safety,Daijiworld,1
+2008-05,2008,education,Education,Daijiworld,1
+2008-05,2008,fire_emergency,Fire and emergency,Daijiworld,1
+2008-05,2008,other,Other,Daijiworld,1
+2008-05,2008,crime_public_safety,Public safety,Daijiworld,1
+2008-05,2008,road_safety,Road safety,Daijiworld,5
+2008-06,2008,civic_infrastructure,Civic work,Daijiworld,1
+2008-06,2008,health,Health,Daijiworld,2
+2008-06,2008,other,Other,Daijiworld,1
+2008-06,2008,crime_public_safety,Public safety,Daijiworld,8
+2008-06,2008,flood_weather,Rain and weather,Daijiworld,6
+2008-06,2008,road_safety,Road safety,Daijiworld,7
+2008-07,2008,education,Education,Daijiworld,1
+2008-07,2008,fire_emergency,Fire and emergency,Daijiworld,2
+2008-07,2008,other,Other,Daijiworld,1
+2008-07,2008,crime_public_safety,Public safety,Daijiworld,1
+2008-07,2008,flood_weather,Rain and weather,Daijiworld,2
+2008-07,2008,road_safety,Road safety,Daijiworld,7
+2008-08,2008,civic_infrastructure,Civic work,Daijiworld,2
+2008-08,2008,education,Education,Daijiworld,3
+2008-08,2008,fire_emergency,Fire and emergency,Daijiworld,2
+2008-08,2008,other,Other,Daijiworld,1
+2008-08,2008,crime_public_safety,Public safety,Daijiworld,1
+2008-08,2008,flood_weather,Rain and weather,Daijiworld,3
+2008-08,2008,road_safety,Road safety,Daijiworld,10
+2008-09,2008,civic_infrastructure,Civic work,Daijiworld,1
+2008-09,2008,education,Education,Daijiworld,1
+2008-09,2008,fire_emergency,Fire and emergency,Daijiworld,3
+2008-09,2008,health,Health,Daijiworld,1
+2008-09,2008,other,Other,Daijiworld,3
+2008-09,2008,flood_weather,Rain and weather,Daijiworld,2
+2008-09,2008,road_safety,Road safety,Daijiworld,5
+2008-10,2008,civic_infrastructure,Civic work,Daijiworld,1
+2008-10,2008,fire_emergency,Fire and emergency,Daijiworld,1
+2008-10,2008,governance,Governance,Daijiworld,1
+2008-10,2008,other,Other,Daijiworld,2
+2008-10,2008,crime_public_safety,Public safety,Daijiworld,1
+2008-10,2008,road_safety,Road safety,Daijiworld,5
+2008-11,2008,civic_infrastructure,Civic work,Daijiworld,3
+2008-11,2008,education,Education,Daijiworld,1
+2008-11,2008,fire_emergency,Fire and emergency,Daijiworld,2
+2008-11,2008,road_safety,Road safety,Daijiworld,6
+2008-12,2008,civic_infrastructure,Civic work,Daijiworld,2
+2008-12,2008,fire_emergency,Fire and emergency,Daijiworld,1
+2008-12,2008,health,Health,Daijiworld,3
+2008-12,2008,road_safety,Road safety,Daijiworld,7
+2009-01,2009,civic_infrastructure,Civic work,Daijiworld,2
+2009-01,2009,education,Education,Daijiworld,2
+2009-01,2009,fire_emergency,Fire and emergency,Daijiworld,2
+2009-01,2009,crime_public_safety,Public safety,Daijiworld,2
+2009-01,2009,road_safety,Road safety,Daijiworld,10
+2009-02,2009,civic_infrastructure,Civic work,Daijiworld,2
+2009-02,2009,fire_emergency,Fire and emergency,Daijiworld,1
+2009-02,2009,crime_public_safety,Public safety,Daijiworld,2
+2009-02,2009,flood_weather,Rain and weather,Daijiworld,1
+2009-02,2009,road_safety,Road safety,Daijiworld,1
+2009-03,2009,civic_infrastructure,Civic work,Daijiworld,1
+2009-03,2009,education,Education,Daijiworld,1
+2009-03,2009,fire_emergency,Fire and emergency,Daijiworld,2
+2009-03,2009,health,Health,Daijiworld,1
+2009-03,2009,crime_public_safety,Public safety,Daijiworld,1
+2009-03,2009,flood_weather,Rain and weather,Daijiworld,3
+2009-03,2009,road_safety,Road safety,Daijiworld,5
+2009-04,2009,civic_infrastructure,Civic work,Daijiworld,2
+2009-04,2009,fire_emergency,Fire and emergency,Daijiworld,1
+2009-04,2009,other,Other,Daijiworld,1
+2009-04,2009,crime_public_safety,Public safety,Daijiworld,1
+2009-04,2009,road_safety,Road safety,Daijiworld,5
+2009-05,2009,civic_infrastructure,Civic work,Daijiworld,6
+2009-05,2009,education,Education,Daijiworld,1
+2009-05,2009,health,Health,Daijiworld,1
+2009-05,2009,crime_public_safety,Public safety,Daijiworld,1
+2009-05,2009,road_safety,Road safety,Daijiworld,7
+2009-06,2009,civic_infrastructure,Civic work,Daijiworld,4
+2009-06,2009,health,Health,Daijiworld,2
+2009-06,2009,other,Other,Daijiworld,1
+2009-06,2009,crime_public_safety,Public safety,Daijiworld,1
+2009-06,2009,flood_weather,Rain and weather,Daijiworld,3
+2009-06,2009,road_safety,Road safety,Daijiworld,5
+2009-07,2009,civic_infrastructure,Civic work,Daijiworld,5
+2009-07,2009,education,Education,Daijiworld,1
+2009-07,2009,other,Other,Daijiworld,4
+2009-07,2009,crime_public_safety,Public safety,Daijiworld,1
+2009-07,2009,flood_weather,Rain and weather,Daijiworld,7
+2009-07,2009,road_safety,Road safety,Daijiworld,6
+2009-08,2009,civic_infrastructure,Civic work,Daijiworld,1
+2009-08,2009,education,Education,Daijiworld,1
+2009-08,2009,fire_emergency,Fire and emergency,Daijiworld,4
+2009-08,2009,other,Other,Daijiworld,3
+2009-08,2009,road_safety,Road safety,Daijiworld,9
+2009-09,2009,civic_infrastructure,Civic work,Daijiworld,3
+2009-09,2009,other,Other,Daijiworld,1
+2009-09,2009,road_safety,Road safety,Daijiworld,2
+2009-10,2009,fire_emergency,Fire and emergency,Daijiworld,2
+2009-10,2009,other,Other,Daijiworld,1
+2009-10,2009,flood_weather,Rain and weather,Daijiworld,22
+2009-10,2009,road_safety,Road safety,Daijiworld,3
+2009-11,2009,civic_infrastructure,Civic work,Daijiworld,4
+2009-11,2009,fire_emergency,Fire and emergency,Daijiworld,1
+2009-11,2009,health,Health,Daijiworld,1
+2009-11,2009,other,Other,Daijiworld,1
+2009-11,2009,flood_weather,Rain and weather,Daijiworld,3
+2009-11,2009,road_safety,Road safety,Daijiworld,3
+2009-12,2009,education,Education,Daijiworld,1
+2009-12,2009,fire_emergency,Fire and emergency,Daijiworld,4
+2009-12,2009,health,Health,Daijiworld,1
+2009-12,2009,other,Other,Daijiworld,1
+2009-12,2009,road_safety,Road safety,Daijiworld,5
+2010-01,2010,civic_infrastructure,Civic work,Daijiworld,3
+2010-01,2010,fire_emergency,Fire and emergency,Daijiworld,1
+2010-01,2010,other,Other,Daijiworld,1
+2010-01,2010,crime_public_safety,Public safety,Daijiworld,1
+2010-01,2010,road_safety,Road safety,Daijiworld,1
+2010-02,2010,civic_infrastructure,Civic work,Daijiworld,3
+2010-02,2010,education,Education,Daijiworld,1
+2010-02,2010,fire_emergency,Fire and emergency,Daijiworld,3
+2010-02,2010,crime_public_safety,Public safety,Daijiworld,1
+2010-02,2010,road_safety,Road safety,Daijiworld,6
+2010-03,2010,civic_infrastructure,Civic work,Daijiworld,1
+2010-03,2010,education,Education,Daijiworld,1
+2010-03,2010,crime_public_safety,Public safety,Daijiworld,1
+2010-03,2010,road_safety,Road safety,Daijiworld,6
+2010-04,2010,civic_infrastructure,Civic work,Daijiworld,1
+2010-04,2010,education,Education,Daijiworld,1
+2010-04,2010,fire_emergency,Fire and emergency,Daijiworld,2
+2010-04,2010,health,Health,Daijiworld,2
+2010-04,2010,other,Other,Daijiworld,1
+2010-04,2010,road_safety,Road safety,Daijiworld,4
+2010-05,2010,civic_infrastructure,Civic work,Daijiworld,3
+2010-05,2010,education,Education,Daijiworld,1
+2010-05,2010,fire_emergency,Fire and emergency,Daijiworld,5
+2010-05,2010,crime_public_safety,Public safety,Daijiworld,1
+2010-05,2010,road_safety,Road safety,Daijiworld,38
+2010-06,2010,fire_emergency,Fire and emergency,Daijiworld,1
+2010-06,2010,crime_public_safety,Public safety,Daijiworld,1
+2010-06,2010,flood_weather,Rain and weather,Daijiworld,12
+2010-06,2010,road_safety,Road safety,Daijiworld,25
+2010-07,2010,civic_infrastructure,Civic work,Daijiworld,2
+2010-07,2010,education,Education,Daijiworld,1
+2010-07,2010,fire_emergency,Fire and emergency,Daijiworld,6
+2010-07,2010,health,Health,Daijiworld,2
+2010-07,2010,other,Other,Daijiworld,1
+2010-07,2010,flood_weather,Rain and weather,Daijiworld,5
+2010-07,2010,road_safety,Road safety,Daijiworld,16
+2010-08,2010,civic_infrastructure,Civic work,Daijiworld,8
+2010-08,2010,fire_emergency,Fire and emergency,Daijiworld,1
+2010-08,2010,governance,Governance,Daijiworld,1
+2010-08,2010,health,Health,Daijiworld,3
+2010-08,2010,other,Other,Daijiworld,2
+2010-08,2010,flood_weather,Rain and weather,Daijiworld,1
+2010-08,2010,road_safety,Road safety,Daijiworld,10
+2010-09,2010,civic_infrastructure,Civic work,Daijiworld,4
+2010-09,2010,education,Education,Daijiworld,2
+2010-09,2010,fire_emergency,Fire and emergency,Daijiworld,1
+2010-09,2010,governance,Governance,Daijiworld,1
+2010-09,2010,health,Health,Daijiworld,1
+2010-09,2010,other,Other,Daijiworld,1
+2010-09,2010,crime_public_safety,Public safety,Daijiworld,1
+2010-09,2010,road_safety,Road safety,Daijiworld,7
+2010-10,2010,civic_infrastructure,Civic work,Daijiworld,2
+2010-10,2010,education,Education,Daijiworld,3
+2010-10,2010,health,Health,Daijiworld,2
+2010-10,2010,crime_public_safety,Public safety,Daijiworld,1
+2010-10,2010,flood_weather,Rain and weather,Daijiworld,1
+2010-10,2010,road_safety,Road safety,Daijiworld,5
+2010-11,2010,civic_infrastructure,Civic work,Daijiworld,1
+2010-11,2010,education,Education,Daijiworld,2
+2010-11,2010,health,Health,Daijiworld,2
+2010-11,2010,other,Other,Daijiworld,1
+2010-11,2010,road_safety,Road safety,Daijiworld,9
+2010-12,2010,civic_infrastructure,Civic work,Daijiworld,1
+2010-12,2010,education,Education,Daijiworld,5
+2010-12,2010,fire_emergency,Fire and emergency,Daijiworld,2
+2010-12,2010,health,Health,Daijiworld,1
+2010-12,2010,other,Other,Daijiworld,1
+2010-12,2010,road_safety,Road safety,Daijiworld,2
+2011-01,2011,education,Education,Daijiworld,1
+2011-01,2011,health,Health,Daijiworld,1
+2011-01,2011,other,Other,Daijiworld,1
+2011-01,2011,crime_public_safety,Public safety,Daijiworld,2
+2011-01,2011,road_safety,Road safety,Daijiworld,5
+2011-02,2011,civic_infrastructure,Civic work,Daijiworld,1
+2011-02,2011,fire_emergency,Fire and emergency,Daijiworld,1
+2011-02,2011,health,Health,Daijiworld,1
+2011-02,2011,crime_public_safety,Public safety,Daijiworld,1
+2011-02,2011,road_safety,Road safety,Daijiworld,4
+2011-03,2011,civic_infrastructure,Civic work,Daijiworld,2
+2011-03,2011,fire_emergency,Fire and emergency,Daijiworld,3
+2011-03,2011,flood_weather,Rain and weather,Daijiworld,2
+2011-03,2011,road_safety,Road safety,Daijiworld,10
+2011-04,2011,civic_infrastructure,Civic work,Daijiworld,5
+2011-04,2011,education,Education,Daijiworld,2
+2011-04,2011,flood_weather,Rain and weather,Daijiworld,1
+2011-04,2011,road_safety,Road safety,Daijiworld,12
+2011-05,2011,civic_infrastructure,Civic work,Daijiworld,6
+2011-05,2011,education,Education,Daijiworld,1
+2011-05,2011,fire_emergency,Fire and emergency,Daijiworld,4
+2011-05,2011,other,Other,Daijiworld,2
+2011-05,2011,flood_weather,Rain and weather,Daijiworld,1
+2011-05,2011,road_safety,Road safety,Daijiworld,15
+2011-06,2011,civic_infrastructure,Civic work,Daijiworld,4
+2011-06,2011,fire_emergency,Fire and emergency,Daijiworld,2
+2011-06,2011,health,Health,Daijiworld,1
+2011-06,2011,crime_public_safety,Public safety,Daijiworld,1
+2011-06,2011,flood_weather,Rain and weather,Daijiworld,2
+2011-06,2011,road_safety,Road safety,Daijiworld,11
+2011-07,2011,civic_infrastructure,Civic work,Daijiworld,7
+2011-07,2011,education,Education,Daijiworld,1
+2011-07,2011,fire_emergency,Fire and emergency,Daijiworld,4
+2011-07,2011,governance,Governance,Daijiworld,2
+2011-07,2011,health,Health,Daijiworld,3
+2011-07,2011,other,Other,Daijiworld,3
+2011-07,2011,crime_public_safety,Public safety,Daijiworld,1
+2011-07,2011,flood_weather,Rain and weather,Daijiworld,3
+2011-07,2011,road_safety,Road safety,Daijiworld,14
+2011-08,2011,civic_infrastructure,Civic work,Daijiworld,5
+2011-08,2011,fire_emergency,Fire and emergency,Daijiworld,3
+2011-08,2011,health,Health,Daijiworld,1
+2011-08,2011,flood_weather,Rain and weather,Daijiworld,2
+2011-08,2011,road_safety,Road safety,Daijiworld,11
+2011-09,2011,civic_infrastructure,Civic work,Daijiworld,1
+2011-09,2011,education,Education,Daijiworld,3
+2011-09,2011,fire_emergency,Fire and emergency,Daijiworld,4
+2011-09,2011,governance,Governance,Daijiworld,1
+2011-09,2011,health,Health,Daijiworld,2
+2011-09,2011,other,Other,Daijiworld,2
+2011-09,2011,crime_public_safety,Public safety,Daijiworld,2
+2011-09,2011,road_safety,Road safety,Daijiworld,12
+2011-10,2011,civic_infrastructure,Civic work,Daijiworld,3
+2011-10,2011,education,Education,Daijiworld,3
+2011-10,2011,fire_emergency,Fire and emergency,Daijiworld,4
+2011-10,2011,governance,Governance,Daijiworld,2
+2011-10,2011,health,Health,Daijiworld,1
+2011-10,2011,other,Other,Daijiworld,1
+2011-10,2011,crime_public_safety,Public safety,Daijiworld,1
+2011-10,2011,flood_weather,Rain and weather,Daijiworld,1
+2011-10,2011,road_safety,Road safety,Daijiworld,19
+2011-11,2011,civic_infrastructure,Civic work,Daijiworld,3
+2011-11,2011,education,Education,Daijiworld,1
+2011-11,2011,fire_emergency,Fire and emergency,Daijiworld,5
+2011-11,2011,other,Other,Daijiworld,3
+2011-11,2011,crime_public_safety,Public safety,Daijiworld,1
+2011-11,2011,road_safety,Road safety,Daijiworld,12
+2011-12,2011,civic_infrastructure,Civic work,Daijiworld,2
+2011-12,2011,education,Education,Daijiworld,3
+2011-12,2011,fire_emergency,Fire and emergency,Daijiworld,4
+2011-12,2011,governance,Governance,Daijiworld,1
+2011-12,2011,other,Other,Daijiworld,1
+2011-12,2011,crime_public_safety,Public safety,Daijiworld,2
+2011-12,2011,flood_weather,Rain and weather,Daijiworld,1
+2011-12,2011,road_safety,Road safety,Daijiworld,18
+2012-01,2012,civic_infrastructure,Civic work,Daijiworld,3
+2012-01,2012,education,Education,Daijiworld,2
+2012-01,2012,fire_emergency,Fire and emergency,Daijiworld,4
+2012-01,2012,health,Health,Daijiworld,2
+2012-01,2012,other,Other,Daijiworld,3
+2012-01,2012,crime_public_safety,Public safety,Daijiworld,5
+2012-01,2012,flood_weather,Rain and weather,Daijiworld,1
+2012-01,2012,road_safety,Road safety,Daijiworld,14
+2012-02,2012,education,Education,Daijiworld,2
+2012-02,2012,fire_emergency,Fire and emergency,Daijiworld,7
+2012-02,2012,other,Other,Daijiworld,1
+2012-02,2012,crime_public_safety,Public safety,Daijiworld,1
+2012-02,2012,flood_weather,Rain and weather,Daijiworld,3
+2012-02,2012,road_safety,Road safety,Daijiworld,18
+2012-03,2012,civic_infrastructure,Civic work,Daijiworld,2
+2012-03,2012,education,Education,Daijiworld,1
+2012-03,2012,fire_emergency,Fire and emergency,Daijiworld,1
+2012-03,2012,other,Other,Daijiworld,9
+2012-03,2012,crime_public_safety,Public safety,Daijiworld,2
+2012-03,2012,flood_weather,Rain and weather,Daijiworld,1
+2012-03,2012,road_safety,Road safety,Daijiworld,10
+2012-04,2012,civic_infrastructure,Civic work,Daijiworld,2
+2012-04,2012,education,Education,Daijiworld,1
+2012-04,2012,fire_emergency,Fire and emergency,Daijiworld,4
+2012-04,2012,health,Health,Daijiworld,1
+2012-04,2012,other,Other,Daijiworld,2
+2012-04,2012,crime_public_safety,Public safety,Daijiworld,1
+2012-04,2012,flood_weather,Rain and weather,Daijiworld,3
+2012-04,2012,road_safety,Road safety,Daijiworld,16
+2012-05,2012,civic_infrastructure,Civic work,Daijiworld,9
+2012-05,2012,education,Education,Daijiworld,3
+2012-05,2012,fire_emergency,Fire and emergency,Daijiworld,9
+2012-05,2012,health,Health,Daijiworld,3
+2012-05,2012,other,Other,Daijiworld,3
+2012-05,2012,crime_public_safety,Public safety,Daijiworld,4
+2012-05,2012,flood_weather,Rain and weather,Daijiworld,3
+2012-05,2012,road_safety,Road safety,Daijiworld,12
+2012-06,2012,civic_infrastructure,Civic work,Daijiworld,8
+2012-06,2012,education,Education,Daijiworld,3
+2012-06,2012,fire_emergency,Fire and emergency,Daijiworld,6
+2012-06,2012,other,Other,Daijiworld,1
+2012-06,2012,crime_public_safety,Public safety,Daijiworld,6
+2012-06,2012,flood_weather,Rain and weather,Daijiworld,4
+2012-06,2012,road_safety,Road safety,Daijiworld,10
+2012-07,2012,civic_infrastructure,Civic work,Daijiworld,5
+2012-07,2012,education,Education,Daijiworld,1
+2012-07,2012,fire_emergency,Fire and emergency,Daijiworld,1
+2012-07,2012,health,Health,Daijiworld,1
+2012-07,2012,other,Other,Daijiworld,1
+2012-07,2012,crime_public_safety,Public safety,Daijiworld,1
+2012-07,2012,flood_weather,Rain and weather,Daijiworld,2
+2012-07,2012,road_safety,Road safety,Daijiworld,16
+2012-08,2012,civic_infrastructure,Civic work,Daijiworld,2
+2012-08,2012,education,Education,Daijiworld,2
+2012-08,2012,fire_emergency,Fire and emergency,Daijiworld,2
+2012-08,2012,health,Health,Daijiworld,5
+2012-08,2012,crime_public_safety,Public safety,Daijiworld,2
+2012-08,2012,flood_weather,Rain and weather,Daijiworld,3
+2012-08,2012,road_safety,Road safety,Daijiworld,15
+2012-09,2012,civic_infrastructure,Civic work,Daijiworld,2
+2012-09,2012,education,Education,Daijiworld,1
+2012-09,2012,fire_emergency,Fire and emergency,Daijiworld,1
+2012-09,2012,health,Health,Daijiworld,1
+2012-09,2012,other,Other,Daijiworld,2
+2012-09,2012,crime_public_safety,Public safety,Daijiworld,1
+2012-09,2012,flood_weather,Rain and weather,Daijiworld,3
+2012-09,2012,road_safety,Road safety,Daijiworld,16
+2012-10,2012,education,Education,Daijiworld,1
+2012-10,2012,fire_emergency,Fire and emergency,Daijiworld,4
+2012-10,2012,health,Health,Daijiworld,2
+2012-10,2012,other,Other,Daijiworld,2
+2012-10,2012,crime_public_safety,Public safety,Daijiworld,3
+2012-10,2012,road_safety,Road safety,Daijiworld,22
+2012-11,2012,civic_infrastructure,Civic work,Daijiworld,5
+2012-11,2012,education,Education,Daijiworld,4
+2012-11,2012,fire_emergency,Fire and emergency,Daijiworld,8
+2012-11,2012,health,Health,Daijiworld,2
+2012-11,2012,flood_weather,Rain and weather,Daijiworld,2
+2012-11,2012,road_safety,Road safety,Daijiworld,10
+2012-12,2012,civic_infrastructure,Civic work,Daijiworld,4
+2012-12,2012,education,Education,Daijiworld,2
+2012-12,2012,fire_emergency,Fire and emergency,Daijiworld,3
+2012-12,2012,health,Health,Daijiworld,3
+2012-12,2012,crime_public_safety,Public safety,Daijiworld,5
+2012-12,2012,flood_weather,Rain and weather,Daijiworld,1
+2012-12,2012,road_safety,Road safety,Daijiworld,15
+2013-01,2013,civic_infrastructure,Civic work,Daijiworld,3
+2013-01,2013,fire_emergency,Fire and emergency,Daijiworld,5
+2013-01,2013,other,Other,Daijiworld,2
+2013-01,2013,crime_public_safety,Public safety,Daijiworld,4
+2013-01,2013,road_safety,Road safety,Daijiworld,13
+2013-02,2013,civic_infrastructure,Civic work,Daijiworld,1
+2013-02,2013,education,Education,Daijiworld,2
+2013-02,2013,fire_emergency,Fire and emergency,Daijiworld,2
+2013-02,2013,health,Health,Daijiworld,2
+2013-02,2013,crime_public_safety,Public safety,Daijiworld,6
+2013-02,2013,flood_weather,Rain and weather,Daijiworld,1
+2013-02,2013,road_safety,Road safety,Daijiworld,18
+2013-03,2013,civic_infrastructure,Civic work,Daijiworld,1
+2013-03,2013,education,Education,Daijiworld,3
+2013-03,2013,fire_emergency,Fire and emergency,Daijiworld,3
+2013-03,2013,other,Other,Daijiworld,2
+2013-03,2013,crime_public_safety,Public safety,Daijiworld,2
+2013-03,2013,flood_weather,Rain and weather,Daijiworld,1
+2013-03,2013,road_safety,Road safety,Daijiworld,21
+2013-04,2013,civic_infrastructure,Civic work,Daijiworld,1
+2013-04,2013,education,Education,Daijiworld,1
+2013-04,2013,fire_emergency,Fire and emergency,Daijiworld,12
+2013-04,2013,health,Health,Daijiworld,1
+2013-04,2013,other,Other,Daijiworld,5
+2013-04,2013,crime_public_safety,Public safety,Daijiworld,3
+2013-04,2013,flood_weather,Rain and weather,Daijiworld,1
+2013-04,2013,road_safety,Road safety,Daijiworld,24
+2013-05,2013,civic_infrastructure,Civic work,Daijiworld,4
+2013-05,2013,fire_emergency,Fire and emergency,Daijiworld,5
+2013-05,2013,health,Health,Daijiworld,2
+2013-05,2013,flood_weather,Rain and weather,Daijiworld,1
+2013-05,2013,road_safety,Road safety,Daijiworld,25
+2013-06,2013,civic_infrastructure,Civic work,Daijiworld,1
+2013-06,2013,education,Education,Daijiworld,4
+2013-06,2013,fire_emergency,Fire and emergency,Daijiworld,2
+2013-06,2013,health,Health,Daijiworld,3
+2013-06,2013,crime_public_safety,Public safety,Daijiworld,3
+2013-06,2013,flood_weather,Rain and weather,Daijiworld,10
+2013-06,2013,road_safety,Road safety,Daijiworld,33
+2013-07,2013,civic_infrastructure,Civic work,Daijiworld,1
+2013-07,2013,education,Education,Daijiworld,1
+2013-07,2013,fire_emergency,Fire and emergency,Daijiworld,3
+2013-07,2013,health,Health,Daijiworld,3
+2013-07,2013,other,Other,Daijiworld,4
+2013-07,2013,crime_public_safety,Public safety,Daijiworld,8
+2013-07,2013,flood_weather,Rain and weather,Daijiworld,3
+2013-07,2013,road_safety,Road safety,Daijiworld,30
+2013-08,2013,civic_infrastructure,Civic work,Daijiworld,3
+2013-08,2013,fire_emergency,Fire and emergency,Daijiworld,5
+2013-08,2013,other,Other,Daijiworld,2
+2013-08,2013,flood_weather,Rain and weather,Daijiworld,4
+2013-08,2013,road_safety,Road safety,Daijiworld,28
+2013-09,2013,civic_infrastructure,Civic work,Daijiworld,10
+2013-09,2013,fire_emergency,Fire and emergency,Daijiworld,3
+2013-09,2013,other,Other,Daijiworld,2
+2013-09,2013,flood_weather,Rain and weather,Daijiworld,1
+2013-09,2013,road_safety,Road safety,Daijiworld,21
+2013-10,2013,civic_infrastructure,Civic work,Daijiworld,1
+2013-10,2013,fire_emergency,Fire and emergency,Daijiworld,2
+2013-10,2013,health,Health,Daijiworld,2
+2013-10,2013,other,Other,Daijiworld,1
+2013-10,2013,flood_weather,Rain and weather,Daijiworld,1
+2013-10,2013,road_safety,Road safety,Daijiworld,28
+2013-11,2013,civic_infrastructure,Civic work,Daijiworld,4
+2013-11,2013,fire_emergency,Fire and emergency,Daijiworld,1
+2013-11,2013,health,Health,Daijiworld,2
+2013-11,2013,other,Other,Daijiworld,2
+2013-11,2013,flood_weather,Rain and weather,Daijiworld,3
+2013-11,2013,road_safety,Road safety,Daijiworld,32
+2013-12,2013,civic_infrastructure,Civic work,Daijiworld,6
+2013-12,2013,fire_emergency,Fire and emergency,Daijiworld,3
+2013-12,2013,other,Other,Daijiworld,1
+2013-12,2013,road_safety,Road safety,Daijiworld,32
+2014-01,2014,civic_infrastructure,Civic work,Daijiworld,3
+2014-01,2014,fire_emergency,Fire and emergency,Daijiworld,2
+2014-01,2014,health,Health,Daijiworld,4
+2014-01,2014,other,Other,Daijiworld,2
+2014-01,2014,road_safety,Road safety,Daijiworld,27
+2014-02,2014,civic_infrastructure,Civic work,Daijiworld,1
+2014-02,2014,fire_emergency,Fire and emergency,Daijiworld,6
+2014-02,2014,health,Health,Daijiworld,2
+2014-02,2014,other,Other,Daijiworld,1
+2014-02,2014,flood_weather,Rain and weather,Daijiworld,1
+2014-02,2014,road_safety,Road safety,Daijiworld,20
+2014-03,2014,civic_infrastructure,Civic work,Daijiworld,5
+2014-03,2014,health,Health,Daijiworld,1
+2014-03,2014,road_safety,Road safety,Daijiworld,24
+2014-04,2014,civic_infrastructure,Civic work,Daijiworld,5
+2014-04,2014,other,Other,Daijiworld,1
+2014-04,2014,flood_weather,Rain and weather,Daijiworld,1
+2014-04,2014,road_safety,Road safety,Daijiworld,27
+2014-05,2014,civic_infrastructure,Civic work,Daijiworld,6
+2014-05,2014,fire_emergency,Fire and emergency,Daijiworld,2
+2014-05,2014,health,Health,Daijiworld,3
+2014-05,2014,other,Other,Daijiworld,1
+2014-05,2014,flood_weather,Rain and weather,Daijiworld,2
+2014-05,2014,road_safety,Road safety,Daijiworld,22
+2014-06,2014,civic_infrastructure,Civic work,Daijiworld,12
+2014-06,2014,fire_emergency,Fire and emergency,Daijiworld,1
+2014-06,2014,health,Health,Daijiworld,2
+2014-06,2014,other,Other,Daijiworld,4
+2014-06,2014,flood_weather,Rain and weather,Daijiworld,3
+2014-06,2014,road_safety,Road safety,Daijiworld,36
+2014-07,2014,civic_infrastructure,Civic work,Daijiworld,12
+2014-07,2014,fire_emergency,Fire and emergency,Daijiworld,3
+2014-07,2014,health,Health,Daijiworld,1
+2014-07,2014,other,Other,Daijiworld,3
+2014-07,2014,flood_weather,Rain and weather,Daijiworld,3
+2014-07,2014,road_safety,Road safety,Daijiworld,29
+2014-08,2014,civic_infrastructure,Civic work,Daijiworld,6
+2014-08,2014,health,Health,Daijiworld,2
+2014-08,2014,other,Other,Daijiworld,1
+2014-08,2014,flood_weather,Rain and weather,Daijiworld,1
+2014-08,2014,road_safety,Road safety,Daijiworld,21
+2014-09,2014,civic_infrastructure,Civic work,Daijiworld,6
+2014-09,2014,fire_emergency,Fire and emergency,Daijiworld,1
+2014-09,2014,other,Other,Daijiworld,2
+2014-09,2014,flood_weather,Rain and weather,Daijiworld,5
+2014-09,2014,road_safety,Road safety,Daijiworld,28
+2014-10,2014,civic_infrastructure,Civic work,Daijiworld,4
+2014-10,2014,fire_emergency,Fire and emergency,Daijiworld,2
+2014-10,2014,health,Health,Daijiworld,3
+2014-10,2014,flood_weather,Rain and weather,Daijiworld,4
+2014-10,2014,road_safety,Road safety,Daijiworld,30
+2014-11,2014,civic_infrastructure,Civic work,Daijiworld,9
+2014-11,2014,fire_emergency,Fire and emergency,Daijiworld,3
+2014-11,2014,health,Health,Daijiworld,3
+2014-11,2014,other,Other,Daijiworld,2
+2014-11,2014,flood_weather,Rain and weather,Daijiworld,1
+2014-11,2014,road_safety,Road safety,Daijiworld,26
+2014-12,2014,civic_infrastructure,Civic work,Daijiworld,6
+2014-12,2014,fire_emergency,Fire and emergency,Daijiworld,12
+2014-12,2014,health,Health,Daijiworld,4
+2014-12,2014,road_safety,Road safety,Daijiworld,44
+2015-01,2015,civic_infrastructure,Civic work,Daijiworld,6
+2015-01,2015,fire_emergency,Fire and emergency,Daijiworld,5
+2015-01,2015,health,Health,Daijiworld,4
+2015-01,2015,other,Other,Daijiworld,1
+2015-01,2015,road_safety,Road safety,Daijiworld,34
+2015-02,2015,civic_infrastructure,Civic work,Daijiworld,4
+2015-02,2015,fire_emergency,Fire and emergency,Daijiworld,4
+2015-02,2015,health,Health,Daijiworld,2
+2015-02,2015,other,Other,Daijiworld,3
+2015-02,2015,road_safety,Road safety,Daijiworld,33
+2015-03,2015,civic_infrastructure,Civic work,Daijiworld,8
+2015-03,2015,fire_emergency,Fire and emergency,Daijiworld,1
+2015-03,2015,health,Health,Daijiworld,8
+2015-03,2015,other,Other,Daijiworld,3
+2015-03,2015,flood_weather,Rain and weather,Daijiworld,2
+2015-03,2015,road_safety,Road safety,Daijiworld,48
+2015-04,2015,civic_infrastructure,Civic work,Daijiworld,9
+2015-04,2015,fire_emergency,Fire and emergency,Daijiworld,4
+2015-04,2015,health,Health,Daijiworld,3
+2015-04,2015,other,Other,Daijiworld,1
+2015-04,2015,flood_weather,Rain and weather,Daijiworld,6
+2015-04,2015,road_safety,Road safety,Daijiworld,33
+2015-05,2015,civic_infrastructure,Civic work,Daijiworld,7
+2015-05,2015,fire_emergency,Fire and emergency,Daijiworld,1
+2015-05,2015,health,Health,Daijiworld,3
+2015-05,2015,other,Other,Daijiworld,1
+2015-05,2015,flood_weather,Rain and weather,Daijiworld,4
+2015-05,2015,road_safety,Road safety,Daijiworld,40
+2015-06,2015,civic_infrastructure,Civic work,Daijiworld,9
+2015-06,2015,fire_emergency,Fire and emergency,Daijiworld,3
+2015-06,2015,health,Health,Daijiworld,8
+2015-06,2015,other,Other,Daijiworld,1
+2015-06,2015,flood_weather,Rain and weather,Daijiworld,11
+2015-06,2015,road_safety,Road safety,Daijiworld,34
+2015-07,2015,civic_infrastructure,Civic work,Daijiworld,4
+2015-07,2015,fire_emergency,Fire and emergency,Daijiworld,1
+2015-07,2015,health,Health,Daijiworld,7
+2015-07,2015,flood_weather,Rain and weather,Daijiworld,2
+2015-07,2015,road_safety,Road safety,Daijiworld,33
+2015-08,2015,civic_infrastructure,Civic work,Daijiworld,7
+2015-08,2015,fire_emergency,Fire and emergency,Daijiworld,2
+2015-08,2015,health,Health,Daijiworld,5
+2015-08,2015,flood_weather,Rain and weather,Daijiworld,2
+2015-08,2015,road_safety,Road safety,Daijiworld,31
+2015-09,2015,civic_infrastructure,Civic work,Daijiworld,4
+2015-09,2015,fire_emergency,Fire and emergency,Daijiworld,2
+2015-09,2015,health,Health,Daijiworld,7
+2015-09,2015,other,Other,Daijiworld,2
+2015-09,2015,flood_weather,Rain and weather,Daijiworld,2
+2015-09,2015,road_safety,Road safety,Daijiworld,25
+2015-10,2015,civic_infrastructure,Civic work,Daijiworld,8
+2015-10,2015,fire_emergency,Fire and emergency,Daijiworld,3
+2015-10,2015,health,Health,Daijiworld,2
+2015-10,2015,other,Other,Daijiworld,1
+2015-10,2015,road_safety,Road safety,Daijiworld,31
+2015-11,2015,civic_infrastructure,Civic work,Daijiworld,3
+2015-11,2015,fire_emergency,Fire and emergency,Daijiworld,3
+2015-11,2015,health,Health,Daijiworld,7
+2015-11,2015,road_safety,Road safety,Daijiworld,28
+2015-12,2015,civic_infrastructure,Civic work,Daijiworld,5
+2015-12,2015,health,Health,Daijiworld,1
+2015-12,2015,other,Other,Daijiworld,1
+2015-12,2015,road_safety,Road safety,Daijiworld,28
+2016-01,2016,civic_infrastructure,Civic work,Daijiworld,4
+2016-01,2016,fire_emergency,Fire and emergency,Daijiworld,3
+2016-01,2016,health,Health,Daijiworld,5
+2016-01,2016,other,Other,Daijiworld,4
+2016-01,2016,road_safety,Road safety,Daijiworld,31
+2016-02,2016,civic_infrastructure,Civic work,Daijiworld,5
+2016-02,2016,fire_emergency,Fire and emergency,Daijiworld,3
+2016-02,2016,health,Health,Daijiworld,6
+2016-02,2016,flood_weather,Rain and weather,Daijiworld,1
+2016-02,2016,road_safety,Road safety,Daijiworld,33
+2016-03,2016,civic_infrastructure,Civic work,Daijiworld,8
+2016-03,2016,fire_emergency,Fire and emergency,Daijiworld,1
+2016-03,2016,health,Health,Daijiworld,6
+2016-03,2016,other,Other,Daijiworld,1
+2016-03,2016,flood_weather,Rain and weather,Daijiworld,2
+2016-03,2016,road_safety,Road safety,Daijiworld,34
+2016-04,2016,civic_infrastructure,Civic work,Daijiworld,11
+2016-04,2016,fire_emergency,Fire and emergency,Daijiworld,2
+2016-04,2016,health,Health,Daijiworld,2
+2016-04,2016,other,Other,Daijiworld,4
+2016-04,2016,flood_weather,Rain and weather,Daijiworld,4
+2016-04,2016,road_safety,Road safety,Daijiworld,30
+2016-05,2016,civic_infrastructure,Civic work,Daijiworld,6
+2016-05,2016,fire_emergency,Fire and emergency,Daijiworld,2
+2016-05,2016,health,Health,Daijiworld,10
+2016-05,2016,other,Other,Daijiworld,1
+2016-05,2016,other,Other,Mangalorean.com,1
+2016-05,2016,flood_weather,Rain and weather,Daijiworld,2
+2016-05,2016,road_safety,Road safety,Daijiworld,39
+2016-06,2016,civic_infrastructure,Civic work,Daijiworld,3
+2016-06,2016,health,Health,Daijiworld,5
+2016-06,2016,other,Other,Daijiworld,2
+2016-06,2016,flood_weather,Rain and weather,Daijiworld,8
+2016-06,2016,road_safety,Road safety,Daijiworld,49
+2016-07,2016,civic_infrastructure,Civic work,Daijiworld,6
+2016-07,2016,health,Health,Daijiworld,4
+2016-07,2016,other,Other,Daijiworld,1
+2016-07,2016,flood_weather,Rain and weather,Daijiworld,3
+2016-07,2016,road_safety,Road safety,Daijiworld,42
+2016-08,2016,civic_infrastructure,Civic work,Daijiworld,11
+2016-08,2016,fire_emergency,Fire and emergency,Daijiworld,4
+2016-08,2016,health,Health,Daijiworld,6
+2016-08,2016,other,Other,Daijiworld,1
+2016-08,2016,flood_weather,Rain and weather,Daijiworld,1
+2016-08,2016,road_safety,Road safety,Daijiworld,29
+2016-09,2016,civic_infrastructure,Civic work,Daijiworld,11
+2016-09,2016,fire_emergency,Fire and emergency,Daijiworld,1
+2016-09,2016,health,Health,Daijiworld,5
+2016-09,2016,other,Other,Daijiworld,3
+2016-09,2016,road_safety,Road safety,Daijiworld,37
+2016-10,2016,civic_infrastructure,Civic work,Daijiworld,14
+2016-10,2016,health,Health,Daijiworld,7
+2016-10,2016,other,Other,Daijiworld,4
+2016-10,2016,flood_weather,Rain and weather,Daijiworld,1
+2016-10,2016,road_safety,Road safety,Daijiworld,38
+2016-11,2016,civic_infrastructure,Civic work,Daijiworld,10
+2016-11,2016,fire_emergency,Fire and emergency,Daijiworld,3
+2016-11,2016,governance,Governance,Daijiworld,7
+2016-11,2016,health,Health,Daijiworld,1
+2016-11,2016,other,Other,Daijiworld,1
+2016-11,2016,other,Other,Mangalorean.com,1
+2016-11,2016,crime_public_safety,Public safety,Daijiworld,1
+2016-11,2016,flood_weather,Rain and weather,Daijiworld,2
+2016-11,2016,road_safety,Road safety,Daijiworld,21
+2016-12,2016,civic_infrastructure,Civic work,Daijiworld,6
+2016-12,2016,education,Education,Daijiworld,1
+2016-12,2016,fire_emergency,Fire and emergency,Daijiworld,3
+2016-12,2016,governance,Governance,Daijiworld,6
+2016-12,2016,health,Health,Daijiworld,5
+2016-12,2016,other,Other,Daijiworld,2
+2016-12,2016,crime_public_safety,Public safety,Daijiworld,4
+2016-12,2016,road_safety,Road safety,Daijiworld,19
+2017-01,2017,civic_infrastructure,Civic work,Daijiworld,5
+2017-01,2017,education,Education,Daijiworld,1
+2017-01,2017,fire_emergency,Fire and emergency,Daijiworld,9
+2017-01,2017,governance,Governance,Daijiworld,6
+2017-01,2017,health,Health,Daijiworld,2
+2017-01,2017,other,Other,Daijiworld,3
+2017-01,2017,crime_public_safety,Public safety,Daijiworld,4
+2017-01,2017,road_safety,Road safety,Daijiworld,23
+2017-02,2017,civic_infrastructure,Civic work,Daijiworld,2
+2017-02,2017,fire_emergency,Fire and emergency,Daijiworld,3
+2017-02,2017,governance,Governance,Daijiworld,6
+2017-02,2017,health,Health,Daijiworld,2
+2017-02,2017,other,Other,Daijiworld,8
+2017-02,2017,crime_public_safety,Public safety,Daijiworld,2
+2017-02,2017,flood_weather,Rain and weather,Daijiworld,1
+2017-02,2017,road_safety,Road safety,Daijiworld,21
+2017-03,2017,civic_infrastructure,Civic work,Daijiworld,5
+2017-03,2017,fire_emergency,Fire and emergency,Daijiworld,7
+2017-03,2017,governance,Governance,Daijiworld,4
+2017-03,2017,health,Health,Daijiworld,6
+2017-03,2017,other,Other,Daijiworld,1
+2017-03,2017,crime_public_safety,Public safety,Daijiworld,7
+2017-03,2017,flood_weather,Rain and weather,Daijiworld,1
+2017-03,2017,road_safety,Road safety,Daijiworld,25
+2017-04,2017,civic_infrastructure,Civic work,Daijiworld,6
+2017-04,2017,education,Education,Daijiworld,1
+2017-04,2017,fire_emergency,Fire and emergency,Daijiworld,7
+2017-04,2017,governance,Governance,Daijiworld,5
+2017-04,2017,health,Health,Daijiworld,4
+2017-04,2017,other,Other,Daijiworld,5
+2017-04,2017,other,Other,Mangalorean.com,1
+2017-04,2017,crime_public_safety,Public safety,Daijiworld,4
+2017-04,2017,flood_weather,Rain and weather,Daijiworld,1
+2017-04,2017,road_safety,Road safety,Daijiworld,23
+2017-05,2017,civic_infrastructure,Civic work,Daijiworld,8
+2017-05,2017,education,Education,Daijiworld,1
+2017-05,2017,fire_emergency,Fire and emergency,Daijiworld,4
+2017-05,2017,governance,Governance,Daijiworld,4
+2017-05,2017,health,Health,Daijiworld,7
+2017-05,2017,other,Other,Daijiworld,5
+2017-05,2017,crime_public_safety,Public safety,Daijiworld,6
+2017-05,2017,flood_weather,Rain and weather,Daijiworld,3
+2017-05,2017,road_safety,Road safety,Daijiworld,35
+2017-06,2017,civic_infrastructure,Civic work,Daijiworld,6
+2017-06,2017,education,Education,Daijiworld,1
+2017-06,2017,fire_emergency,Fire and emergency,Daijiworld,2
+2017-06,2017,governance,Governance,Daijiworld,4
+2017-06,2017,health,Health,Daijiworld,3
+2017-06,2017,other,Other,Daijiworld,6
+2017-06,2017,crime_public_safety,Public safety,Daijiworld,2
+2017-06,2017,flood_weather,Rain and weather,Daijiworld,5
+2017-06,2017,road_safety,Road safety,Daijiworld,22
+2017-07,2017,civic_infrastructure,Civic work,Daijiworld,4
+2017-07,2017,education,Education,Daijiworld,1
+2017-07,2017,fire_emergency,Fire and emergency,Daijiworld,2
+2017-07,2017,governance,Governance,Daijiworld,10
+2017-07,2017,health,Health,Daijiworld,4
+2017-07,2017,health,Health,Other sources,2
+2017-07,2017,other,Other,Daijiworld,4
+2017-07,2017,crime_public_safety,Public safety,Daijiworld,4
+2017-07,2017,flood_weather,Rain and weather,Daijiworld,3
+2017-07,2017,road_safety,Road safety,Daijiworld,11
+2017-08,2017,civic_infrastructure,Civic work,Daijiworld,4
+2017-08,2017,fire_emergency,Fire and emergency,Daijiworld,1
+2017-08,2017,governance,Governance,Daijiworld,14
+2017-08,2017,health,Health,Daijiworld,7
+2017-08,2017,other,Other,Daijiworld,6
+2017-08,2017,crime_public_safety,Public safety,Daijiworld,1
+2017-08,2017,flood_weather,Rain and weather,Daijiworld,6
+2017-08,2017,road_safety,Road safety,Daijiworld,18
+2017-09,2017,civic_infrastructure,Civic work,Daijiworld,5
+2017-09,2017,fire_emergency,Fire and emergency,Daijiworld,2
+2017-09,2017,governance,Governance,Daijiworld,7
+2017-09,2017,health,Health,Daijiworld,3
+2017-09,2017,other,Other,Daijiworld,4
+2017-09,2017,crime_public_safety,Public safety,Daijiworld,6
+2017-09,2017,flood_weather,Rain and weather,Daijiworld,1
+2017-09,2017,road_safety,Road safety,Daijiworld,16
+2017-10,2017,civic_infrastructure,Civic work,Daijiworld,6
+2017-10,2017,education,Education,Daijiworld,3
+2017-10,2017,fire_emergency,Fire and emergency,Daijiworld,8
+2017-10,2017,governance,Governance,Daijiworld,7
+2017-10,2017,health,Health,Daijiworld,5
+2017-10,2017,other,Other,Daijiworld,3
+2017-10,2017,crime_public_safety,Public safety,Daijiworld,1
+2017-10,2017,flood_weather,Rain and weather,Daijiworld,2
+2017-10,2017,road_safety,Road safety,Daijiworld,37
+2017-11,2017,civic_infrastructure,Civic work,Daijiworld,6
+2017-11,2017,fire_emergency,Fire and emergency,Daijiworld,6
+2017-11,2017,governance,Governance,Daijiworld,3
+2017-11,2017,health,Health,Daijiworld,3
+2017-11,2017,other,Other,Daijiworld,8
+2017-11,2017,crime_public_safety,Public safety,Daijiworld,2
+2017-11,2017,flood_weather,Rain and weather,Daijiworld,1
+2017-11,2017,road_safety,Road safety,Daijiworld,12
+2017-12,2017,civic_infrastructure,Civic work,Daijiworld,6
+2017-12,2017,education,Education,Daijiworld,1
+2017-12,2017,fire_emergency,Fire and emergency,Daijiworld,5
+2017-12,2017,governance,Governance,Daijiworld,6
+2017-12,2017,health,Health,Daijiworld,5
+2017-12,2017,other,Other,Daijiworld,2
+2017-12,2017,crime_public_safety,Public safety,Daijiworld,4
+2017-12,2017,road_safety,Road safety,Daijiworld,29
+2018-01,2018,civic_infrastructure,Civic work,Daijiworld,4
+2018-01,2018,education,Education,Daijiworld,1
+2018-01,2018,fire_emergency,Fire and emergency,Daijiworld,6
+2018-01,2018,governance,Governance,Daijiworld,5
+2018-01,2018,health,Health,Daijiworld,4
+2018-01,2018,other,Other,Daijiworld,6
+2018-01,2018,crime_public_safety,Public safety,Daijiworld,3
+2018-01,2018,road_safety,Road safety,Daijiworld,24
+2018-02,2018,civic_infrastructure,Civic work,Daijiworld,7
+2018-02,2018,fire_emergency,Fire and emergency,Daijiworld,3
+2018-02,2018,governance,Governance,Daijiworld,3
+2018-02,2018,health,Health,Daijiworld,6
+2018-02,2018,other,Other,Daijiworld,2
+2018-02,2018,crime_public_safety,Public safety,Daijiworld,8
+2018-02,2018,road_safety,Road safety,Daijiworld,12
+2018-03,2018,civic_infrastructure,Civic work,Daijiworld,4
+2018-03,2018,fire_emergency,Fire and emergency,Daijiworld,4
+2018-03,2018,governance,Governance,Daijiworld,6
+2018-03,2018,health,Health,Daijiworld,3
+2018-03,2018,other,Other,Daijiworld,3
+2018-03,2018,crime_public_safety,Public safety,Daijiworld,2
+2018-03,2018,road_safety,Road safety,Daijiworld,20
+2018-04,2018,civic_infrastructure,Civic work,Daijiworld,1
+2018-04,2018,education,Education,Daijiworld,1
+2018-04,2018,fire_emergency,Fire and emergency,Daijiworld,1
+2018-04,2018,governance,Governance,Daijiworld,2
+2018-04,2018,health,Health,Daijiworld,4
+2018-04,2018,other,Other,Daijiworld,4
+2018-04,2018,flood_weather,Rain and weather,Daijiworld,3
+2018-04,2018,road_safety,Road safety,Daijiworld,18
+2018-05,2018,civic_infrastructure,Civic work,Daijiworld,1
+2018-05,2018,civic_infrastructure,Civic work,Mangalorean.com,1
+2018-05,2018,education,Education,Mangalorean.com,3
+2018-05,2018,fire_emergency,Fire and emergency,Daijiworld,5
+2018-05,2018,fire_emergency,Fire and emergency,Mangalorean.com,2
+2018-05,2018,governance,Governance,Daijiworld,2
+2018-05,2018,governance,Governance,Mangalorean.com,1
+2018-05,2018,health,Health,Daijiworld,2
+2018-05,2018,health,Health,Mangalorean.com,3
+2018-05,2018,other,Other,Daijiworld,6
+2018-05,2018,other,Other,Mangalorean.com,2
+2018-05,2018,crime_public_safety,Public safety,Daijiworld,1
+2018-05,2018,flood_weather,Rain and weather,Daijiworld,7
+2018-05,2018,flood_weather,Rain and weather,Mangalorean.com,1
+2018-05,2018,road_safety,Road safety,Daijiworld,14
+2018-05,2018,road_safety,Road safety,Mangalorean.com,1
+2018-06,2018,civic_infrastructure,Civic work,Daijiworld,14
+2018-06,2018,civic_infrastructure,Civic work,Mangalorean.com,12
+2018-06,2018,education,Education,Daijiworld,2
+2018-06,2018,education,Education,Mangalorean.com,9
+2018-06,2018,fire_emergency,Fire and emergency,Daijiworld,3
+2018-06,2018,fire_emergency,Fire and emergency,Mangalorean.com,3
+2018-06,2018,governance,Governance,Daijiworld,13
+2018-06,2018,governance,Governance,Mangalorean.com,4
+2018-06,2018,health,Health,Daijiworld,6
+2018-06,2018,health,Health,Mangalorean.com,32
+2018-06,2018,other,Other,Daijiworld,5
+2018-06,2018,other,Other,Mangalorean.com,9
+2018-06,2018,crime_public_safety,Public safety,Daijiworld,2
+2018-06,2018,crime_public_safety,Public safety,Mangalorean.com,1
+2018-06,2018,flood_weather,Rain and weather,Daijiworld,12
+2018-06,2018,flood_weather,Rain and weather,Mangalorean.com,10
+2018-06,2018,road_safety,Road safety,Daijiworld,18
+2018-06,2018,road_safety,Road safety,Mangalorean.com,18
+2018-07,2018,civic_infrastructure,Civic work,Daijiworld,11
+2018-07,2018,civic_infrastructure,Civic work,Mangalorean.com,13
+2018-07,2018,education,Education,Daijiworld,4
+2018-07,2018,education,Education,Mangalorean.com,14
+2018-07,2018,fire_emergency,Fire and emergency,Daijiworld,6
+2018-07,2018,fire_emergency,Fire and emergency,Mangalorean.com,2
+2018-07,2018,governance,Governance,Daijiworld,11
+2018-07,2018,governance,Governance,Mangalorean.com,11
+2018-07,2018,health,Health,Daijiworld,4
+2018-07,2018,health,Health,Mangalorean.com,28
+2018-07,2018,other,Other,Daijiworld,3
+2018-07,2018,other,Other,Mangalorean.com,8
+2018-07,2018,crime_public_safety,Public safety,Daijiworld,4
+2018-07,2018,crime_public_safety,Public safety,Mangalorean.com,3
+2018-07,2018,flood_weather,Rain and weather,Daijiworld,4
+2018-07,2018,flood_weather,Rain and weather,Mangalorean.com,3
+2018-07,2018,road_safety,Road safety,Daijiworld,32
+2018-07,2018,road_safety,Road safety,Mangalorean.com,15
+2018-08,2018,civic_infrastructure,Civic work,Daijiworld,10
+2018-08,2018,civic_infrastructure,Civic work,Mangalorean.com,11
+2018-08,2018,education,Education,Mangalorean.com,16
+2018-08,2018,fire_emergency,Fire and emergency,Daijiworld,4
+2018-08,2018,fire_emergency,Fire and emergency,Mangalorean.com,12
+2018-08,2018,governance,Governance,Daijiworld,8
+2018-08,2018,governance,Governance,Mangalorean.com,9
+2018-08,2018,health,Health,Daijiworld,5
+2018-08,2018,health,Health,Mangalorean.com,23
+2018-08,2018,other,Other,Daijiworld,5
+2018-08,2018,other,Other,Mangalorean.com,1
+2018-08,2018,crime_public_safety,Public safety,Daijiworld,2
+2018-08,2018,crime_public_safety,Public safety,Mangalorean.com,4
+2018-08,2018,flood_weather,Rain and weather,Daijiworld,21
+2018-08,2018,flood_weather,Rain and weather,Mangalorean.com,13
+2018-08,2018,road_safety,Road safety,Daijiworld,49
+2018-08,2018,road_safety,Road safety,Mangalorean.com,18
+2018-09,2018,civic_infrastructure,Civic work,Daijiworld,9
+2018-09,2018,civic_infrastructure,Civic work,Mangalorean.com,11
+2018-09,2018,education,Education,Daijiworld,1
+2018-09,2018,education,Education,Mangalorean.com,8
+2018-09,2018,fire_emergency,Fire and emergency,Daijiworld,5
+2018-09,2018,fire_emergency,Fire and emergency,Mangalorean.com,2
+2018-09,2018,governance,Governance,Daijiworld,5
+2018-09,2018,governance,Governance,Mangalorean.com,12
+2018-09,2018,health,Health,Daijiworld,5
+2018-09,2018,health,Health,Mangalorean.com,35
+2018-09,2018,other,Other,Daijiworld,3
+2018-09,2018,other,Other,Mangalorean.com,9
+2018-09,2018,crime_public_safety,Public safety,Daijiworld,2
+2018-09,2018,crime_public_safety,Public safety,Mangalorean.com,3
+2018-09,2018,flood_weather,Rain and weather,Daijiworld,6
+2018-09,2018,flood_weather,Rain and weather,Mangalorean.com,6
+2018-09,2018,road_safety,Road safety,Daijiworld,22
+2018-09,2018,road_safety,Road safety,Mangalorean.com,4
+2018-10,2018,civic_infrastructure,Civic work,Daijiworld,5
+2018-10,2018,civic_infrastructure,Civic work,Mangalorean.com,10
+2018-10,2018,education,Education,Daijiworld,1
+2018-10,2018,education,Education,Mangalorean.com,13
+2018-10,2018,fire_emergency,Fire and emergency,Daijiworld,4
+2018-10,2018,fire_emergency,Fire and emergency,Mangalorean.com,5
+2018-10,2018,governance,Governance,Daijiworld,7
+2018-10,2018,governance,Governance,Mangalorean.com,3
+2018-10,2018,health,Health,Daijiworld,6
+2018-10,2018,health,Health,Mangalorean.com,26
+2018-10,2018,other,Other,Daijiworld,4
+2018-10,2018,other,Other,Mangalorean.com,2
+2018-10,2018,crime_public_safety,Public safety,Daijiworld,4
+2018-10,2018,crime_public_safety,Public safety,Mangalorean.com,1
+2018-10,2018,flood_weather,Rain and weather,Daijiworld,3
+2018-10,2018,flood_weather,Rain and weather,Mangalorean.com,3
+2018-10,2018,road_safety,Road safety,Daijiworld,27
+2018-10,2018,road_safety,Road safety,Mangalorean.com,13
+2018-11,2018,civic_infrastructure,Civic work,Daijiworld,7
+2018-11,2018,civic_infrastructure,Civic work,Mangalorean.com,8
+2018-11,2018,education,Education,Daijiworld,1
+2018-11,2018,education,Education,Mangalorean.com,9
+2018-11,2018,fire_emergency,Fire and emergency,Daijiworld,2
+2018-11,2018,fire_emergency,Fire and emergency,Mangalorean.com,4
+2018-11,2018,governance,Governance,Daijiworld,1
+2018-11,2018,governance,Governance,Mangalorean.com,7
+2018-11,2018,health,Health,Daijiworld,4
+2018-11,2018,health,Health,Mangalorean.com,33
+2018-11,2018,other,Other,Daijiworld,4
+2018-11,2018,other,Other,Mangalorean.com,10
+2018-11,2018,crime_public_safety,Public safety,Daijiworld,5
+2018-11,2018,crime_public_safety,Public safety,Mangalorean.com,4
+2018-11,2018,flood_weather,Rain and weather,Daijiworld,3
+2018-11,2018,flood_weather,Rain and weather,Mangalorean.com,1
+2018-11,2018,road_safety,Road safety,Daijiworld,20
+2018-11,2018,road_safety,Road safety,Mangalorean.com,8
+2018-12,2018,civic_infrastructure,Civic work,Daijiworld,3
+2018-12,2018,civic_infrastructure,Civic work,Mangalorean.com,10
+2018-12,2018,education,Education,Mangalorean.com,13
+2018-12,2018,fire_emergency,Fire and emergency,Daijiworld,6
+2018-12,2018,fire_emergency,Fire and emergency,Mangalorean.com,5
+2018-12,2018,governance,Governance,Daijiworld,3
+2018-12,2018,governance,Governance,Mangalorean.com,5
+2018-12,2018,health,Health,Daijiworld,4
+2018-12,2018,health,Health,Mangalorean.com,24
+2018-12,2018,other,Other,Daijiworld,7
+2018-12,2018,other,Other,Mangalorean.com,5
+2018-12,2018,crime_public_safety,Public safety,Daijiworld,1
+2018-12,2018,crime_public_safety,Public safety,Mangalorean.com,1
+2018-12,2018,flood_weather,Rain and weather,Daijiworld,1
+2018-12,2018,road_safety,Road safety,Daijiworld,31
+2018-12,2018,road_safety,Road safety,Mangalorean.com,8
+2019-01,2019,civic_infrastructure,Civic work,Daijiworld,12
+2019-01,2019,civic_infrastructure,Civic work,Mangalorean.com,8
+2019-01,2019,education,Education,Daijiworld,1
+2019-01,2019,education,Education,Mangalorean.com,19
+2019-01,2019,fire_emergency,Fire and emergency,Daijiworld,4
+2019-01,2019,fire_emergency,Fire and emergency,Mangalorean.com,5
+2019-01,2019,governance,Governance,Daijiworld,4
+2019-01,2019,governance,Governance,Mangalorean.com,5
+2019-01,2019,health,Health,Daijiworld,4
+2019-01,2019,health,Health,Mangalorean.com,38
+2019-01,2019,other,Other,Daijiworld,4
+2019-01,2019,other,Other,Mangalorean.com,11
+2019-01,2019,crime_public_safety,Public safety,Daijiworld,4
+2019-01,2019,crime_public_safety,Public safety,Mangalorean.com,2
+2019-01,2019,flood_weather,Rain and weather,Daijiworld,2
+2019-01,2019,flood_weather,Rain and weather,Mangalorean.com,1
+2019-01,2019,road_safety,Road safety,Daijiworld,19
+2019-01,2019,road_safety,Road safety,Mangalorean.com,6
+2019-02,2019,civic_infrastructure,Civic work,Daijiworld,7
+2019-02,2019,civic_infrastructure,Civic work,Mangalorean.com,9
+2019-02,2019,education,Education,Daijiworld,1
+2019-02,2019,education,Education,Mangalorean.com,11
+2019-02,2019,fire_emergency,Fire and emergency,Daijiworld,8
+2019-02,2019,fire_emergency,Fire and emergency,Mangalorean.com,4
+2019-02,2019,governance,Governance,Daijiworld,3
+2019-02,2019,governance,Governance,Mangalorean.com,8
+2019-02,2019,health,Health,Daijiworld,6
+2019-02,2019,health,Health,Mangalorean.com,25
+2019-02,2019,other,Other,Daijiworld,3
+2019-02,2019,other,Other,Mangalorean.com,6
+2019-02,2019,crime_public_safety,Public safety,Daijiworld,3
+2019-02,2019,crime_public_safety,Public safety,Mangalorean.com,1
+2019-02,2019,flood_weather,Rain and weather,Daijiworld,2
+2019-02,2019,flood_weather,Rain and weather,Mangalorean.com,4
+2019-02,2019,road_safety,Road safety,Daijiworld,19
+2019-02,2019,road_safety,Road safety,Mangalorean.com,13
+2019-03,2019,civic_infrastructure,Civic work,Daijiworld,4
+2019-03,2019,civic_infrastructure,Civic work,Mangalorean.com,8
+2019-03,2019,education,Education,Daijiworld,5
+2019-03,2019,education,Education,Mangalorean.com,15
+2019-03,2019,fire_emergency,Fire and emergency,Daijiworld,8
+2019-03,2019,fire_emergency,Fire and emergency,Mangalorean.com,3
+2019-03,2019,governance,Governance,Daijiworld,4
+2019-03,2019,governance,Governance,Mangalorean.com,6
+2019-03,2019,health,Health,Daijiworld,12
+2019-03,2019,health,Health,Mangalorean.com,25
+2019-03,2019,other,Other,Daijiworld,4
+2019-03,2019,other,Other,Mangalorean.com,6
+2019-03,2019,crime_public_safety,Public safety,Daijiworld,3
+2019-03,2019,crime_public_safety,Public safety,Mangalorean.com,4
+2019-03,2019,flood_weather,Rain and weather,Daijiworld,2
+2019-03,2019,road_safety,Road safety,Daijiworld,26
+2019-03,2019,road_safety,Road safety,Mangalorean.com,9
+2019-04,2019,civic_infrastructure,Civic work,Daijiworld,5
+2019-04,2019,civic_infrastructure,Civic work,Mangalorean.com,11
+2019-04,2019,education,Education,Daijiworld,2
+2019-04,2019,education,Education,Mangalorean.com,13
+2019-04,2019,fire_emergency,Fire and emergency,Daijiworld,5
+2019-04,2019,fire_emergency,Fire and emergency,Mangalorean.com,10
+2019-04,2019,governance,Governance,Daijiworld,2
+2019-04,2019,governance,Governance,Mangalorean.com,3
+2019-04,2019,health,Health,Daijiworld,6
+2019-04,2019,health,Health,Mangalorean.com,22
+2019-04,2019,other,Other,Daijiworld,12
+2019-04,2019,other,Other,Mangalorean.com,3
+2019-04,2019,crime_public_safety,Public safety,Mangalorean.com,2
+2019-04,2019,flood_weather,Rain and weather,Daijiworld,4
+2019-04,2019,flood_weather,Rain and weather,Mangalorean.com,3
+2019-04,2019,road_safety,Road safety,Daijiworld,18
+2019-04,2019,road_safety,Road safety,Mangalorean.com,7
+2019-05,2019,civic_infrastructure,Civic work,Daijiworld,7
+2019-05,2019,civic_infrastructure,Civic work,Mangalorean.com,14
+2019-05,2019,education,Education,Daijiworld,4
+2019-05,2019,education,Education,Mangalorean.com,8
+2019-05,2019,fire_emergency,Fire and emergency,Daijiworld,1
+2019-05,2019,fire_emergency,Fire and emergency,Mangalorean.com,1
+2019-05,2019,governance,Governance,Mangalorean.com,7
+2019-05,2019,health,Health,Daijiworld,6
+2019-05,2019,health,Health,Mangalorean.com,24
+2019-05,2019,other,Other,Daijiworld,10
+2019-05,2019,other,Other,Mangalorean.com,5
+2019-05,2019,crime_public_safety,Public safety,Mangalorean.com,5
+2019-05,2019,flood_weather,Rain and weather,Daijiworld,7
+2019-05,2019,flood_weather,Rain and weather,Mangalorean.com,6
+2019-05,2019,road_safety,Road safety,Daijiworld,25
+2019-05,2019,road_safety,Road safety,Mangalorean.com,9
+2019-06,2019,civic_infrastructure,Civic work,Daijiworld,13
+2019-06,2019,civic_infrastructure,Civic work,Mangalorean.com,13
+2019-06,2019,education,Education,Daijiworld,1
+2019-06,2019,education,Education,Mangalorean.com,12
+2019-06,2019,fire_emergency,Fire and emergency,Daijiworld,3
+2019-06,2019,fire_emergency,Fire and emergency,Mangalorean.com,4
+2019-06,2019,governance,Governance,Mangalorean.com,5
+2019-06,2019,health,Health,Daijiworld,7
+2019-06,2019,health,Health,Mangalorean.com,40
+2019-06,2019,other,Other,Daijiworld,10
+2019-06,2019,other,Other,Mangalorean.com,7
+2019-06,2019,crime_public_safety,Public safety,Mangalorean.com,4
+2019-06,2019,flood_weather,Rain and weather,Daijiworld,11
+2019-06,2019,flood_weather,Rain and weather,Mangalorean.com,10
+2019-06,2019,road_safety,Road safety,Daijiworld,33
+2019-06,2019,road_safety,Road safety,Mangalorean.com,22
+2019-07,2019,civic_infrastructure,Civic work,Daijiworld,5
+2019-07,2019,civic_infrastructure,Civic work,Mangalorean.com,17
+2019-07,2019,education,Education,Mangalorean.com,17
+2019-07,2019,fire_emergency,Fire and emergency,Daijiworld,2
+2019-07,2019,fire_emergency,Fire and emergency,Mangalorean.com,10
+2019-07,2019,governance,Governance,Daijiworld,2
+2019-07,2019,governance,Governance,Mangalorean.com,8
+2019-07,2019,health,Health,Daijiworld,24
+2019-07,2019,health,Health,Mangalorean.com,68
+2019-07,2019,other,Other,Daijiworld,13
+2019-07,2019,other,Other,Mangalorean.com,5
+2019-07,2019,crime_public_safety,Public safety,Mangalorean.com,12
+2019-07,2019,flood_weather,Rain and weather,Daijiworld,4
+2019-07,2019,flood_weather,Rain and weather,Mangalorean.com,19
+2019-07,2019,road_safety,Road safety,Daijiworld,24
+2019-07,2019,road_safety,Road safety,Mangalorean.com,19
+2019-08,2019,civic_infrastructure,Civic work,Daijiworld,15
+2019-08,2019,civic_infrastructure,Civic work,Mangalorean.com,11
+2019-08,2019,education,Education,Daijiworld,3
+2019-08,2019,education,Education,Mangalorean.com,17
+2019-08,2019,fire_emergency,Fire and emergency,Daijiworld,11
+2019-08,2019,fire_emergency,Fire and emergency,Mangalorean.com,15
+2019-08,2019,governance,Governance,Mangalorean.com,5
+2019-08,2019,health,Health,Daijiworld,17
+2019-08,2019,health,Health,Mangalorean.com,37
+2019-08,2019,other,Other,Daijiworld,15
+2019-08,2019,other,Other,Mangalorean.com,3
+2019-08,2019,crime_public_safety,Public safety,Mangalorean.com,6
+2019-08,2019,flood_weather,Rain and weather,Daijiworld,48
+2019-08,2019,flood_weather,Rain and weather,Mangalorean.com,21
+2019-08,2019,road_safety,Road safety,Daijiworld,21
+2019-08,2019,road_safety,Road safety,Mangalorean.com,16
+2019-09,2019,civic_infrastructure,Civic work,Daijiworld,11
+2019-09,2019,civic_infrastructure,Civic work,Mangalorean.com,16
+2019-09,2019,education,Education,Daijiworld,1
+2019-09,2019,education,Education,Mangalorean.com,17
+2019-09,2019,fire_emergency,Fire and emergency,Daijiworld,2
+2019-09,2019,fire_emergency,Fire and emergency,Mangalorean.com,3
+2019-09,2019,governance,Governance,Daijiworld,1
+2019-09,2019,governance,Governance,Mangalorean.com,5
+2019-09,2019,health,Health,Daijiworld,11
+2019-09,2019,health,Health,Mangalorean.com,42
+2019-09,2019,other,Other,Daijiworld,7
+2019-09,2019,other,Other,Mangalorean.com,5
+2019-09,2019,crime_public_safety,Public safety,Mangalorean.com,6
+2019-09,2019,flood_weather,Rain and weather,Daijiworld,13
+2019-09,2019,flood_weather,Rain and weather,Mangalorean.com,8
+2019-09,2019,road_safety,Road safety,Daijiworld,26
+2019-09,2019,road_safety,Road safety,Mangalorean.com,25
+2019-10,2019,civic_infrastructure,Civic work,Daijiworld,13
+2019-10,2019,civic_infrastructure,Civic work,Mangalorean.com,7
+2019-10,2019,education,Education,Daijiworld,5
+2019-10,2019,education,Education,Mangalorean.com,14
+2019-10,2019,fire_emergency,Fire and emergency,Daijiworld,2
+2019-10,2019,fire_emergency,Fire and emergency,Mangalorean.com,10
+2019-10,2019,governance,Governance,Daijiworld,1
+2019-10,2019,governance,Governance,Mangalorean.com,9
+2019-10,2019,health,Health,Daijiworld,4
+2019-10,2019,health,Health,Mangalorean.com,40
+2019-10,2019,other,Other,Daijiworld,13
+2019-10,2019,other,Other,Mangalorean.com,4
+2019-10,2019,crime_public_safety,Public safety,Mangalorean.com,6
+2019-10,2019,flood_weather,Rain and weather,Daijiworld,21
+2019-10,2019,flood_weather,Rain and weather,Mangalorean.com,9
+2019-10,2019,road_safety,Road safety,Daijiworld,24
+2019-10,2019,road_safety,Road safety,Mangalorean.com,17
+2019-11,2019,civic_infrastructure,Civic work,Daijiworld,10
+2019-11,2019,civic_infrastructure,Civic work,Mangalorean.com,8
+2019-11,2019,education,Education,Daijiworld,6
+2019-11,2019,education,Education,Mangalorean.com,11
+2019-11,2019,fire_emergency,Fire and emergency,Daijiworld,2
+2019-11,2019,fire_emergency,Fire and emergency,Mangalorean.com,1
+2019-11,2019,governance,Governance,Daijiworld,1
+2019-11,2019,governance,Governance,Mangalorean.com,16
+2019-11,2019,health,Health,Daijiworld,6
+2019-11,2019,health,Health,Mangalorean.com,25
+2019-11,2019,other,Other,Daijiworld,17
+2019-11,2019,other,Other,Mangalorean.com,9
+2019-11,2019,crime_public_safety,Public safety,Mangalorean.com,4
+2019-11,2019,flood_weather,Rain and weather,Daijiworld,1
+2019-11,2019,flood_weather,Rain and weather,Mangalorean.com,3
+2019-11,2019,road_safety,Road safety,Daijiworld,23
+2019-11,2019,road_safety,Road safety,Mangalorean.com,12
+2019-12,2019,civic_infrastructure,Civic work,Daijiworld,15
+2019-12,2019,civic_infrastructure,Civic work,Mangalorean.com,15
+2019-12,2019,education,Education,Daijiworld,5
+2019-12,2019,education,Education,Mangalorean.com,9
+2019-12,2019,fire_emergency,Fire and emergency,Daijiworld,1
+2019-12,2019,fire_emergency,Fire and emergency,Mangalorean.com,6
+2019-12,2019,governance,Governance,Daijiworld,2
+2019-12,2019,governance,Governance,Mangalorean.com,11
+2019-12,2019,health,Health,Daijiworld,10
+2019-12,2019,health,Health,Mangalorean.com,43
+2019-12,2019,other,Other,Daijiworld,8
+2019-12,2019,other,Other,Mangalorean.com,14
+2019-12,2019,crime_public_safety,Public safety,Mangalorean.com,9
+2019-12,2019,flood_weather,Rain and weather,Daijiworld,1
+2019-12,2019,flood_weather,Rain and weather,Mangalorean.com,1
+2019-12,2019,road_safety,Road safety,Daijiworld,23
+2019-12,2019,road_safety,Road safety,Mangalorean.com,12
+2020-01,2020,civic_infrastructure,Civic work,Daijiworld,15
+2020-01,2020,civic_infrastructure,Civic work,Mangalorean.com,16
+2020-01,2020,education,Education,Daijiworld,2
+2020-01,2020,education,Education,Mangalorean.com,14
+2020-01,2020,fire_emergency,Fire and emergency,Daijiworld,1
+2020-01,2020,fire_emergency,Fire and emergency,Mangalorean.com,7
+2020-01,2020,governance,Governance,Mangalorean.com,16
+2020-01,2020,health,Health,Daijiworld,7
+2020-01,2020,health,Health,Mangalorean.com,30
+2020-01,2020,other,Other,Daijiworld,14
+2020-01,2020,other,Other,Mangalorean.com,2
+2020-01,2020,crime_public_safety,Public safety,Mangalorean.com,5
+2020-01,2020,flood_weather,Rain and weather,Daijiworld,5
+2020-01,2020,flood_weather,Rain and weather,Mangalorean.com,1
+2020-01,2020,road_safety,Road safety,Daijiworld,13
+2020-01,2020,road_safety,Road safety,Mangalorean.com,10
+2020-02,2020,civic_infrastructure,Civic work,Daijiworld,10
+2020-02,2020,civic_infrastructure,Civic work,Mangalorean.com,12
+2020-02,2020,education,Education,Daijiworld,2
+2020-02,2020,education,Education,Mangalorean.com,13
+2020-02,2020,fire_emergency,Fire and emergency,Daijiworld,1
+2020-02,2020,fire_emergency,Fire and emergency,Mangalorean.com,2
+2020-02,2020,governance,Governance,Mangalorean.com,7
+2020-02,2020,health,Health,Daijiworld,19
+2020-02,2020,health,Health,Mangalorean.com,44
+2020-02,2020,other,Other,Daijiworld,17
+2020-02,2020,other,Other,Mangalorean.com,4
+2020-02,2020,crime_public_safety,Public safety,Mangalorean.com,3
+2020-02,2020,road_safety,Road safety,Daijiworld,23
+2020-02,2020,road_safety,Road safety,Mangalorean.com,12
+2020-03,2020,civic_infrastructure,Civic work,Daijiworld,7
+2020-03,2020,civic_infrastructure,Civic work,Mangalorean.com,3
+2020-03,2020,education,Education,Mangalorean.com,12
+2020-03,2020,fire_emergency,Fire and emergency,Daijiworld,1
+2020-03,2020,fire_emergency,Fire and emergency,Mangalorean.com,2
+2020-03,2020,governance,Governance,Daijiworld,2
+2020-03,2020,governance,Governance,Mangalorean.com,3
+2020-03,2020,health,Health,Daijiworld,45
+2020-03,2020,health,Health,Mangalorean.com,160
+2020-03,2020,other,Other,Daijiworld,2
+2020-03,2020,other,Other,Mangalorean.com,1
+2020-03,2020,crime_public_safety,Public safety,Mangalorean.com,3
+2020-03,2020,flood_weather,Rain and weather,Daijiworld,1
+2020-03,2020,flood_weather,Rain and weather,Mangalorean.com,1
+2020-03,2020,road_safety,Road safety,Daijiworld,13
+2020-03,2020,road_safety,Road safety,Mangalorean.com,3
+2020-04,2020,civic_infrastructure,Civic work,Daijiworld,4
+2020-04,2020,civic_infrastructure,Civic work,Mangalorean.com,2
+2020-04,2020,education,Education,Mangalorean.com,1
+2020-04,2020,fire_emergency,Fire and emergency,Daijiworld,4
+2020-04,2020,health,Health,Daijiworld,27
+2020-04,2020,health,Health,Mangalorean.com,172
+2020-04,2020,other,Other,Daijiworld,5
+2020-04,2020,other,Other,Mangalorean.com,3
+2020-04,2020,crime_public_safety,Public safety,Daijiworld,1
+2020-04,2020,crime_public_safety,Public safety,Mangalorean.com,1
+2020-04,2020,flood_weather,Rain and weather,Daijiworld,2
+2020-04,2020,flood_weather,Rain and weather,Mangalorean.com,1
+2020-04,2020,road_safety,Road safety,Daijiworld,4
+2020-04,2020,road_safety,Road safety,Mangalorean.com,2
+2020-05,2020,civic_infrastructure,Civic work,Daijiworld,5
+2020-05,2020,civic_infrastructure,Civic work,Mangalorean.com,4
+2020-05,2020,education,Education,Daijiworld,3
+2020-05,2020,education,Education,Mangalorean.com,2
+2020-05,2020,fire_emergency,Fire and emergency,Daijiworld,18
+2020-05,2020,fire_emergency,Fire and emergency,Mangalorean.com,2
+2020-05,2020,governance,Governance,Mangalorean.com,3
+2020-05,2020,health,Health,Daijiworld,23
+2020-05,2020,health,Health,Mangalorean.com,175
+2020-05,2020,other,Other,Daijiworld,18
+2020-05,2020,crime_public_safety,Public safety,Mangalorean.com,1
+2020-05,2020,flood_weather,Rain and weather,Daijiworld,2
+2020-05,2020,flood_weather,Rain and weather,Mangalorean.com,9
+2020-05,2020,road_safety,Road safety,Daijiworld,15
+2020-05,2020,road_safety,Road safety,Mangalorean.com,6
+2020-06,2020,civic_infrastructure,Civic work,Daijiworld,12
+2020-06,2020,civic_infrastructure,Civic work,Mangalorean.com,6
+2020-06,2020,education,Education,Mangalorean.com,1
+2020-06,2020,fire_emergency,Fire and emergency,Daijiworld,12
+2020-06,2020,fire_emergency,Fire and emergency,Mangalorean.com,2
+2020-06,2020,governance,Governance,Daijiworld,1
+2020-06,2020,governance,Governance,Mangalorean.com,5
+2020-06,2020,health,Health,Daijiworld,24
+2020-06,2020,health,Health,Mangalorean.com,173
+2020-06,2020,other,Other,Daijiworld,4
+2020-06,2020,crime_public_safety,Public safety,Daijiworld,2
+2020-06,2020,crime_public_safety,Public safety,Mangalorean.com,1
+2020-06,2020,flood_weather,Rain and weather,Daijiworld,6
+2020-06,2020,flood_weather,Rain and weather,Mangalorean.com,3
+2020-06,2020,road_safety,Road safety,Daijiworld,17
+2020-06,2020,road_safety,Road safety,Mangalorean.com,3
+2020-07,2020,civic_infrastructure,Civic work,Daijiworld,5
+2020-07,2020,civic_infrastructure,Civic work,Mangalorean.com,7
+2020-07,2020,education,Education,Mangalorean.com,8
+2020-07,2020,fire_emergency,Fire and emergency,Daijiworld,13
+2020-07,2020,fire_emergency,Fire and emergency,Mangalorean.com,2
+2020-07,2020,governance,Governance,Mangalorean.com,2
+2020-07,2020,health,Health,Daijiworld,40
+2020-07,2020,health,Health,Mangalorean.com,254
+2020-07,2020,other,Other,Daijiworld,6
+2020-07,2020,other,Other,Mangalorean.com,3
+2020-07,2020,crime_public_safety,Public safety,Daijiworld,2
+2020-07,2020,crime_public_safety,Public safety,Mangalorean.com,1
+2020-07,2020,flood_weather,Rain and weather,Daijiworld,5
+2020-07,2020,flood_weather,Rain and weather,Mangalorean.com,6
+2020-07,2020,road_safety,Road safety,Daijiworld,10
+2020-07,2020,road_safety,Road safety,Mangalorean.com,3
+2020-08,2020,civic_infrastructure,Civic work,Daijiworld,4
+2020-08,2020,civic_infrastructure,Civic work,Mangalorean.com,3
+2020-08,2020,education,Education,Mangalorean.com,1
+2020-08,2020,fire_emergency,Fire and emergency,Daijiworld,21
+2020-08,2020,fire_emergency,Fire and emergency,Mangalorean.com,5
+2020-08,2020,governance,Governance,Daijiworld,2
+2020-08,2020,governance,Governance,Mangalorean.com,5
+2020-08,2020,health,Health,Daijiworld,23
+2020-08,2020,health,Health,Mangalorean.com,167
+2020-08,2020,other,Other,Daijiworld,9
+2020-08,2020,other,Other,Mangalorean.com,2
+2020-08,2020,crime_public_safety,Public safety,Mangalorean.com,1
+2020-08,2020,flood_weather,Rain and weather,Daijiworld,15
+2020-08,2020,flood_weather,Rain and weather,Mangalorean.com,9
+2020-08,2020,road_safety,Road safety,Daijiworld,22
+2020-08,2020,road_safety,Road safety,Mangalorean.com,11
+2020-09,2020,civic_infrastructure,Civic work,Daijiworld,10
+2020-09,2020,education,Education,Daijiworld,1
+2020-09,2020,fire_emergency,Fire and emergency,Daijiworld,19
+2020-09,2020,fire_emergency,Fire and emergency,Mangalorean.com,1
+2020-09,2020,governance,Governance,Daijiworld,1
+2020-09,2020,health,Health,Daijiworld,14
+2020-09,2020,health,Health,Mangalorean.com,3
+2020-09,2020,other,Other,Daijiworld,6
+2020-09,2020,flood_weather,Rain and weather,Daijiworld,11
+2020-09,2020,flood_weather,Rain and weather,Mangalorean.com,2
+2020-09,2020,road_safety,Road safety,Daijiworld,17
+2020-09,2020,road_safety,Road safety,Mangalorean.com,2
+2020-10,2020,civic_infrastructure,Civic work,Daijiworld,7
+2020-10,2020,education,Education,Daijiworld,2
+2020-10,2020,fire_emergency,Fire and emergency,Daijiworld,15
+2020-10,2020,governance,Governance,Daijiworld,1
+2020-10,2020,health,Health,Daijiworld,17
+2020-10,2020,other,Other,Daijiworld,5
+2020-10,2020,crime_public_safety,Public safety,Daijiworld,3
+2020-10,2020,flood_weather,Rain and weather,Daijiworld,10
+2020-10,2020,flood_weather,Rain and weather,Mangalorean.com,1
+2020-10,2020,road_safety,Road safety,Daijiworld,15
+2020-10,2020,road_safety,Road safety,Mangalorean.com,1
+2020-11,2020,civic_infrastructure,Civic work,Daijiworld,9
+2020-11,2020,education,Education,Daijiworld,2
+2020-11,2020,fire_emergency,Fire and emergency,Daijiworld,7
+2020-11,2020,health,Health,Daijiworld,23
+2020-11,2020,other,Other,Daijiworld,3
+2020-11,2020,crime_public_safety,Public safety,Daijiworld,2
+2020-11,2020,flood_weather,Rain and weather,Daijiworld,6
+2020-11,2020,road_safety,Road safety,Daijiworld,12
+2020-12,2020,civic_infrastructure,Civic work,Daijiworld,6
+2020-12,2020,fire_emergency,Fire and emergency,Daijiworld,10
+2020-12,2020,health,Health,Daijiworld,13
+2020-12,2020,other,Other,Daijiworld,3
+2020-12,2020,flood_weather,Rain and weather,Daijiworld,3
+2020-12,2020,road_safety,Road safety,Daijiworld,19
+2021-01,2021,civic_infrastructure,Civic work,Daijiworld,10
+2021-01,2021,fire_emergency,Fire and emergency,Daijiworld,20
+2021-01,2021,governance,Governance,Daijiworld,4
+2021-01,2021,health,Health,Daijiworld,15
+2021-01,2021,other,Other,Daijiworld,7
+2021-01,2021,crime_public_safety,Public safety,Daijiworld,1
+2021-01,2021,flood_weather,Rain and weather,Daijiworld,5
+2021-01,2021,road_safety,Road safety,Daijiworld,31
+2021-02,2021,civic_infrastructure,Civic work,Daijiworld,4
+2021-02,2021,education,Education,Daijiworld,1
+2021-02,2021,fire_emergency,Fire and emergency,Daijiworld,7
+2021-02,2021,governance,Governance,Daijiworld,1
+2021-02,2021,health,Health,Daijiworld,6
+2021-02,2021,other,Other,Daijiworld,5
+2021-02,2021,crime_public_safety,Public safety,Daijiworld,2
+2021-02,2021,flood_weather,Rain and weather,Daijiworld,2
+2021-02,2021,road_safety,Road safety,Daijiworld,25
+2021-03,2021,civic_infrastructure,Civic work,Daijiworld,14
+2021-03,2021,education,Education,Daijiworld,3
+2021-03,2021,fire_emergency,Fire and emergency,Daijiworld,14
+2021-03,2021,health,Health,Daijiworld,8
+2021-03,2021,other,Other,Daijiworld,4
+2021-03,2021,crime_public_safety,Public safety,Daijiworld,2
+2021-03,2021,flood_weather,Rain and weather,Daijiworld,3
+2021-03,2021,road_safety,Road safety,Daijiworld,34
+2021-04,2021,civic_infrastructure,Civic work,Daijiworld,14
+2021-04,2021,education,Education,Daijiworld,1
+2021-04,2021,fire_emergency,Fire and emergency,Daijiworld,11
+2021-04,2021,health,Health,Daijiworld,24
+2021-04,2021,other,Other,Daijiworld,12
+2021-04,2021,crime_public_safety,Public safety,Daijiworld,3
+2021-04,2021,flood_weather,Rain and weather,Daijiworld,4
+2021-04,2021,road_safety,Road safety,Daijiworld,30
+2021-04,2021,road_safety,Road safety,Mangalore Today,1
+2021-05,2021,civic_infrastructure,Civic work,Daijiworld,8
+2021-05,2021,fire_emergency,Fire and emergency,Daijiworld,5
+2021-05,2021,health,Health,Daijiworld,15
+2021-05,2021,other,Other,Daijiworld,8
+2021-05,2021,crime_public_safety,Public safety,Daijiworld,1
+2021-05,2021,flood_weather,Rain and weather,Daijiworld,8
+2021-05,2021,road_safety,Road safety,Daijiworld,19
+2021-06,2021,civic_infrastructure,Civic work,Daijiworld,15
+2021-06,2021,education,Education,Daijiworld,1
+2021-06,2021,fire_emergency,Fire and emergency,Daijiworld,5
+2021-06,2021,governance,Governance,Daijiworld,2
+2021-06,2021,health,Health,Daijiworld,12
+2021-06,2021,health,Health,Other sources,1
+2021-06,2021,other,Other,Daijiworld,8
+2021-06,2021,flood_weather,Rain and weather,Daijiworld,8
+2021-06,2021,road_safety,Road safety,Daijiworld,17
+2021-07,2021,civic_infrastructure,Civic work,Daijiworld,10
+2021-07,2021,education,Education,Daijiworld,1
+2021-07,2021,fire_emergency,Fire and emergency,Daijiworld,8
+2021-07,2021,health,Health,Daijiworld,16
+2021-07,2021,other,Other,Daijiworld,11
+2021-07,2021,crime_public_safety,Public safety,Daijiworld,2
+2021-07,2021,flood_weather,Rain and weather,Daijiworld,19
+2021-07,2021,road_safety,Road safety,Daijiworld,19
+2021-08,2021,civic_infrastructure,Civic work,Daijiworld,13
+2021-08,2021,education,Education,Daijiworld,1
+2021-08,2021,fire_emergency,Fire and emergency,Daijiworld,5
+2021-08,2021,health,Health,Daijiworld,7
+2021-08,2021,other,Other,Daijiworld,3
+2021-08,2021,crime_public_safety,Public safety,Daijiworld,1
+2021-08,2021,flood_weather,Rain and weather,Daijiworld,6
+2021-08,2021,road_safety,Road safety,Daijiworld,15
+2021-09,2021,civic_infrastructure,Civic work,Daijiworld,7
+2021-09,2021,civic_infrastructure,Civic work,Namma Kudla News,1
+2021-09,2021,education,Education,Daijiworld,3
+2021-09,2021,education,Education,Namma Kudla News,3
+2021-09,2021,fire_emergency,Fire and emergency,Daijiworld,4
+2021-09,2021,governance,Governance,Namma Kudla News,1
+2021-09,2021,health,Health,Daijiworld,12
+2021-09,2021,health,Health,Namma Kudla News,1
+2021-09,2021,other,Other,Daijiworld,3
+2021-09,2021,other,Other,Namma Kudla News,3
+2021-09,2021,crime_public_safety,Public safety,Daijiworld,1
+2021-09,2021,crime_public_safety,Public safety,Namma Kudla News,1
+2021-09,2021,flood_weather,Rain and weather,Daijiworld,2
+2021-09,2021,road_safety,Road safety,Daijiworld,14
+2021-10,2021,civic_infrastructure,Civic work,Daijiworld,10
+2021-10,2021,education,Education,Daijiworld,2
+2021-10,2021,education,Education,Namma Kudla News,1
+2021-10,2021,fire_emergency,Fire and emergency,Daijiworld,4
+2021-10,2021,governance,Governance,Daijiworld,1
+2021-10,2021,health,Health,Daijiworld,11
+2021-10,2021,health,Health,Namma Kudla News,2
+2021-10,2021,other,Other,Daijiworld,3
+2021-10,2021,other,Other,Namma Kudla News,1
+2021-10,2021,crime_public_safety,Public safety,Daijiworld,1
+2021-10,2021,crime_public_safety,Public safety,Namma Kudla News,1
+2021-10,2021,flood_weather,Rain and weather,Daijiworld,3
+2021-10,2021,flood_weather,Rain and weather,Namma Kudla News,1
+2021-10,2021,road_safety,Road safety,Daijiworld,24
+2021-10,2021,road_safety,Road safety,Namma Kudla News,4
+2021-11,2021,civic_infrastructure,Civic work,Daijiworld,7
+2021-11,2021,education,Education,Daijiworld,2
+2021-11,2021,fire_emergency,Fire and emergency,Daijiworld,5
+2021-11,2021,governance,Governance,Daijiworld,2
+2021-11,2021,health,Health,Daijiworld,9
+2021-11,2021,other,Other,Daijiworld,8
+2021-11,2021,crime_public_safety,Public safety,Daijiworld,1
+2021-11,2021,flood_weather,Rain and weather,Daijiworld,7
+2021-11,2021,road_safety,Road safety,Daijiworld,23
+2021-12,2021,civic_infrastructure,Civic work,Daijiworld,7
+2021-12,2021,fire_emergency,Fire and emergency,Daijiworld,5
+2021-12,2021,health,Health,Daijiworld,6
+2021-12,2021,other,Other,Daijiworld,4
+2021-12,2021,crime_public_safety,Public safety,Daijiworld,1
+2021-12,2021,road_safety,Road safety,Daijiworld,20
+2022-01,2022,civic_infrastructure,Civic work,Daijiworld,9
+2022-01,2022,fire_emergency,Fire and emergency,Daijiworld,4
+2022-01,2022,health,Health,Daijiworld,9
+2022-01,2022,other,Other,Daijiworld,7
+2022-01,2022,crime_public_safety,Public safety,Daijiworld,2
+2022-01,2022,flood_weather,Rain and weather,Daijiworld,1
+2022-01,2022,road_safety,Road safety,Daijiworld,21
+2022-02,2022,civic_infrastructure,Civic work,Daijiworld,5
+2022-02,2022,fire_emergency,Fire and emergency,Daijiworld,2
+2022-02,2022,health,Health,Daijiworld,5
+2022-02,2022,other,Other,Daijiworld,5
+2022-02,2022,crime_public_safety,Public safety,Daijiworld,1
+2022-02,2022,flood_weather,Rain and weather,Daijiworld,1
+2022-02,2022,road_safety,Road safety,Daijiworld,23
+2022-03,2022,civic_infrastructure,Civic work,Daijiworld,8
+2022-03,2022,education,Education,Daijiworld,4
+2022-03,2022,fire_emergency,Fire and emergency,Daijiworld,4
+2022-03,2022,governance,Governance,Daijiworld,1
+2022-03,2022,health,Health,Daijiworld,12
+2022-03,2022,other,Other,Daijiworld,7
+2022-03,2022,crime_public_safety,Public safety,Daijiworld,1
+2022-03,2022,flood_weather,Rain and weather,Daijiworld,4
+2022-03,2022,road_safety,Road safety,Daijiworld,27
+2022-04,2022,civic_infrastructure,Civic work,Daijiworld,6
+2022-04,2022,education,Education,Daijiworld,1
+2022-04,2022,fire_emergency,Fire and emergency,Daijiworld,6
+2022-04,2022,governance,Governance,Daijiworld,3
+2022-04,2022,health,Health,Daijiworld,9
+2022-04,2022,health,Health,Other sources,1
+2022-04,2022,other,Other,Daijiworld,6
+2022-04,2022,crime_public_safety,Public safety,Daijiworld,4
+2022-04,2022,road_safety,Road safety,Daijiworld,23
+2022-05,2022,civic_infrastructure,Civic work,Daijiworld,8
+2022-05,2022,education,Education,Daijiworld,8
+2022-05,2022,fire_emergency,Fire and emergency,Daijiworld,5
+2022-05,2022,health,Health,Daijiworld,21
+2022-05,2022,other,Other,Daijiworld,3
+2022-05,2022,crime_public_safety,Public safety,Daijiworld,2
+2022-05,2022,flood_weather,Rain and weather,Daijiworld,5
+2022-05,2022,road_safety,Road safety,Daijiworld,23
+2022-06,2022,civic_infrastructure,Civic work,Daijiworld,4
+2022-06,2022,civic_infrastructure,Civic work,Namma Kudla News,1
+2022-06,2022,education,Education,Daijiworld,9
+2022-06,2022,education,Education,Namma Kudla News,1
+2022-06,2022,fire_emergency,Fire and emergency,Daijiworld,9
+2022-06,2022,governance,Governance,Daijiworld,2
+2022-06,2022,governance,Governance,Namma Kudla News,1
+2022-06,2022,health,Health,Daijiworld,11
+2022-06,2022,health,Health,Namma Kudla News,3
+2022-06,2022,other,Other,Daijiworld,7
+2022-06,2022,other,Other,Namma Kudla News,3
+2022-06,2022,crime_public_safety,Public safety,Daijiworld,8
+2022-06,2022,flood_weather,Rain and weather,Daijiworld,8
+2022-06,2022,road_safety,Road safety,Daijiworld,34
+2022-06,2022,road_safety,Road safety,Namma Kudla News,1
+2022-07,2022,civic_infrastructure,Civic work,Daijiworld,6
+2022-07,2022,education,Education,Daijiworld,1
+2022-07,2022,education,Education,Namma Kudla News,3
+2022-07,2022,fire_emergency,Fire and emergency,Daijiworld,10
+2022-07,2022,governance,Governance,Daijiworld,4
+2022-07,2022,governance,Governance,Namma Kudla News,1
+2022-07,2022,health,Health,Daijiworld,22
+2022-07,2022,other,Other,Daijiworld,3
+2022-07,2022,other,Other,Namma Kudla News,3
+2022-07,2022,crime_public_safety,Public safety,Daijiworld,6
+2022-07,2022,flood_weather,Rain and weather,Daijiworld,23
+2022-07,2022,flood_weather,Rain and weather,Namma Kudla News,1
+2022-07,2022,road_safety,Road safety,Daijiworld,31
+2022-07,2022,road_safety,Road safety,Namma Kudla News,2
+2022-08,2022,civic_infrastructure,Civic work,Daijiworld,6
+2022-08,2022,education,Education,Daijiworld,9
+2022-08,2022,fire_emergency,Fire and emergency,Daijiworld,6
+2022-08,2022,governance,Governance,Daijiworld,3
+2022-08,2022,health,Health,Daijiworld,15
+2022-08,2022,other,Other,Daijiworld,4
+2022-08,2022,crime_public_safety,Public safety,Daijiworld,1
+2022-08,2022,flood_weather,Rain and weather,Daijiworld,5
+2022-08,2022,road_safety,Road safety,Daijiworld,32
+2022-09,2022,civic_infrastructure,Civic work,Daijiworld,6
+2022-09,2022,education,Education,Daijiworld,4
+2022-09,2022,fire_emergency,Fire and emergency,Daijiworld,6
+2022-09,2022,governance,Governance,Daijiworld,6
+2022-09,2022,health,Health,Daijiworld,27
+2022-09,2022,other,Other,Daijiworld,7
+2022-09,2022,crime_public_safety,Public safety,Daijiworld,7
+2022-09,2022,flood_weather,Rain and weather,Daijiworld,2
+2022-09,2022,road_safety,Road safety,Daijiworld,50
+2022-10,2022,civic_infrastructure,Civic work,Daijiworld,6
+2022-10,2022,education,Education,Daijiworld,3
+2022-10,2022,fire_emergency,Fire and emergency,Daijiworld,9
+2022-10,2022,governance,Governance,Daijiworld,8
+2022-10,2022,health,Health,Daijiworld,11
+2022-10,2022,other,Other,Daijiworld,8
+2022-10,2022,crime_public_safety,Public safety,Daijiworld,2
+2022-10,2022,flood_weather,Rain and weather,Daijiworld,3
+2022-10,2022,road_safety,Road safety,Daijiworld,39
+2022-11,2022,civic_infrastructure,Civic work,Daijiworld,7
+2022-11,2022,education,Education,Daijiworld,2
+2022-11,2022,fire_emergency,Fire and emergency,Daijiworld,11
+2022-11,2022,governance,Governance,Daijiworld,13
+2022-11,2022,health,Health,Daijiworld,12
+2022-11,2022,other,Other,Daijiworld,6
+2022-11,2022,crime_public_safety,Public safety,Daijiworld,4
+2022-11,2022,flood_weather,Rain and weather,Daijiworld,4
+2022-11,2022,road_safety,Road safety,Daijiworld,59
+2022-11,2022,road_safety,Road safety,Other sources,1
+2022-12,2022,civic_infrastructure,Civic work,Daijiworld,8
+2022-12,2022,civic_infrastructure,Civic work,Namma Kudla News,25
+2022-12,2022,education,Education,Daijiworld,1
+2022-12,2022,education,Education,Namma Kudla News,10
+2022-12,2022,fire_emergency,Fire and emergency,Daijiworld,9
+2022-12,2022,fire_emergency,Fire and emergency,Namma Kudla News,2
+2022-12,2022,governance,Governance,Daijiworld,6
+2022-12,2022,governance,Governance,Namma Kudla News,12
+2022-12,2022,health,Health,Daijiworld,15
+2022-12,2022,health,Health,Namma Kudla News,15
+2022-12,2022,other,Other,Daijiworld,2
+2022-12,2022,other,Other,Namma Kudla News,47
+2022-12,2022,crime_public_safety,Public safety,Daijiworld,7
+2022-12,2022,crime_public_safety,Public safety,Namma Kudla News,9
+2022-12,2022,flood_weather,Rain and weather,Daijiworld,1
+2022-12,2022,flood_weather,Rain and weather,Namma Kudla News,7
+2022-12,2022,road_safety,Road safety,Daijiworld,57
+2022-12,2022,road_safety,Road safety,Namma Kudla News,17
+2023-01,2023,civic_infrastructure,Civic work,Daijiworld,6
+2023-01,2023,civic_infrastructure,Civic work,Namma Kudla News,18
+2023-01,2023,education,Education,Daijiworld,1
+2023-01,2023,education,Education,Namma Kudla News,18
+2023-01,2023,fire_emergency,Fire and emergency,Daijiworld,15
+2023-01,2023,governance,Governance,Daijiworld,7
+2023-01,2023,governance,Governance,Namma Kudla News,19
+2023-01,2023,health,Health,Daijiworld,11
+2023-01,2023,health,Health,Mangalore Today,1
+2023-01,2023,health,Health,Namma Kudla News,22
+2023-01,2023,other,Other,Daijiworld,5
+2023-01,2023,other,Other,Namma Kudla News,49
+2023-01,2023,crime_public_safety,Public safety,Daijiworld,6
+2023-01,2023,crime_public_safety,Public safety,Namma Kudla News,17
+2023-01,2023,flood_weather,Rain and weather,Daijiworld,5
+2023-01,2023,flood_weather,Rain and weather,Namma Kudla News,9
+2023-01,2023,road_safety,Road safety,Daijiworld,34
+2023-01,2023,road_safety,Road safety,Namma Kudla News,27
+2023-02,2023,civic_infrastructure,Civic work,Daijiworld,5
+2023-02,2023,civic_infrastructure,Civic work,Namma Kudla News,19
+2023-02,2023,education,Education,Daijiworld,1
+2023-02,2023,education,Education,Namma Kudla News,12
+2023-02,2023,fire_emergency,Fire and emergency,Daijiworld,8
+2023-02,2023,fire_emergency,Fire and emergency,Namma Kudla News,2
+2023-02,2023,governance,Governance,Namma Kudla News,19
+2023-02,2023,health,Health,Daijiworld,5
+2023-02,2023,health,Health,Namma Kudla News,21
+2023-02,2023,other,Other,Namma Kudla News,51
+2023-02,2023,crime_public_safety,Public safety,Daijiworld,7
+2023-02,2023,crime_public_safety,Public safety,Namma Kudla News,9
+2023-02,2023,flood_weather,Rain and weather,Namma Kudla News,8
+2023-02,2023,road_safety,Road safety,Daijiworld,14
+2023-02,2023,road_safety,Road safety,Namma Kudla News,24
+2023-02,2023,road_safety,Road safety,Other sources,1
+2023-03,2023,civic_infrastructure,Civic work,Daijiworld,1
+2023-03,2023,civic_infrastructure,Civic work,Namma Kudla News,35
+2023-03,2023,education,Education,Mangalore Today,3
+2023-03,2023,education,Education,Namma Kudla News,7
+2023-03,2023,fire_emergency,Fire and emergency,Daijiworld,16
+2023-03,2023,fire_emergency,Fire and emergency,Mangalore Today,1
+2023-03,2023,fire_emergency,Fire and emergency,Namma Kudla News,2
+2023-03,2023,governance,Governance,Daijiworld,7
+2023-03,2023,governance,Governance,Namma Kudla News,29
+2023-03,2023,health,Health,Daijiworld,5
+2023-03,2023,health,Health,Mangalore Today,1
+2023-03,2023,health,Health,Namma Kudla News,25
+2023-03,2023,other,Other,Daijiworld,10
+2023-03,2023,other,Other,Namma Kudla News,50
+2023-03,2023,crime_public_safety,Public safety,Daijiworld,1
+2023-03,2023,crime_public_safety,Public safety,Namma Kudla News,16
+2023-03,2023,flood_weather,Rain and weather,Daijiworld,2
+2023-03,2023,flood_weather,Rain and weather,Namma Kudla News,23
+2023-03,2023,road_safety,Road safety,Daijiworld,30
+2023-03,2023,road_safety,Road safety,Mangalore Today,6
+2023-03,2023,road_safety,Road safety,Namma Kudla News,33
+2023-04,2023,civic_infrastructure,Civic work,Daijiworld,8
+2023-04,2023,civic_infrastructure,Civic work,Mangalore Today,4
+2023-04,2023,civic_infrastructure,Civic work,Namma Kudla News,32
+2023-04,2023,education,Education,Mangalore Today,9
+2023-04,2023,education,Education,Namma Kudla News,12
+2023-04,2023,fire_emergency,Fire and emergency,Daijiworld,8
+2023-04,2023,fire_emergency,Fire and emergency,Mangalore Today,6
+2023-04,2023,governance,Governance,Daijiworld,2
+2023-04,2023,governance,Governance,Namma Kudla News,48
+2023-04,2023,health,Health,Daijiworld,3
+2023-04,2023,health,Health,Mangalore Today,2
+2023-04,2023,health,Health,Namma Kudla News,19
+2023-04,2023,other,Other,Daijiworld,3
+2023-04,2023,other,Other,Mangalore Today,3
+2023-04,2023,other,Other,Namma Kudla News,105
+2023-04,2023,crime_public_safety,Public safety,Daijiworld,4
+2023-04,2023,crime_public_safety,Public safety,Mangalore Today,4
+2023-04,2023,crime_public_safety,Public safety,Namma Kudla News,4
+2023-04,2023,flood_weather,Rain and weather,Daijiworld,1
+2023-04,2023,flood_weather,Rain and weather,Mangalore Today,2
+2023-04,2023,flood_weather,Rain and weather,Namma Kudla News,16
+2023-04,2023,road_safety,Road safety,Daijiworld,40
+2023-04,2023,road_safety,Road safety,Mangalore Today,18
+2023-04,2023,road_safety,Road safety,Namma Kudla News,26
+2023-05,2023,civic_infrastructure,Civic work,Daijiworld,5
+2023-05,2023,civic_infrastructure,Civic work,Mangalore Today,2
+2023-05,2023,civic_infrastructure,Civic work,Namma Kudla News,3
+2023-05,2023,education,Education,Mangalore Today,19
+2023-05,2023,education,Education,Namma Kudla News,3
+2023-05,2023,fire_emergency,Fire and emergency,Daijiworld,5
+2023-05,2023,fire_emergency,Fire and emergency,Mangalore Today,3
+2023-05,2023,governance,Governance,Daijiworld,1
+2023-05,2023,governance,Governance,Namma Kudla News,6
+2023-05,2023,health,Health,Daijiworld,1
+2023-05,2023,health,Health,Mangalore Today,1
+2023-05,2023,health,Health,Namma Kudla News,5
+2023-05,2023,other,Other,Daijiworld,1
+2023-05,2023,other,Other,Mangalore Today,4
+2023-05,2023,other,Other,Namma Kudla News,17
+2023-05,2023,crime_public_safety,Public safety,Daijiworld,1
+2023-05,2023,crime_public_safety,Public safety,Mangalore Today,3
+2023-05,2023,flood_weather,Rain and weather,Daijiworld,6
+2023-05,2023,flood_weather,Rain and weather,Mangalore Today,2
+2023-05,2023,flood_weather,Rain and weather,Namma Kudla News,2
+2023-05,2023,road_safety,Road safety,Daijiworld,63
+2023-05,2023,road_safety,Road safety,Mangalore Today,16
+2023-05,2023,road_safety,Road safety,Namma Kudla News,4
+2023-06,2023,civic_infrastructure,Civic work,Daijiworld,6
+2023-06,2023,civic_infrastructure,Civic work,Mangalore Today,6
+2023-06,2023,education,Education,Mangalore Today,16
+2023-06,2023,fire_emergency,Fire and emergency,Daijiworld,3
+2023-06,2023,fire_emergency,Fire and emergency,Mangalore Today,1
+2023-06,2023,governance,Governance,Daijiworld,1
+2023-06,2023,health,Health,Daijiworld,2
+2023-06,2023,health,Health,Mangalore Today,2
+2023-06,2023,other,Other,Daijiworld,3
+2023-06,2023,other,Other,Mangalore Today,3
+2023-06,2023,crime_public_safety,Public safety,Daijiworld,2
+2023-06,2023,crime_public_safety,Public safety,Mangalore Today,6
+2023-06,2023,flood_weather,Rain and weather,Daijiworld,10
+2023-06,2023,flood_weather,Rain and weather,Mangalore Today,7
+2023-06,2023,road_safety,Road safety,Daijiworld,80
+2023-06,2023,road_safety,Road safety,Mangalore Today,20
+2023-07,2023,civic_infrastructure,Civic work,Daijiworld,3
+2023-07,2023,civic_infrastructure,Civic work,Mangalore Today,6
+2023-07,2023,civic_infrastructure,Civic work,Namma Kudla News,9
+2023-07,2023,education,Education,Mangalore Today,13
+2023-07,2023,education,Education,Namma Kudla News,8
+2023-07,2023,fire_emergency,Fire and emergency,Daijiworld,8
+2023-07,2023,fire_emergency,Fire and emergency,Mangalore Today,6
+2023-07,2023,fire_emergency,Fire and emergency,Namma Kudla News,1
+2023-07,2023,governance,Governance,Daijiworld,2
+2023-07,2023,governance,Governance,Namma Kudla News,4
+2023-07,2023,health,Health,Daijiworld,1
+2023-07,2023,health,Health,Namma Kudla News,3
+2023-07,2023,other,Other,Daijiworld,1
+2023-07,2023,other,Other,Mangalore Today,1
+2023-07,2023,other,Other,Namma Kudla News,13
+2023-07,2023,crime_public_safety,Public safety,Daijiworld,1
+2023-07,2023,crime_public_safety,Public safety,Mangalore Today,4
+2023-07,2023,crime_public_safety,Public safety,Namma Kudla News,5
+2023-07,2023,flood_weather,Rain and weather,Daijiworld,27
+2023-07,2023,flood_weather,Rain and weather,Mangalore Today,13
+2023-07,2023,flood_weather,Rain and weather,Namma Kudla News,8
+2023-07,2023,road_safety,Road safety,Daijiworld,73
+2023-07,2023,road_safety,Road safety,Mangalore Today,20
+2023-07,2023,road_safety,Road safety,Namma Kudla News,6
+2023-08,2023,civic_infrastructure,Civic work,Daijiworld,5
+2023-08,2023,civic_infrastructure,Civic work,Mangalore Today,3
+2023-08,2023,civic_infrastructure,Civic work,Namma Kudla News,19
+2023-08,2023,education,Education,Daijiworld,1
+2023-08,2023,education,Education,Mangalore Today,9
+2023-08,2023,education,Education,Namma Kudla News,22
+2023-08,2023,fire_emergency,Fire and emergency,Daijiworld,1
+2023-08,2023,fire_emergency,Fire and emergency,Mangalore Today,4
+2023-08,2023,fire_emergency,Fire and emergency,Namma Kudla News,2
+2023-08,2023,governance,Governance,Daijiworld,1
+2023-08,2023,governance,Governance,Namma Kudla News,28
+2023-08,2023,health,Health,Daijiworld,4
+2023-08,2023,health,Health,Mangalore Today,3
+2023-08,2023,health,Health,Namma Kudla News,22
+2023-08,2023,other,Other,Daijiworld,1
+2023-08,2023,other,Other,Mangalore Today,7
+2023-08,2023,other,Other,Namma Kudla News,36
+2023-08,2023,crime_public_safety,Public safety,Daijiworld,2
+2023-08,2023,crime_public_safety,Public safety,Mangalore Today,10
+2023-08,2023,crime_public_safety,Public safety,Namma Kudla News,27
+2023-08,2023,flood_weather,Rain and weather,Daijiworld,6
+2023-08,2023,flood_weather,Rain and weather,Mangalore Today,2
+2023-08,2023,flood_weather,Rain and weather,Namma Kudla News,14
+2023-08,2023,road_safety,Road safety,Daijiworld,52
+2023-08,2023,road_safety,Road safety,Mangalore Today,14
+2023-08,2023,road_safety,Road safety,Namma Kudla News,22
+2023-09,2023,civic_infrastructure,Civic work,Daijiworld,4
+2023-09,2023,civic_infrastructure,Civic work,Mangalore Today,7
+2023-09,2023,civic_infrastructure,Civic work,Namma Kudla News,28
+2023-09,2023,education,Education,Mangalore Today,10
+2023-09,2023,education,Education,Namma Kudla News,13
+2023-09,2023,fire_emergency,Fire and emergency,Daijiworld,4
+2023-09,2023,fire_emergency,Fire and emergency,Mangalore Today,3
+2023-09,2023,governance,Governance,Daijiworld,2
+2023-09,2023,governance,Governance,Namma Kudla News,22
+2023-09,2023,health,Health,Daijiworld,4
+2023-09,2023,health,Health,Mangalore Today,6
+2023-09,2023,health,Health,Namma Kudla News,29
+2023-09,2023,other,Other,Mangalore Today,7
+2023-09,2023,other,Other,Namma Kudla News,43
+2023-09,2023,crime_public_safety,Public safety,Daijiworld,1
+2023-09,2023,crime_public_safety,Public safety,Mangalore Today,1
+2023-09,2023,crime_public_safety,Public safety,Namma Kudla News,14
+2023-09,2023,flood_weather,Rain and weather,Daijiworld,1
+2023-09,2023,flood_weather,Rain and weather,Namma Kudla News,7
+2023-09,2023,road_safety,Road safety,Daijiworld,58
+2023-09,2023,road_safety,Road safety,Mangalore Today,22
+2023-09,2023,road_safety,Road safety,Namma Kudla News,17
+2023-10,2023,civic_infrastructure,Civic work,Daijiworld,4
+2023-10,2023,civic_infrastructure,Civic work,Mangalore Today,7
+2023-10,2023,civic_infrastructure,Civic work,Namma Kudla News,26
+2023-10,2023,education,Education,Mangalore Today,6
+2023-10,2023,education,Education,Namma Kudla News,9
+2023-10,2023,fire_emergency,Fire and emergency,Daijiworld,3
+2023-10,2023,fire_emergency,Fire and emergency,Mangalore Today,4
+2023-10,2023,fire_emergency,Fire and emergency,Namma Kudla News,4
+2023-10,2023,governance,Governance,Daijiworld,1
+2023-10,2023,governance,Governance,Namma Kudla News,20
+2023-10,2023,health,Health,Daijiworld,3
+2023-10,2023,health,Health,Mangalore Today,1
+2023-10,2023,health,Health,Mangalorean.com,3
+2023-10,2023,health,Health,Namma Kudla News,20
+2023-10,2023,other,Other,Daijiworld,1
+2023-10,2023,other,Other,Mangalore Today,3
+2023-10,2023,other,Other,Namma Kudla News,53
+2023-10,2023,crime_public_safety,Public safety,Daijiworld,1
+2023-10,2023,crime_public_safety,Public safety,Mangalore Today,3
+2023-10,2023,crime_public_safety,Public safety,Namma Kudla News,8
+2023-10,2023,flood_weather,Rain and weather,Daijiworld,1
+2023-10,2023,flood_weather,Rain and weather,Mangalore Today,4
+2023-10,2023,flood_weather,Rain and weather,Namma Kudla News,6
+2023-10,2023,road_safety,Road safety,Daijiworld,77
+2023-10,2023,road_safety,Road safety,Mangalore Today,23
+2023-10,2023,road_safety,Road safety,Mangalorean.com,1
+2023-10,2023,road_safety,Road safety,Namma Kudla News,19
+2023-11,2023,civic_infrastructure,Civic work,Daijiworld,7
+2023-11,2023,civic_infrastructure,Civic work,Mangalore Today,2
+2023-11,2023,civic_infrastructure,Civic work,Mangalorean.com,1
+2023-11,2023,civic_infrastructure,Civic work,Namma Kudla News,25
+2023-11,2023,education,Education,Mangalore Today,7
+2023-11,2023,education,Education,Namma Kudla News,14
+2023-11,2023,fire_emergency,Fire and emergency,Daijiworld,4
+2023-11,2023,fire_emergency,Fire and emergency,Mangalore Today,11
+2023-11,2023,governance,Governance,Namma Kudla News,16
+2023-11,2023,health,Health,Daijiworld,1
+2023-11,2023,health,Health,Mangalore Today,2
+2023-11,2023,health,Health,Mangalorean.com,2
+2023-11,2023,health,Health,Namma Kudla News,17
+2023-11,2023,other,Other,Namma Kudla News,39
+2023-11,2023,crime_public_safety,Public safety,Daijiworld,2
+2023-11,2023,crime_public_safety,Public safety,Mangalore Today,2
+2023-11,2023,crime_public_safety,Public safety,Namma Kudla News,7
+2023-11,2023,flood_weather,Rain and weather,Daijiworld,2
+2023-11,2023,flood_weather,Rain and weather,Namma Kudla News,4
+2023-11,2023,road_safety,Road safety,Daijiworld,59
+2023-11,2023,road_safety,Road safety,Mangalore Today,25
+2023-11,2023,road_safety,Road safety,Mangalorean.com,3
+2023-11,2023,road_safety,Road safety,Namma Kudla News,18
+2023-12,2023,civic_infrastructure,Civic work,Mangalore Today,8
+2023-12,2023,civic_infrastructure,Civic work,Mangalorean.com,1
+2023-12,2023,civic_infrastructure,Civic work,Namma Kudla News,18
+2023-12,2023,education,Education,Mangalore Today,10
+2023-12,2023,education,Education,Namma Kudla News,12
+2023-12,2023,fire_emergency,Fire and emergency,Daijiworld,2
+2023-12,2023,fire_emergency,Fire and emergency,Mangalore Today,4
+2023-12,2023,fire_emergency,Fire and emergency,Namma Kudla News,1
+2023-12,2023,governance,Governance,Namma Kudla News,14
+2023-12,2023,health,Health,Daijiworld,4
+2023-12,2023,health,Health,Mangalore Today,15
+2023-12,2023,health,Health,Mangalorean.com,2
+2023-12,2023,health,Health,Namma Kudla News,17
+2023-12,2023,other,Other,Daijiworld,1
+2023-12,2023,other,Other,Mangalore Today,8
+2023-12,2023,other,Other,Namma Kudla News,18
+2023-12,2023,crime_public_safety,Public safety,Daijiworld,1
+2023-12,2023,crime_public_safety,Public safety,Namma Kudla News,13
+2023-12,2023,flood_weather,Rain and weather,Daijiworld,1
+2023-12,2023,flood_weather,Rain and weather,Mangalore Today,2
+2023-12,2023,flood_weather,Rain and weather,Namma Kudla News,2
+2023-12,2023,road_safety,Road safety,Daijiworld,45
+2023-12,2023,road_safety,Road safety,Mangalore Today,22
+2023-12,2023,road_safety,Road safety,Namma Kudla News,17
+2024-01,2024,civic_infrastructure,Civic work,Daijiworld,1
+2024-01,2024,civic_infrastructure,Civic work,Mangalore Today,3
+2024-01,2024,civic_infrastructure,Civic work,Namma Kudla News,15
+2024-01,2024,education,Education,Mangalore Today,5
+2024-01,2024,education,Education,Namma Kudla News,11
+2024-01,2024,fire_emergency,Fire and emergency,Daijiworld,8
+2024-01,2024,fire_emergency,Fire and emergency,Mangalore Today,5
+2024-01,2024,governance,Governance,Namma Kudla News,15
+2024-01,2024,health,Health,Daijiworld,5
+2024-01,2024,health,Health,Mangalore Today,5
+2024-01,2024,health,Health,Mangalorean.com,2
+2024-01,2024,health,Health,Namma Kudla News,15
+2024-01,2024,other,Other,Daijiworld,1
+2024-01,2024,other,Other,Mangalore Today,3
+2024-01,2024,other,Other,Namma Kudla News,34
+2024-01,2024,crime_public_safety,Public safety,Mangalore Today,1
+2024-01,2024,crime_public_safety,Public safety,Namma Kudla News,6
+2024-01,2024,flood_weather,Rain and weather,Mangalore Today,3
+2024-01,2024,flood_weather,Rain and weather,Namma Kudla News,2
+2024-01,2024,road_safety,Road safety,Daijiworld,28
+2024-01,2024,road_safety,Road safety,Mangalore Today,21
+2024-01,2024,road_safety,Road safety,Mangalorean.com,3
+2024-01,2024,road_safety,Road safety,Namma Kudla News,11
+2024-02,2024,civic_infrastructure,Civic work,Daijiworld,1
+2024-02,2024,civic_infrastructure,Civic work,Mangalore Today,4
+2024-02,2024,civic_infrastructure,Civic work,Namma Kudla News,18
+2024-02,2024,education,Education,Mangalore Today,27
+2024-02,2024,education,Education,Namma Kudla News,25
+2024-02,2024,fire_emergency,Fire and emergency,Daijiworld,3
+2024-02,2024,fire_emergency,Fire and emergency,Mangalore Today,3
+2024-02,2024,governance,Governance,Daijiworld,2
+2024-02,2024,governance,Governance,Mangalorean.com,4
+2024-02,2024,governance,Governance,Namma Kudla News,14
+2024-02,2024,health,Health,Daijiworld,6
+2024-02,2024,health,Health,Mangalore Today,2
+2024-02,2024,health,Health,Mangalorean.com,2
+2024-02,2024,health,Health,Namma Kudla News,13
+2024-02,2024,other,Other,Daijiworld,4
+2024-02,2024,other,Other,Mangalore Today,8
+2024-02,2024,other,Other,Namma Kudla News,34
+2024-02,2024,crime_public_safety,Public safety,Daijiworld,1
+2024-02,2024,crime_public_safety,Public safety,Mangalore Today,2
+2024-02,2024,crime_public_safety,Public safety,Namma Kudla News,10
+2024-02,2024,flood_weather,Rain and weather,Namma Kudla News,2
+2024-02,2024,road_safety,Road safety,Daijiworld,45
+2024-02,2024,road_safety,Road safety,Mangalore Today,20
+2024-02,2024,road_safety,Road safety,Mangalorean.com,2
+2024-02,2024,road_safety,Road safety,Namma Kudla News,18
+2024-02,2024,road_safety,Road safety,Other sources,1
+2024-03,2024,civic_infrastructure,Civic work,Daijiworld,2
+2024-03,2024,civic_infrastructure,Civic work,Mangalore Today,4
+2024-03,2024,civic_infrastructure,Civic work,Namma Kudla News,29
+2024-03,2024,education,Education,Mangalore Today,2
+2024-03,2024,education,Education,Namma Kudla News,13
+2024-03,2024,fire_emergency,Fire and emergency,Daijiworld,26
+2024-03,2024,fire_emergency,Fire and emergency,Mangalore Today,2
+2024-03,2024,fire_emergency,Fire and emergency,Mangalorean.com,1
+2024-03,2024,fire_emergency,Fire and emergency,Namma Kudla News,1
+2024-03,2024,governance,Governance,Daijiworld,1
+2024-03,2024,governance,Governance,Mangalorean.com,1
+2024-03,2024,governance,Governance,Namma Kudla News,14
+2024-03,2024,governance,Governance,Other sources,1
+2024-03,2024,health,Health,Daijiworld,2
+2024-03,2024,health,Health,Mangalore Today,7
+2024-03,2024,health,Health,Mangalorean.com,3
+2024-03,2024,health,Health,Namma Kudla News,16
+2024-03,2024,other,Other,Mangalore Today,6
+2024-03,2024,other,Other,Mangalorean.com,1
+2024-03,2024,other,Other,Namma Kudla News,37
+2024-03,2024,crime_public_safety,Public safety,Namma Kudla News,2
+2024-03,2024,flood_weather,Rain and weather,Daijiworld,2
+2024-03,2024,flood_weather,Rain and weather,Mangalore Today,5
+2024-03,2024,flood_weather,Rain and weather,Namma Kudla News,2
+2024-03,2024,road_safety,Road safety,Daijiworld,52
+2024-03,2024,road_safety,Road safety,Mangalore Today,23
+2024-03,2024,road_safety,Road safety,Namma Kudla News,10
+2024-04,2024,civic_infrastructure,Civic work,Daijiworld,9
+2024-04,2024,civic_infrastructure,Civic work,Mangalore Today,2
+2024-04,2024,civic_infrastructure,Civic work,Namma Kudla News,35
+2024-04,2024,education,Education,Daijiworld,1
+2024-04,2024,education,Education,Namma Kudla News,15
+2024-04,2024,fire_emergency,Fire and emergency,Daijiworld,13
+2024-04,2024,fire_emergency,Fire and emergency,Namma Kudla News,3
+2024-04,2024,governance,Governance,Daijiworld,1
+2024-04,2024,governance,Governance,Namma Kudla News,8
+2024-04,2024,governance,Governance,Other sources,1
+2024-04,2024,health,Health,Daijiworld,3
+2024-04,2024,health,Health,Mangalore Today,7
+2024-04,2024,health,Health,Mangalorean.com,2
+2024-04,2024,health,Health,Namma Kudla News,27
+2024-04,2024,other,Other,Daijiworld,2
+2024-04,2024,other,Other,Mangalore Today,3
+2024-04,2024,other,Other,Mangalorean.com,1
+2024-04,2024,other,Other,Namma Kudla News,47
+2024-04,2024,crime_public_safety,Public safety,Namma Kudla News,4
+2024-04,2024,flood_weather,Rain and weather,Daijiworld,4
+2024-04,2024,flood_weather,Rain and weather,Mangalore Today,8
+2024-04,2024,flood_weather,Rain and weather,Namma Kudla News,9
+2024-04,2024,road_safety,Road safety,Daijiworld,50
+2024-04,2024,road_safety,Road safety,Mangalore Today,29
+2024-04,2024,road_safety,Road safety,Namma Kudla News,17
+2024-05,2024,civic_infrastructure,Civic work,Daijiworld,5
+2024-05,2024,civic_infrastructure,Civic work,Mangalore Today,4
+2024-05,2024,civic_infrastructure,Civic work,Mangalorean.com,1
+2024-05,2024,civic_infrastructure,Civic work,Namma Kudla News,14
+2024-05,2024,education,Education,Mangalore Today,1
+2024-05,2024,education,Education,Namma Kudla News,13
+2024-05,2024,fire_emergency,Fire and emergency,Daijiworld,11
+2024-05,2024,fire_emergency,Fire and emergency,Mangalore Today,2
+2024-05,2024,governance,Governance,Daijiworld,2
+2024-05,2024,governance,Governance,Namma Kudla News,11
+2024-05,2024,governance,Governance,Other sources,1
+2024-05,2024,health,Health,Daijiworld,3
+2024-05,2024,health,Health,Mangalore Today,9
+2024-05,2024,health,Health,Namma Kudla News,31
+2024-05,2024,other,Other,Daijiworld,3
+2024-05,2024,other,Other,Mangalore Today,6
+2024-05,2024,other,Other,Namma Kudla News,28
+2024-05,2024,crime_public_safety,Public safety,Daijiworld,1
+2024-05,2024,crime_public_safety,Public safety,Namma Kudla News,1
+2024-05,2024,flood_weather,Rain and weather,Daijiworld,13
+2024-05,2024,flood_weather,Rain and weather,Mangalore Today,19
+2024-05,2024,flood_weather,Rain and weather,Namma Kudla News,14
+2024-05,2024,flood_weather,Rain and weather,Other sources,1
+2024-05,2024,road_safety,Road safety,Daijiworld,65
+2024-05,2024,road_safety,Road safety,Mangalore Today,41
+2024-05,2024,road_safety,Road safety,Namma Kudla News,17
+2024-06,2024,civic_infrastructure,Civic work,Daijiworld,8
+2024-06,2024,civic_infrastructure,Civic work,Mangalore Today,5
+2024-06,2024,education,Education,Mangalore Today,2
+2024-06,2024,fire_emergency,Fire and emergency,Daijiworld,14
+2024-06,2024,fire_emergency,Fire and emergency,Mangalore Today,1
+2024-06,2024,health,Health,Mangalore Today,5
+2024-06,2024,health,Health,Mangalorean.com,1
+2024-06,2024,other,Other,Daijiworld,1
+2024-06,2024,other,Other,Mangalore Today,5
+2024-06,2024,crime_public_safety,Public safety,Daijiworld,1
+2024-06,2024,flood_weather,Rain and weather,Daijiworld,15
+2024-06,2024,flood_weather,Rain and weather,Mangalore Today,18
+2024-06,2024,road_safety,Road safety,Daijiworld,54
+2024-06,2024,road_safety,Road safety,Mangalore Today,37
+2024-06,2024,road_safety,Road safety,Mangalorean.com,2
+2024-07,2024,civic_infrastructure,Civic work,Daijiworld,9
+2024-07,2024,civic_infrastructure,Civic work,Mangalore Today,7
+2024-07,2024,fire_emergency,Fire and emergency,Daijiworld,20
+2024-07,2024,governance,Governance,Daijiworld,2
+2024-07,2024,health,Health,Daijiworld,9
+2024-07,2024,health,Health,Mangalore Today,5
+2024-07,2024,health,Health,Mangalorean.com,2
+2024-07,2024,other,Other,Daijiworld,6
+2024-07,2024,other,Other,Mangalore Today,5
+2024-07,2024,crime_public_safety,Public safety,Mangalore Today,1
+2024-07,2024,flood_weather,Rain and weather,Daijiworld,23
+2024-07,2024,flood_weather,Rain and weather,Mangalore Today,27
+2024-07,2024,flood_weather,Rain and weather,Mangalorean.com,3
+2024-07,2024,road_safety,Road safety,Daijiworld,55
+2024-07,2024,road_safety,Road safety,Mangalore Today,46
+2024-07,2024,road_safety,Road safety,Mangalorean.com,2
+2024-07,2024,road_safety,Road safety,Other sources,1
+2024-08,2024,civic_infrastructure,Civic work,Daijiworld,7
+2024-08,2024,civic_infrastructure,Civic work,Mangalore Today,6
+2024-08,2024,civic_infrastructure,Civic work,Suddi9,2
+2024-08,2024,education,Education,Mangalore Today,1
+2024-08,2024,fire_emergency,Fire and emergency,Daijiworld,5
+2024-08,2024,fire_emergency,Fire and emergency,Mangalorean.com,2
+2024-08,2024,governance,Governance,Daijiworld,3
+2024-08,2024,health,Health,Daijiworld,3
+2024-08,2024,health,Health,Mangalore Today,6
+2024-08,2024,health,Health,Mangalorean.com,4
+2024-08,2024,other,Other,Daijiworld,3
+2024-08,2024,other,Other,Mangalore Today,11
+2024-08,2024,other,Other,Other sources,1
+2024-08,2024,other,Other,Suddi9,2
+2024-08,2024,crime_public_safety,Public safety,Mangalore Today,2
+2024-08,2024,flood_weather,Rain and weather,Daijiworld,14
+2024-08,2024,flood_weather,Rain and weather,Mangalore Today,12
+2024-08,2024,flood_weather,Rain and weather,Mangalorean.com,1
+2024-08,2024,road_safety,Road safety,Daijiworld,49
+2024-08,2024,road_safety,Road safety,Mangalore Today,31
+2024-08,2024,road_safety,Road safety,Mangalorean.com,1
+2024-09,2024,civic_infrastructure,Civic work,Daijiworld,10
+2024-09,2024,civic_infrastructure,Civic work,Mangalore Today,9
+2024-09,2024,civic_infrastructure,Civic work,Mangalorean.com,1
+2024-09,2024,civic_infrastructure,Civic work,Namma Kudla News,3
+2024-09,2024,civic_infrastructure,Civic work,Suddi9,8
+2024-09,2024,education,Education,Daijiworld,1
+2024-09,2024,education,Education,Mangalore Today,5
+2024-09,2024,fire_emergency,Fire and emergency,Daijiworld,11
+2024-09,2024,fire_emergency,Fire and emergency,Mangalore Today,1
+2024-09,2024,fire_emergency,Fire and emergency,Mangalorean.com,1
+2024-09,2024,governance,Governance,Daijiworld,1
+2024-09,2024,governance,Governance,Namma Kudla News,2
+2024-09,2024,health,Health,Daijiworld,2
+2024-09,2024,health,Health,Mangalore Today,9
+2024-09,2024,health,Health,Mangalorean.com,6
+2024-09,2024,health,Health,Namma Kudla News,2
+2024-09,2024,health,Health,Suddi9,1
+2024-09,2024,other,Other,Mangalore Today,11
+2024-09,2024,other,Other,Suddi9,1
+2024-09,2024,flood_weather,Rain and weather,Daijiworld,4
+2024-09,2024,flood_weather,Rain and weather,Mangalore Today,6
+2024-09,2024,flood_weather,Rain and weather,Namma Kudla News,4
+2024-09,2024,road_safety,Road safety,Daijiworld,59
+2024-09,2024,road_safety,Road safety,Mangalore Today,33
+2024-09,2024,road_safety,Road safety,Mangalorean.com,4
+2024-09,2024,road_safety,Road safety,Namma Kudla News,7
+2024-10,2024,civic_infrastructure,Civic work,Daijiworld,5
+2024-10,2024,civic_infrastructure,Civic work,Mangalore Today,5
+2024-10,2024,civic_infrastructure,Civic work,Mangalorean.com,1
+2024-10,2024,civic_infrastructure,Civic work,Namma Kudla News,2
+2024-10,2024,civic_infrastructure,Civic work,Suddi9,3
+2024-10,2024,education,Education,Mangalore Today,1
+2024-10,2024,fire_emergency,Fire and emergency,Daijiworld,7
+2024-10,2024,fire_emergency,Fire and emergency,Mangalorean.com,2
+2024-10,2024,governance,Governance,Namma Kudla News,1
+2024-10,2024,governance,Governance,Suddi9,3
+2024-10,2024,health,Health,Daijiworld,2
+2024-10,2024,health,Health,Mangalore Today,7
+2024-10,2024,health,Health,Mangalorean.com,6
+2024-10,2024,health,Health,Namma Kudla News,10
+2024-10,2024,other,Other,Daijiworld,1
+2024-10,2024,other,Other,Mangalore Today,2
+2024-10,2024,crime_public_safety,Public safety,Daijiworld,1
+2024-10,2024,flood_weather,Rain and weather,Daijiworld,4
+2024-10,2024,flood_weather,Rain and weather,Mangalore Today,4
+2024-10,2024,flood_weather,Rain and weather,Namma Kudla News,12
+2024-10,2024,road_safety,Road safety,Daijiworld,49
+2024-10,2024,road_safety,Road safety,Mangalore Today,52
+2024-10,2024,road_safety,Road safety,Mangalorean.com,4
+2024-10,2024,road_safety,Road safety,Namma Kudla News,17
+2024-11,2024,civic_infrastructure,Civic work,Daijiworld,9
+2024-11,2024,civic_infrastructure,Civic work,Mangalore Today,4
+2024-11,2024,civic_infrastructure,Civic work,Mangalorean.com,1
+2024-11,2024,civic_infrastructure,Civic work,Namma Kudla News,1
+2024-11,2024,civic_infrastructure,Civic work,Suddi9,3
+2024-11,2024,fire_emergency,Fire and emergency,Daijiworld,7
+2024-11,2024,fire_emergency,Fire and emergency,Mangalore Today,3
+2024-11,2024,governance,Governance,Daijiworld,2
+2024-11,2024,governance,Governance,Namma Kudla News,1
+2024-11,2024,health,Health,Daijiworld,4
+2024-11,2024,health,Health,Mangalore Today,3
+2024-11,2024,health,Health,Mangalorean.com,7
+2024-11,2024,health,Health,Namma Kudla News,5
+2024-11,2024,other,Other,Mangalore Today,9
+2024-11,2024,crime_public_safety,Public safety,Daijiworld,2
+2024-11,2024,crime_public_safety,Public safety,Mangalore Today,1
+2024-11,2024,flood_weather,Rain and weather,Daijiworld,2
+2024-11,2024,flood_weather,Rain and weather,Mangalore Today,1
+2024-11,2024,flood_weather,Rain and weather,Namma Kudla News,4
+2024-11,2024,road_safety,Road safety,Daijiworld,52
+2024-11,2024,road_safety,Road safety,Mangalore Today,39
+2024-11,2024,road_safety,Road safety,Mangalorean.com,2
+2024-11,2024,road_safety,Road safety,Namma Kudla News,3
+2024-12,2024,civic_infrastructure,Civic work,Daijiworld,7
+2024-12,2024,civic_infrastructure,Civic work,Mangalore Today,3
+2024-12,2024,civic_infrastructure,Civic work,Namma Kudla News,4
+2024-12,2024,civic_infrastructure,Civic work,Suddi9,2
+2024-12,2024,education,Education,Namma Kudla News,1
+2024-12,2024,fire_emergency,Fire and emergency,Daijiworld,10
+2024-12,2024,fire_emergency,Fire and emergency,Mangalore Today,12
+2024-12,2024,governance,Governance,Suddi9,1
+2024-12,2024,health,Health,Daijiworld,4
+2024-12,2024,health,Health,Mangalore Today,10
+2024-12,2024,health,Health,Mangalorean.com,2
+2024-12,2024,health,Health,Namma Kudla News,4
+2024-12,2024,other,Other,Daijiworld,1
+2024-12,2024,other,Other,Mangalore Today,19
+2024-12,2024,other,Other,Namma Kudla News,5
+2024-12,2024,other,Other,Suddi9,2
+2024-12,2024,crime_public_safety,Public safety,Daijiworld,1
+2024-12,2024,crime_public_safety,Public safety,Mangalore Today,1
+2024-12,2024,flood_weather,Rain and weather,Daijiworld,3
+2024-12,2024,flood_weather,Rain and weather,Mangalore Today,5
+2024-12,2024,flood_weather,Rain and weather,Mangalorean.com,3
+2024-12,2024,flood_weather,Rain and weather,Namma Kudla News,4
+2024-12,2024,road_safety,Road safety,Daijiworld,81
+2024-12,2024,road_safety,Road safety,Mangalore Today,40
+2024-12,2024,road_safety,Road safety,Namma Kudla News,8
+2025-01,2025,civic_infrastructure,Civic work,Daijiworld,10
+2025-01,2025,civic_infrastructure,Civic work,Mangalore Today,6
+2025-01,2025,civic_infrastructure,Civic work,Mangalorean.com,3
+2025-01,2025,civic_infrastructure,Civic work,Namma Kudla News,2
+2025-01,2025,civic_infrastructure,Civic work,Suddi9,1
+2025-01,2025,education,Education,Daijiworld,2
+2025-01,2025,education,Education,Namma Kudla News,1
+2025-01,2025,fire_emergency,Fire and emergency,Daijiworld,10
+2025-01,2025,fire_emergency,Fire and emergency,Mangalore Today,5
+2025-01,2025,fire_emergency,Fire and emergency,Suddi9,1
+2025-01,2025,governance,Governance,Daijiworld,1
+2025-01,2025,governance,Governance,Namma Kudla News,2
+2025-01,2025,health,Health,Daijiworld,6
+2025-01,2025,health,Health,Mangalore Today,9
+2025-01,2025,health,Health,Mangalorean.com,4
+2025-01,2025,health,Health,Namma Kudla News,5
+2025-01,2025,other,Other,Daijiworld,2
+2025-01,2025,other,Other,Mangalore Today,19
+2025-01,2025,crime_public_safety,Public safety,Mangalore Today,2
+2025-01,2025,flood_weather,Rain and weather,Mangalore Today,4
+2025-01,2025,flood_weather,Rain and weather,Namma Kudla News,2
+2025-01,2025,road_safety,Road safety,Daijiworld,49
+2025-01,2025,road_safety,Road safety,Mangalore Today,28
+2025-01,2025,road_safety,Road safety,Mangalorean.com,4
+2025-01,2025,road_safety,Road safety,Namma Kudla News,9
+2025-02,2025,civic_infrastructure,Civic work,Daijiworld,2
+2025-02,2025,civic_infrastructure,Civic work,Mangalore Today,4
+2025-02,2025,civic_infrastructure,Civic work,Mangalorean.com,3
+2025-02,2025,civic_infrastructure,Civic work,Namma Kudla News,3
+2025-02,2025,fire_emergency,Fire and emergency,Daijiworld,8
+2025-02,2025,fire_emergency,Fire and emergency,Mangalore Today,11
+2025-02,2025,fire_emergency,Fire and emergency,Mangalorean.com,1
+2025-02,2025,governance,Governance,Daijiworld,2
+2025-02,2025,governance,Governance,Mangalorean.com,1
+2025-02,2025,governance,Governance,Namma Kudla News,2
+2025-02,2025,governance,Governance,Other sources,1
+2025-02,2025,health,Health,Daijiworld,4
+2025-02,2025,health,Health,Mangalore Today,2
+2025-02,2025,health,Health,Mangalorean.com,3
+2025-02,2025,health,Health,Namma Kudla News,7
+2025-02,2025,other,Other,Daijiworld,1
+2025-02,2025,other,Other,Mangalore Today,16
+2025-02,2025,other,Other,Mangalorean.com,3
+2025-02,2025,other,Other,Suddi9,1
+2025-02,2025,crime_public_safety,Public safety,Mangalore Today,2
+2025-02,2025,crime_public_safety,Public safety,Mangalorean.com,1
+2025-02,2025,flood_weather,Rain and weather,Mangalore Today,5
+2025-02,2025,flood_weather,Rain and weather,Namma Kudla News,8
+2025-02,2025,road_safety,Road safety,Daijiworld,42
+2025-02,2025,road_safety,Road safety,Mangalore Today,36
+2025-02,2025,road_safety,Road safety,Namma Kudla News,18
+2025-03,2025,civic_infrastructure,Civic work,Daijiworld,7
+2025-03,2025,civic_infrastructure,Civic work,Mangalore Today,3
+2025-03,2025,civic_infrastructure,Civic work,Mangalorean.com,3
+2025-03,2025,civic_infrastructure,Civic work,Namma Kudla News,1
+2025-03,2025,education,Education,Namma Kudla News,2
+2025-03,2025,fire_emergency,Fire and emergency,Daijiworld,8
+2025-03,2025,fire_emergency,Fire and emergency,Mangalore Today,6
+2025-03,2025,governance,Governance,Daijiworld,3
+2025-03,2025,health,Health,Daijiworld,1
+2025-03,2025,health,Health,Mangalore Today,5
+2025-03,2025,health,Health,Mangalorean.com,6
+2025-03,2025,health,Health,Namma Kudla News,6
+2025-03,2025,other,Other,Mangalore Today,15
+2025-03,2025,other,Other,Mangalorean.com,1
+2025-03,2025,other,Other,Namma Kudla News,1
+2025-03,2025,other,Other,Suddi9,2
+2025-03,2025,crime_public_safety,Public safety,Daijiworld,2
+2025-03,2025,crime_public_safety,Public safety,Mangalore Today,3
+2025-03,2025,crime_public_safety,Public safety,Namma Kudla News,1
+2025-03,2025,flood_weather,Rain and weather,Daijiworld,6
+2025-03,2025,flood_weather,Rain and weather,Mangalore Today,7
+2025-03,2025,flood_weather,Rain and weather,Mangalorean.com,1
+2025-03,2025,flood_weather,Rain and weather,Namma Kudla News,16
+2025-03,2025,road_safety,Road safety,Daijiworld,44
+2025-03,2025,road_safety,Road safety,Mangalore Today,33
+2025-03,2025,road_safety,Road safety,Mangalorean.com,2
+2025-03,2025,road_safety,Road safety,Namma Kudla News,15
+2025-03,2025,road_safety,Road safety,Suddi9,1
+2025-04,2025,civic_infrastructure,Civic work,Daijiworld,6
+2025-04,2025,civic_infrastructure,Civic work,Mangalore Today,2
+2025-04,2025,civic_infrastructure,Civic work,Mangalorean.com,3
+2025-04,2025,civic_infrastructure,Civic work,Namma Kudla News,8
+2025-04,2025,education,Education,Mangalore Today,1
+2025-04,2025,fire_emergency,Fire and emergency,Daijiworld,5
+2025-04,2025,fire_emergency,Fire and emergency,Mangalore Today,8
+2025-04,2025,governance,Governance,Daijiworld,4
+2025-04,2025,governance,Governance,Other sources,2
+2025-04,2025,health,Health,Daijiworld,1
+2025-04,2025,health,Health,Mangalore Today,6
+2025-04,2025,health,Health,Mangalorean.com,9
+2025-04,2025,health,Health,Namma Kudla News,6
+2025-04,2025,other,Other,Mangalore Today,15
+2025-04,2025,other,Other,Mangalorean.com,1
+2025-04,2025,other,Other,Namma Kudla News,6
+2025-04,2025,other,Other,Suddi9,1
+2025-04,2025,crime_public_safety,Public safety,Mangalore Today,3
+2025-04,2025,crime_public_safety,Public safety,Mangalorean.com,1
+2025-04,2025,flood_weather,Rain and weather,Daijiworld,4
+2025-04,2025,flood_weather,Rain and weather,Mangalore Today,7
+2025-04,2025,flood_weather,Rain and weather,Mangalorean.com,1
+2025-04,2025,flood_weather,Rain and weather,Namma Kudla News,17
+2025-04,2025,road_safety,Road safety,Daijiworld,48
+2025-04,2025,road_safety,Road safety,Mangalore Today,34
+2025-04,2025,road_safety,Road safety,Mangalorean.com,4
+2025-04,2025,road_safety,Road safety,Namma Kudla News,21
+2025-05,2025,civic_infrastructure,Civic work,Daijiworld,9
+2025-05,2025,civic_infrastructure,Civic work,Mangalore Today,1
+2025-05,2025,civic_infrastructure,Civic work,Mangalorean.com,2
+2025-05,2025,civic_infrastructure,Civic work,Namma Kudla News,4
+2025-05,2025,fire_emergency,Fire and emergency,Daijiworld,8
+2025-05,2025,fire_emergency,Fire and emergency,Mangalore Today,4
+2025-05,2025,fire_emergency,Fire and emergency,Mangalorean.com,2
+2025-05,2025,governance,Governance,Daijiworld,2
+2025-05,2025,governance,Governance,Namma Kudla News,2
+2025-05,2025,governance,Governance,Other sources,3
+2025-05,2025,health,Health,Daijiworld,5
+2025-05,2025,health,Health,Mangalore Today,1
+2025-05,2025,health,Health,Mangalorean.com,9
+2025-05,2025,health,Health,Namma Kudla News,8
+2025-05,2025,other,Other,Mangalore Today,22
+2025-05,2025,other,Other,Mangalorean.com,1
+2025-05,2025,other,Other,Namma Kudla News,1
+2025-05,2025,crime_public_safety,Public safety,Mangalore Today,3
+2025-05,2025,flood_weather,Rain and weather,Daijiworld,23
+2025-05,2025,flood_weather,Rain and weather,Mangalore Today,20
+2025-05,2025,flood_weather,Rain and weather,Mangalorean.com,4
+2025-05,2025,flood_weather,Rain and weather,Namma Kudla News,40
+2025-05,2025,road_safety,Road safety,Daijiworld,64
+2025-05,2025,road_safety,Road safety,Mangalore Today,35
+2025-05,2025,road_safety,Road safety,Mangalorean.com,2
+2025-05,2025,road_safety,Road safety,Namma Kudla News,27
+2025-06,2025,civic_infrastructure,Civic work,Daijiworld,7
+2025-06,2025,civic_infrastructure,Civic work,Mangalore Today,11
+2025-06,2025,civic_infrastructure,Civic work,Mangalorean.com,3
+2025-06,2025,civic_infrastructure,Civic work,Namma Kudla News,6
+2025-06,2025,civic_infrastructure,Civic work,Suddi9,1
+2025-06,2025,education,Education,Namma Kudla News,1
+2025-06,2025,fire_emergency,Fire and emergency,Daijiworld,9
+2025-06,2025,fire_emergency,Fire and emergency,Mangalore Today,7
+2025-06,2025,fire_emergency,Fire and emergency,Mangalorean.com,2
+2025-06,2025,governance,Governance,Daijiworld,2
+2025-06,2025,health,Health,Daijiworld,2
+2025-06,2025,health,Health,Mangalore Today,2
+2025-06,2025,health,Health,Mangalorean.com,6
+2025-06,2025,health,Health,Namma Kudla News,15
+2025-06,2025,other,Other,Daijiworld,1
+2025-06,2025,other,Other,Mangalore Today,15
+2025-06,2025,other,Other,Namma Kudla News,1
+2025-06,2025,other,Other,Suddi9,1
+2025-06,2025,crime_public_safety,Public safety,Daijiworld,1
+2025-06,2025,crime_public_safety,Public safety,Mangalore Today,5
+2025-06,2025,flood_weather,Rain and weather,Daijiworld,22
+2025-06,2025,flood_weather,Rain and weather,Mangalore Today,17
+2025-06,2025,flood_weather,Rain and weather,Mangalorean.com,1
+2025-06,2025,flood_weather,Rain and weather,Namma Kudla News,20
+2025-06,2025,road_safety,Road safety,Daijiworld,65
+2025-06,2025,road_safety,Road safety,Mangalore Today,41
+2025-06,2025,road_safety,Road safety,Mangalorean.com,2
+2025-06,2025,road_safety,Road safety,Namma Kudla News,22
+2025-07,2025,civic_infrastructure,Civic work,Daijiworld,10
+2025-07,2025,civic_infrastructure,Civic work,Mangalore Today,7
+2025-07,2025,civic_infrastructure,Civic work,Mangalorean.com,2
+2025-07,2025,civic_infrastructure,Civic work,Namma Kudla English,3
+2025-07,2025,civic_infrastructure,Civic work,Namma Kudla News,4
+2025-07,2025,fire_emergency,Fire and emergency,Daijiworld,11
+2025-07,2025,fire_emergency,Fire and emergency,Mangalore Today,6
+2025-07,2025,fire_emergency,Fire and emergency,Mangalorean.com,1
+2025-07,2025,fire_emergency,Fire and emergency,Namma Kudla English,1
+2025-07,2025,governance,Governance,Daijiworld,1
+2025-07,2025,health,Health,Daijiworld,3
+2025-07,2025,health,Health,Mangalore Today,12
+2025-07,2025,health,Health,Mangalorean.com,6
+2025-07,2025,health,Health,Namma Kudla English,1
+2025-07,2025,health,Health,Namma Kudla News,6
+2025-07,2025,other,Other,Daijiworld,1
+2025-07,2025,other,Other,Mangalore Today,25
+2025-07,2025,other,Other,Namma Kudla News,1
+2025-07,2025,other,Other,Suddi9,2
+2025-07,2025,crime_public_safety,Public safety,Daijiworld,2
+2025-07,2025,crime_public_safety,Public safety,Mangalore Today,1
+2025-07,2025,flood_weather,Rain and weather,Daijiworld,24
+2025-07,2025,flood_weather,Rain and weather,Mangalore Today,16
+2025-07,2025,flood_weather,Rain and weather,Mangalorean.com,2
+2025-07,2025,flood_weather,Rain and weather,Namma Kudla News,29
+2025-07,2025,road_safety,Road safety,Daijiworld,48
+2025-07,2025,road_safety,Road safety,Mangalore Today,39
+2025-07,2025,road_safety,Road safety,Mangalorean.com,4
+2025-07,2025,road_safety,Road safety,Namma Kudla News,19
+2025-08,2025,civic_infrastructure,Civic work,Daijiworld,11
+2025-08,2025,civic_infrastructure,Civic work,Mangalore Today,6
+2025-08,2025,civic_infrastructure,Civic work,Mangalorean.com,4
+2025-08,2025,civic_infrastructure,Civic work,Namma Kudla English,1
+2025-08,2025,civic_infrastructure,Civic work,Namma Kudla News,3
+2025-08,2025,fire_emergency,Fire and emergency,Daijiworld,4
+2025-08,2025,fire_emergency,Fire and emergency,Mangalore Today,3
+2025-08,2025,governance,Governance,Daijiworld,2
+2025-08,2025,governance,Governance,Mangalorean.com,2
+2025-08,2025,governance,Governance,Namma Kudla News,4
+2025-08,2025,health,Health,Daijiworld,6
+2025-08,2025,health,Health,Mangalore Today,7
+2025-08,2025,health,Health,Mangalorean.com,10
+2025-08,2025,health,Health,Namma Kudla News,6
+2025-08,2025,other,Other,Mangalore Today,9
+2025-08,2025,other,Other,Namma Kudla News,3
+2025-08,2025,crime_public_safety,Public safety,Daijiworld,2
+2025-08,2025,crime_public_safety,Public safety,Mangalore Today,3
+2025-08,2025,crime_public_safety,Public safety,Namma Kudla News,1
+2025-08,2025,flood_weather,Rain and weather,Daijiworld,12
+2025-08,2025,flood_weather,Rain and weather,Mangalore Today,14
+2025-08,2025,flood_weather,Rain and weather,Mangalorean.com,1
+2025-08,2025,flood_weather,Rain and weather,Namma Kudla News,13
+2025-08,2025,road_safety,Road safety,Daijiworld,49
+2025-08,2025,road_safety,Road safety,Mangalore Today,35
+2025-08,2025,road_safety,Road safety,Mangalorean.com,2
+2025-08,2025,road_safety,Road safety,Namma Kudla News,18
+2025-09,2025,civic_infrastructure,Civic work,Daijiworld,7
+2025-09,2025,civic_infrastructure,Civic work,Mangalore Today,3
+2025-09,2025,civic_infrastructure,Civic work,Mangalorean.com,2
+2025-09,2025,civic_infrastructure,Civic work,Namma Kudla News,5
+2025-09,2025,education,Education,Namma Kudla News,1
+2025-09,2025,fire_emergency,Fire and emergency,Daijiworld,5
+2025-09,2025,fire_emergency,Fire and emergency,Mangalore Today,2
+2025-09,2025,governance,Governance,Daijiworld,2
+2025-09,2025,governance,Governance,Namma Kudla News,3
+2025-09,2025,health,Health,Daijiworld,6
+2025-09,2025,health,Health,Mangalore Today,4
+2025-09,2025,health,Health,Mangalorean.com,3
+2025-09,2025,health,Health,Namma Kudla News,10
+2025-09,2025,other,Other,Mangalore Today,27
+2025-09,2025,other,Other,Namma Kudla English,2
+2025-09,2025,other,Other,Namma Kudla News,1
+2025-09,2025,crime_public_safety,Public safety,Daijiworld,2
+2025-09,2025,crime_public_safety,Public safety,Mangalore Today,9
+2025-09,2025,crime_public_safety,Public safety,Namma Kudla News,1
+2025-09,2025,flood_weather,Rain and weather,Daijiworld,3
+2025-09,2025,flood_weather,Rain and weather,Mangalore Today,5
+2025-09,2025,flood_weather,Rain and weather,Namma Kudla News,4
+2025-09,2025,road_safety,Road safety,Daijiworld,58
+2025-09,2025,road_safety,Road safety,Mangalore Today,36
+2025-09,2025,road_safety,Road safety,Mangalorean.com,2
+2025-09,2025,road_safety,Road safety,Namma Kudla News,26
+2025-10,2025,civic_infrastructure,Civic work,Daijiworld,2
+2025-10,2025,civic_infrastructure,Civic work,Mangalore Today,3
+2025-10,2025,civic_infrastructure,Civic work,Mangalorean.com,1
+2025-10,2025,civic_infrastructure,Civic work,Namma Kudla English,1
+2025-10,2025,education,Education,Daijiworld,2
+2025-10,2025,education,Education,Mangalore Today,1
+2025-10,2025,education,Education,Namma Kudla News,1
+2025-10,2025,fire_emergency,Fire and emergency,Daijiworld,8
+2025-10,2025,fire_emergency,Fire and emergency,Mangalore Today,10
+2025-10,2025,fire_emergency,Fire and emergency,Mangalorean.com,1
+2025-10,2025,governance,Governance,Daijiworld,3
+2025-10,2025,governance,Governance,Namma Kudla News,1
+2025-10,2025,health,Health,Daijiworld,4
+2025-10,2025,health,Health,Mangalore Today,4
+2025-10,2025,health,Health,Mangalorean.com,11
+2025-10,2025,health,Health,Namma Kudla News,8
+2025-10,2025,other,Other,Daijiworld,2
+2025-10,2025,other,Other,Mangalore Today,17
+2025-10,2025,other,Other,Namma Kudla News,2
+2025-10,2025,crime_public_safety,Public safety,Mangalore Today,8
+2025-10,2025,flood_weather,Rain and weather,Daijiworld,6
+2025-10,2025,flood_weather,Rain and weather,Mangalore Today,9
+2025-10,2025,flood_weather,Rain and weather,Mangalorean.com,1
+2025-10,2025,flood_weather,Rain and weather,Namma Kudla News,7
+2025-10,2025,road_safety,Road safety,Daijiworld,40
+2025-10,2025,road_safety,Road safety,Mangalore Today,37
+2025-10,2025,road_safety,Road safety,Mangalorean.com,2
+2025-10,2025,road_safety,Road safety,Namma Kudla English,1
+2025-10,2025,road_safety,Road safety,Namma Kudla News,7
+2025-11,2025,civic_infrastructure,Civic work,Daijiworld,10
+2025-11,2025,civic_infrastructure,Civic work,Mangalore Today,6
+2025-11,2025,education,Education,Mangalorean.com,1
+2025-11,2025,fire_emergency,Fire and emergency,Daijiworld,5
+2025-11,2025,fire_emergency,Fire and emergency,Mangalore Today,8
+2025-11,2025,health,Health,Daijiworld,6
+2025-11,2025,health,Health,Mangalore Today,6
+2025-11,2025,health,Health,Mangalorean.com,8
+2025-11,2025,health,Health,Namma Kudla News,7
+2025-11,2025,other,Other,Daijiworld,4
+2025-11,2025,other,Other,Mangalore Today,16
+2025-11,2025,crime_public_safety,Public safety,Daijiworld,1
+2025-11,2025,crime_public_safety,Public safety,Mangalore Today,5
+2025-11,2025,crime_public_safety,Public safety,Namma Kudla English,1
+2025-11,2025,flood_weather,Rain and weather,Daijiworld,3
+2025-11,2025,flood_weather,Rain and weather,Mangalore Today,6
+2025-11,2025,flood_weather,Rain and weather,Namma Kudla News,4
+2025-11,2025,road_safety,Road safety,Daijiworld,47
+2025-11,2025,road_safety,Road safety,Mangalore Today,42
+2025-11,2025,road_safety,Road safety,Mangalorean.com,1
+2025-11,2025,road_safety,Road safety,Namma Kudla English,1
+2025-11,2025,road_safety,Road safety,Namma Kudla News,8
+2025-12,2025,civic_infrastructure,Civic work,Daijiworld,6
+2025-12,2025,civic_infrastructure,Civic work,Mangalore Today,7
+2025-12,2025,civic_infrastructure,Civic work,Namma Kudla English,1
+2025-12,2025,civic_infrastructure,Civic work,Namma Kudla News,3
+2025-12,2025,education,Education,Daijiworld,4
+2025-12,2025,fire_emergency,Fire and emergency,Daijiworld,6
+2025-12,2025,fire_emergency,Fire and emergency,Mangalore Today,7
+2025-12,2025,governance,Governance,Daijiworld,2
+2025-12,2025,governance,Governance,Namma Kudla News,1
+2025-12,2025,health,Health,Daijiworld,5
+2025-12,2025,health,Health,Mangalore Today,4
+2025-12,2025,health,Health,Mangalorean.com,5
+2025-12,2025,health,Health,Namma Kudla News,4
+2025-12,2025,other,Other,Daijiworld,2
+2025-12,2025,other,Other,Mangalore Today,7
+2025-12,2025,other,Other,Mangalorean.com,1
+2025-12,2025,crime_public_safety,Public safety,Daijiworld,1
+2025-12,2025,crime_public_safety,Public safety,Mangalore Today,1
+2025-12,2025,flood_weather,Rain and weather,Daijiworld,4
+2025-12,2025,flood_weather,Rain and weather,Mangalore Today,7
+2025-12,2025,flood_weather,Rain and weather,Namma Kudla News,4
+2025-12,2025,road_safety,Road safety,Daijiworld,43
+2025-12,2025,road_safety,Road safety,Mangalore Today,25
+2025-12,2025,road_safety,Road safety,Mangalorean.com,1
+2025-12,2025,road_safety,Road safety,Namma Kudla News,12
+2026-01,2026,civic_infrastructure,Civic work,Daijiworld,5
+2026-01,2026,civic_infrastructure,Civic work,Mangalore Today,3
+2026-01,2026,civic_infrastructure,Civic work,Mangalorean.com,5
+2026-01,2026,civic_infrastructure,Civic work,Namma Kudla News,1
+2026-01,2026,education,Education,Mangalorean.com,1
+2026-01,2026,education,Education,Namma Kudla News,2
+2026-01,2026,fire_emergency,Fire and emergency,Daijiworld,10
+2026-01,2026,fire_emergency,Fire and emergency,Mangalore Today,10
+2026-01,2026,fire_emergency,Fire and emergency,Mangalorean.com,2
+2026-01,2026,governance,Governance,Daijiworld,2
+2026-01,2026,governance,Governance,Namma Kudla News,1
+2026-01,2026,health,Health,Daijiworld,5
+2026-01,2026,health,Health,Mangalore Today,2
+2026-01,2026,health,Health,Mangalorean.com,9
+2026-01,2026,health,Health,Namma Kudla News,10
+2026-01,2026,other,Other,Coastal Digest,2
+2026-01,2026,other,Other,Daijiworld,2
+2026-01,2026,other,Other,Mangalore Today,4
+2026-01,2026,other,Other,Namma Kudla News,4
+2026-01,2026,crime_public_safety,Public safety,Daijiworld,2
+2026-01,2026,crime_public_safety,Public safety,Mangalore Today,2
+2026-01,2026,crime_public_safety,Public safety,Namma Kudla News,1
+2026-01,2026,flood_weather,Rain and weather,Mangalore Today,2
+2026-01,2026,flood_weather,Rain and weather,Namma Kudla News,3
+2026-01,2026,road_safety,Road safety,Daijiworld,55
+2026-01,2026,road_safety,Road safety,Mangalore Today,30
+2026-01,2026,road_safety,Road safety,Mangalorean.com,5
+2026-01,2026,road_safety,Road safety,Namma Kudla News,14
+2026-01,2026,road_safety,Road safety,Other sources,1
+2026-02,2026,civic_infrastructure,Civic work,Coastal Digest,7
+2026-02,2026,civic_infrastructure,Civic work,Daijiworld,8
+2026-02,2026,civic_infrastructure,Civic work,Mangalore Today,7
+2026-02,2026,civic_infrastructure,Civic work,Mangalorean.com,1
+2026-02,2026,civic_infrastructure,Civic work,Namma Kudla News,2
+2026-02,2026,education,Education,Daijiworld,1
+2026-02,2026,education,Education,Namma Kudla English,1
+2026-02,2026,fire_emergency,Fire and emergency,Daijiworld,12
+2026-02,2026,fire_emergency,Fire and emergency,Mangalore Today,7
+2026-02,2026,health,Health,Coastal Digest,3
+2026-02,2026,health,Health,Daijiworld,7
+2026-02,2026,health,Health,Mangalore Today,3
+2026-02,2026,health,Health,Mangalorean.com,12
+2026-02,2026,health,Health,Namma Kudla News,8
+2026-02,2026,other,Other,Coastal Digest,6
+2026-02,2026,other,Other,Daijiworld,5
+2026-02,2026,other,Other,Mangalore Today,9
+2026-02,2026,other,Other,Namma Kudla English,2
+2026-02,2026,crime_public_safety,Public safety,Coastal Digest,2
+2026-02,2026,flood_weather,Rain and weather,Coastal Digest,2
+2026-02,2026,flood_weather,Rain and weather,Daijiworld,1
+2026-02,2026,flood_weather,Rain and weather,Mangalore Today,5
+2026-02,2026,flood_weather,Rain and weather,Namma Kudla News,4
+2026-02,2026,road_safety,Road safety,Coastal Digest,1
+2026-02,2026,road_safety,Road safety,Daijiworld,63
+2026-02,2026,road_safety,Road safety,Mangalore Today,20
+2026-02,2026,road_safety,Road safety,Mangalorean.com,3
+2026-02,2026,road_safety,Road safety,Namma Kudla English,1
+2026-02,2026,road_safety,Road safety,Namma Kudla News,9
+2026-02,2026,road_safety,Road safety,Other sources,1
+2026-03,2026,civic_infrastructure,Civic work,Coastal Digest,1
+2026-03,2026,civic_infrastructure,Civic work,Daijiworld,8
+2026-03,2026,civic_infrastructure,Civic work,Mangalore Today,4
+2026-03,2026,civic_infrastructure,Civic work,Mangalorean.com,2
+2026-03,2026,civic_infrastructure,Civic work,Namma Kudla News,3
+2026-03,2026,civic_infrastructure,Civic work,Other sources,1
+2026-03,2026,fire_emergency,Fire and emergency,Daijiworld,8
+2026-03,2026,fire_emergency,Fire and emergency,Mangalore Today,4
+2026-03,2026,fire_emergency,Fire and emergency,Namma Kudla English,1
+2026-03,2026,governance,Governance,Daijiworld,4
+2026-03,2026,governance,Governance,Namma Kudla News,1
+2026-03,2026,health,Health,Daijiworld,5
+2026-03,2026,health,Health,Mangalore Today,3
+2026-03,2026,health,Health,Mangalorean.com,8
+2026-03,2026,health,Health,Namma Kudla News,6
+2026-03,2026,other,Other,Coastal Digest,1
+2026-03,2026,other,Other,Daijiworld,2
+2026-03,2026,other,Other,Mangalore Today,6
+2026-03,2026,other,Other,Mangalorean.com,5
+2026-03,2026,other,Other,Namma Kudla News,2
+2026-03,2026,other,Other,Other sources,1
+2026-03,2026,crime_public_safety,Public safety,Namma Kudla English,1
+2026-03,2026,flood_weather,Rain and weather,Coastal Digest,1
+2026-03,2026,flood_weather,Rain and weather,Daijiworld,5
+2026-03,2026,flood_weather,Rain and weather,Mangalore Today,6
+2026-03,2026,flood_weather,Rain and weather,Mangalorean.com,1
+2026-03,2026,flood_weather,Rain and weather,Namma Kudla News,4
+2026-03,2026,road_safety,Road safety,Coastal Digest,1
+2026-03,2026,road_safety,Road safety,Daijiworld,57
+2026-03,2026,road_safety,Road safety,Mangalore Today,21
+2026-03,2026,road_safety,Road safety,Mangalorean.com,3
+2026-03,2026,road_safety,Road safety,Namma Kudla News,6
+2026-04,2026,civic_infrastructure,Civic work,Coastal Digest,5
+2026-04,2026,civic_infrastructure,Civic work,Daijiworld,6
+2026-04,2026,civic_infrastructure,Civic work,Mangalorean.com,3
+2026-04,2026,civic_infrastructure,Civic work,Namma Kudla News,1
+2026-04,2026,civic_infrastructure,Civic work,Other sources,2
+2026-04,2026,education,Education,Coastal Digest,1
+2026-04,2026,education,Education,Mangalorean.com,2
+2026-04,2026,education,Education,Namma Kudla English,1
+2026-04,2026,fire_emergency,Fire and emergency,Daijiworld,2
+2026-04,2026,fire_emergency,Fire and emergency,Mangalore Today,3
+2026-04,2026,fire_emergency,Fire and emergency,Mangalorean.com,2
+2026-04,2026,governance,Governance,Daijiworld,3
+2026-04,2026,governance,Governance,Mangalorean.com,1
+2026-04,2026,governance,Governance,Namma Kudla News,1
+2026-04,2026,health,Health,Coastal Digest,1
+2026-04,2026,health,Health,Daijiworld,13
+2026-04,2026,health,Health,Mangalore Today,1
+2026-04,2026,health,Health,Mangalorean.com,3
+2026-04,2026,health,Health,Namma Kudla News,5
+2026-04,2026,other,Other,Mangalore Today,3
+2026-04,2026,other,Other,Mangalorean.com,1
+2026-04,2026,crime_public_safety,Public safety,Mangalorean.com,2
+2026-04,2026,flood_weather,Rain and weather,Coastal Digest,1
+2026-04,2026,flood_weather,Rain and weather,Daijiworld,8
+2026-04,2026,flood_weather,Rain and weather,Mangalore Today,5
+2026-04,2026,flood_weather,Rain and weather,Namma Kudla News,5
+2026-04,2026,road_safety,Road safety,Daijiworld,56
+2026-04,2026,road_safety,Road safety,Mangalore Today,24
+2026-04,2026,road_safety,Road safety,Namma Kudla News,10
+2026-04,2026,road_safety,Road safety,Other sources,3
+2026-05,2026,civic_infrastructure,Civic work,Coastal Digest,4
+2026-05,2026,civic_infrastructure,Civic work,Daijiworld,11
+2026-05,2026,civic_infrastructure,Civic work,Mangalore Today,2
+2026-05,2026,civic_infrastructure,Civic work,Mangalorean.com,2
+2026-05,2026,civic_infrastructure,Civic work,Namma Kudla News,4
+2026-05,2026,civic_infrastructure,Civic work,Other sources,7
+2026-05,2026,education,Education,Daijiworld,1
+2026-05,2026,education,Education,Namma Kudla English,1
+2026-05,2026,education,Education,Other sources,1
+2026-05,2026,fire_emergency,Fire and emergency,Daijiworld,8
+2026-05,2026,fire_emergency,Fire and emergency,Mangalore Today,2
+2026-05,2026,fire_emergency,Fire and emergency,Mangalorean.com,3
+2026-05,2026,governance,Governance,Daijiworld,1
+2026-05,2026,governance,Governance,Mangalorean.com,1
+2026-05,2026,governance,Governance,Other sources,1
+2026-05,2026,health,Health,Daijiworld,6
+2026-05,2026,health,Health,Mangalorean.com,12
+2026-05,2026,health,Health,Namma Kudla News,9
+2026-05,2026,health,Health,Other sources,1
+2026-05,2026,health,Health,Suddi9,1
+2026-05,2026,other,Other,Coastal Digest,1
+2026-05,2026,other,Other,Mangalore Today,5
+2026-05,2026,other,Other,Mangalorean.com,3
+2026-05,2026,other,Other,Namma Kudla News,1
+2026-05,2026,other,Other,Other sources,3
+2026-05,2026,crime_public_safety,Public safety,Coastal Digest,1
+2026-05,2026,crime_public_safety,Public safety,Daijiworld,1
+2026-05,2026,crime_public_safety,Public safety,Mangalorean.com,1
+2026-05,2026,flood_weather,Rain and weather,Coastal Digest,1
+2026-05,2026,flood_weather,Rain and weather,Daijiworld,16
+2026-05,2026,flood_weather,Rain and weather,Mangalore Today,4
+2026-05,2026,flood_weather,Rain and weather,Namma Kudla News,9
+2026-05,2026,flood_weather,Rain and weather,Other sources,6
+2026-05,2026,road_safety,Road safety,Daijiworld,64
+2026-05,2026,road_safety,Road safety,Mangalore Today,15
+2026-05,2026,road_safety,Road safety,Mangalorean.com,3
+2026-05,2026,road_safety,Road safety,Namma Kudla News,13
+2026-05,2026,road_safety,Road safety,Other sources,9
+2026-06,2026,civic_infrastructure,Civic work,Mangalore Today,1
+2026-06,2026,civic_infrastructure,Civic work,Mangalorean.com,3
+2026-06,2026,civic_infrastructure,Civic work,Other sources,2
+2026-06,2026,education,Education,Mangalorean.com,1
+2026-06,2026,education,Education,Other sources,2
+2026-06,2026,fire_emergency,Fire and emergency,Mangalore Today,1
+2026-06,2026,governance,Governance,Mangalorean.com,5
+2026-06,2026,governance,Governance,Other sources,3
+2026-06,2026,health,Health,Mangalorean.com,3
+2026-06,2026,health,Health,Other sources,1
+2026-06,2026,other,Other,Mangalore Today,2
+2026-06,2026,other,Other,Mangalorean.com,5
+2026-06,2026,other,Other,Other sources,4
+2026-06,2026,crime_public_safety,Public safety,Mangalorean.com,1
+2026-06,2026,flood_weather,Rain and weather,Daijiworld,1
+2026-06,2026,flood_weather,Rain and weather,Mangalore Today,1
+2026-06,2026,flood_weather,Rain and weather,Mangalorean.com,2
+2026-06,2026,flood_weather,Rain and weather,Other sources,2
+2026-06,2026,road_safety,Road safety,Daijiworld,1
+2026-06,2026,road_safety,Road safety,Mangalore Today,3
+2026-06,2026,road_safety,Road safety,Mangalorean.com,1
+2026-06,2026,road_safety,Road safety,Namma Kudla News,1
+2026-06,2026,road_safety,Road safety,Other sources,7
+2026-09,2026,health,Health,Mangalore Today,1

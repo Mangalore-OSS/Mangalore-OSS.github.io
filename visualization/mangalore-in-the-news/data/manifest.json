@@ -1,0 +1,131 @@
+{
+  "generated_at": "2026-06-09",
+  "source_files": [
+    "data/processed/news_corpus/news_policy_domain_event_panel_2026_06_04.csv",
+    "data/processed/news_corpus/news_rich_event_registry_2026_06_04.jsonl",
+    "data/processed/news_corpus/mangalore_public_news_event_location_registry.csv",
+    "data/raw/osm/mangalore_roads.overpass.json",
+    "data/processed/openstreetmap-mangalore/mangalore_osm_pois_green_normalized.csv",
+    "data/interim/mangalore_city_corporation_wards.geojson"
+  ],
+  "dataset_note": "The story tables are compact derivatives of the deduplicated event panel. The full 82 MB JSONL registry remains the source-linked record.",
+  "total_event_clusters": 21615,
+  "dated_event_clusters": 21607,
+  "year_min": 2007,
+  "year_max": 2026,
+  "top_family": {
+    "event_family": "road_safety",
+    "event_family_label": "Road safety",
+    "event_count": 8025,
+    "share_of_archive": 0.3712699514226232
+  },
+  "multi_topic_records": 9512,
+  "single_topic_records": 12103,
+  "topic_note": "event_family is the primary sorting label. record_topics.csv lists supplementary topic tags, so tag counts are not mutually exclusive.",
+  "clear_mangaluru_place_records": 3933,
+  "point_map_ready_records": 5666,
+  "reviewed_coordinate_point_records": 102,
+  "map_note": "Only the reviewed_coordinate_point_records are drawn as city map points. The full news archive is not geocoded to exact coordinates.",
+  "road_incident_note": "The road_incidents and road_vehicle_mentions tables are compact derivatives for the accident chapter. They exclude Outside city counts and compare only the main vehicle groups used in the visualization. Outcome views leave out rows where no death, injury, or hospitalization count was captured.",
+  "scope_buckets": [
+    {
+      "scope_bucket": "Clear Mangaluru places",
+      "event_count": 3933,
+      "share_of_archive": 0.18195697432338653
+    },
+    {
+      "scope_bucket": "Mangaluru, needs review",
+      "event_count": 2572,
+      "share_of_archive": 0.11899144112884572
+    },
+    {
+      "scope_bucket": "Dakshina Kannada context",
+      "event_count": 7148,
+      "share_of_archive": 0.33069627573444366
+    },
+    {
+      "scope_bucket": "Nearby coastal context",
+      "event_count": 3918,
+      "share_of_archive": 0.18126301179736296
+    },
+    {
+      "scope_bucket": "Outside city counts",
+      "event_count": 4044,
+      "share_of_archive": 0.18709229701596114
+    }
+  ],
+  "outputs": {
+    "family_summary": {
+      "file": "family_summary.csv",
+      "rows": 22
+    },
+    "annual_family": {
+      "file": "annual_family.csv",
+      "rows": 169
+    },
+    "monthly_family_source": {
+      "file": "monthly_family_source.csv",
+      "rows": 2554
+    },
+    "source_year": {
+      "file": "source_year.csv",
+      "rows": 53
+    },
+    "source_family": {
+      "file": "source_family.csv",
+      "rows": 84
+    },
+    "map_readiness_summary": {
+      "file": "map_readiness_summary.csv",
+      "rows": 5
+    },
+    "family_scope_summary": {
+      "file": "family_scope_summary.csv",
+      "rows": 45
+    },
+    "mangalore_place_family": {
+      "file": "mangalore_place_family.csv",
+      "rows": 321
+    },
+    "flood_weather_calendar": {
+      "file": "flood_weather_calendar.csv",
+      "rows": 178
+    },
+    "metric_family_fingerprint": {
+      "file": "metric_family_fingerprint.csv",
+      "rows": 168
+    },
+    "record_topics": {
+      "file": "record_topics.csv",
+      "rows": 36076
+    },
+    "topic_summary": {
+      "file": "topic_summary.csv",
+      "rows": 12
+    },
+    "monthly_topic": {
+      "file": "monthly_topic.csv",
+      "rows": 1857
+    },
+    "map_points": {
+      "file": "map_points.csv",
+      "rows": 102
+    },
+    "osm_map_context": {
+      "file": "osm_map_context.geojson",
+      "rows": 1
+    },
+    "event_sample": {
+      "file": "event_sample.csv",
+      "rows": 21615
+    },
+    "road_incidents": {
+      "file": "road_incidents.csv",
+      "rows": 1939
+    },
+    "road_vehicle_mentions": {
+      "file": "road_vehicle_mentions.csv",
+      "rows": 2783
+    }
+  }
+}

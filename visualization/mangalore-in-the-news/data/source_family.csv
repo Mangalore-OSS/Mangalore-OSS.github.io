@@ -1,0 +1,85 @@
+source_label,event_family,event_family_label,event_count,source_event_count,share_within_source
+Daijiworld,road_safety,Road safety,5903,11825,0.4991966173361522
+Daijiworld,civic_infrastructure,Civic work,1238,11825,0.10469344608879493
+Daijiworld,health,Health,1192,11825,0.10080338266384778
+Daijiworld,fire_emergency,Fire and emergency,1066,11825,0.09014799154334038
+Daijiworld,flood_weather,Rain and weather,891,11825,0.07534883720930233
+Daijiworld,governance,Governance,320,11825,0.027061310782241013
+Daijiworld,crime_public_safety,Public safety,312,11825,0.02638477801268499
+Daijiworld,transport_service,Transport service,268,11825,0.02266384778012685
+Daijiworld,education,Education,228,11825,0.019281183932346724
+Daijiworld,public_order,Public order,212,11825,0.017928118393234674
+Daijiworld,coastal_environment,Coastal environment,79,11825,0.00668076109936575
+Daijiworld,communal_tension_or_discrimination,Communal tension,63,11825,0.0053276955602537
+Daijiworld,building_workplace_safety,Building and workplace safety,27,11825,0.0022832980972515857
+Daijiworld,communal_discrimination_rights,Communal rights,19,11825,0.0016067653276955602
+Daijiworld,communal_or_discrimination_tension,Communal tension,3,11825,0.0002536997885835095
+Daijiworld,welfare_livelihood,Welfare and livelihood,2,11825,0.00016913319238900633
+Daijiworld,communal_discrimination_tension,Communal tension,1,11825,8.456659619450317e-05
+Daijiworld,hazard_emergency,Hazard and emergency,1,11825,8.456659619450317e-05
+Mangalorean.com,health,Health,1982,3759,0.527267890396382
+Mangalorean.com,road_safety,Road safety,370,3759,0.09843043362596435
+Mangalorean.com,civic_infrastructure,Civic work,314,3759,0.08353285448257515
+Mangalorean.com,education,Education,305,3759,0.08113860069167332
+Mangalorean.com,governance,Governance,196,3759,0.0521415270018622
+Mangalorean.com,flood_weather,Rain and weather,176,3759,0.04682096302208034
+Mangalorean.com,fire_emergency,Fire and emergency,150,3759,0.03990422984836393
+Mangalorean.com,crime_public_safety,Public safety,100,3759,0.026602819898909284
+Mangalorean.com,public_order,Public order,64,3759,0.017025804735301943
+Mangalorean.com,communal_tension_or_discrimination,Communal tension,57,3759,0.015163607342378291
+Mangalorean.com,coastal_environment,Coastal environment,26,3759,0.006916733173716414
+Mangalorean.com,policy_context_other,Other policy context,19,3759,0.005054535780792764
+Namma Kudla News,road_safety,Road safety,600,3323,0.18055973517905508
+Namma Kudla News,health,Health,470,3323,0.14143845922359313
+Namma Kudla News,other_public_news_event,Other public news,452,3323,0.13602166716822148
+Namma Kudla News,civic_infrastructure,Civic work,430,3323,0.12940114354498947
+Namma Kudla News,flood_weather,Rain and weather,350,3323,0.10532651218778212
+Namma Kudla News,governance,Governance,324,3323,0.09750225699668974
+Namma Kudla News,education,Education,234,3323,0.07041829671983148
+Namma Kudla News,crime_public_safety,Public safety,158,3323,0.0475473969304845
+Namma Kudla News,public_event,Public events,117,3323,0.03520914835991574
+Namma Kudla News,public_order,Public order,77,3323,0.02317183268131207
+Namma Kudla News,communal_tension_or_discrimination,Communal tension,41,3323,0.012338248570568764
+Namma Kudla News,transport_service,Transport service,29,3323,0.008727053866987662
+Namma Kudla News,coastal_environment,Coastal environment,23,3323,0.006921456515197111
+Namma Kudla News,fire_emergency,Fire and emergency,18,3323,0.005416792055371652
+Mangalore Today,road_safety,Road safety,1133,2540,0.44606299212598427
+Mangalore Today,flood_weather,Rain and weather,281,2540,0.11062992125984251
+Mangalore Today,policy_context_other,Other policy context,197,2540,0.07755905511811023
+Mangalore Today,health,Health,181,2540,0.07125984251968503
+Mangalore Today,civic_infrastructure,Civic work,177,2540,0.06968503937007874
+Mangalore Today,fire_emergency,Fire and emergency,176,2540,0.06929133858267716
+Mangalore Today,education,Education,148,2540,0.05826771653543307
+Mangalore Today,transport_service,Transport service,97,2540,0.03818897637795276
+Mangalore Today,crime_public_safety,Public safety,88,2540,0.03464566929133858
+Mangalore Today,coastal_environment,Coastal environment,49,2540,0.019291338582677165
+Mangalore Today,public_order,Public order,13,2540,0.005118110236220472
+Other sources,road_safety,Road safety,25,83,0.30120481927710846
+Other sources,governance,Governance,19,83,0.2289156626506024
+Other sources,civic_infrastructure,Civic work,12,83,0.14457831325301204
+Other sources,flood_weather,Rain and weather,9,83,0.10843373493975904
+Other sources,other.policy_relevant_lead,Other policy lead,9,83,0.10843373493975904
+Other sources,health,Health,6,83,0.07228915662650602
+Other sources,education,Education,3,83,0.03614457831325301
+Coastal Digest,civic_infrastructure,Civic work,17,42,0.40476190476190477
+Coastal Digest,coastal_environment,Coastal environment,6,42,0.14285714285714285
+Coastal Digest,flood_weather,Rain and weather,5,42,0.11904761904761904
+Coastal Digest,health,Health,4,42,0.09523809523809523
+Coastal Digest,crime_public_safety,Public safety,3,42,0.07142857142857142
+Coastal Digest,other.policy_relevant_lead,Other policy lead,2,42,0.047619047619047616
+Coastal Digest,public_order,Public order,2,42,0.047619047619047616
+Coastal Digest,road_safety,Road safety,2,42,0.047619047619047616
+Coastal Digest,education,Education,1,42,0.023809523809523808
+Suddi9,civic_infrastructure,Civic work,20,40,0.5
+Suddi9,other.policy_relevant_lead,Other policy lead,12,40,0.3
+Suddi9,governance,Governance,4,40,0.1
+Suddi9,health,Health,2,40,0.05
+Suddi9,fire_emergency,Fire and emergency,1,40,0.025
+Suddi9,road_safety,Road safety,1,40,0.025
+Namma Kudla English,civic_infrastructure,Civic work,6,21,0.2857142857142857
+Namma Kudla English,other.policy_relevant_lead,Other policy lead,4,21,0.19047619047619047
+Namma Kudla English,education,Education,3,21,0.14285714285714285
+Namma Kudla English,road_safety,Road safety,3,21,0.14285714285714285
+Namma Kudla English,crime_public_safety,Public safety,2,21,0.09523809523809523
+Namma Kudla English,fire_emergency,Fire and emergency,2,21,0.09523809523809523
+Namma Kudla English,health,Health,1,21,0.047619047619047616

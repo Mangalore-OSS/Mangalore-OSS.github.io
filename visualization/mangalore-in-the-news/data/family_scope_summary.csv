@@ -1,0 +1,46 @@
+family_group,family_group_label,scope_bucket,event_count,sort_order
+civic_infrastructure,Civic work,Clear Mangaluru places,566,1
+civic_infrastructure,Civic work,"Mangaluru, needs review",447,2
+civic_infrastructure,Civic work,Dakshina Kannada context,629,3
+civic_infrastructure,Civic work,Nearby coastal context,276,4
+civic_infrastructure,Civic work,Outside city counts,296,5
+education,Education,Clear Mangaluru places,264,1
+education,Education,"Mangaluru, needs review",160,2
+education,Education,Dakshina Kannada context,284,3
+education,Education,Nearby coastal context,95,4
+education,Education,Outside city counts,119,5
+fire_emergency,Fire and emergency,Clear Mangaluru places,254,1
+fire_emergency,Fire and emergency,"Mangaluru, needs review",105,2
+fire_emergency,Fire and emergency,Dakshina Kannada context,357,3
+fire_emergency,Fire and emergency,Nearby coastal context,321,4
+fire_emergency,Fire and emergency,Outside city counts,371,5
+governance,Governance,Clear Mangaluru places,137,1
+governance,Governance,"Mangaluru, needs review",157,2
+governance,Governance,Dakshina Kannada context,289,3
+governance,Governance,Nearby coastal context,108,4
+governance,Governance,Outside city counts,172,5
+health,Health,Clear Mangaluru places,811,1
+health,Health,"Mangaluru, needs review",552,2
+health,Health,Dakshina Kannada context,1107,3
+health,Health,Nearby coastal context,576,4
+health,Health,Outside city counts,791,5
+other,Other,Clear Mangaluru places,310,1
+other,Other,"Mangaluru, needs review",400,2
+other,Other,Dakshina Kannada context,692,3
+other,Other,Nearby coastal context,247,4
+other,Other,Outside city counts,322,5
+crime_public_safety,Public safety,Clear Mangaluru places,114,1
+crime_public_safety,Public safety,"Mangaluru, needs review",82,2
+crime_public_safety,Public safety,Dakshina Kannada context,218,3
+crime_public_safety,Public safety,Nearby coastal context,116,4
+crime_public_safety,Public safety,Outside city counts,133,5
+flood_weather,Rain and weather,Clear Mangaluru places,247,1
+flood_weather,Rain and weather,"Mangaluru, needs review",197,2
+flood_weather,Rain and weather,Dakshina Kannada context,727,3
+flood_weather,Rain and weather,Nearby coastal context,204,4
+flood_weather,Rain and weather,Outside city counts,337,5
+road_safety,Road safety,Clear Mangaluru places,1230,1
+road_safety,Road safety,"Mangaluru, needs review",472,2
+road_safety,Road safety,Dakshina Kannada context,2845,3
+road_safety,Road safety,Nearby coastal context,1975,4
+road_safety,Road safety,Outside city counts,1503,5

@@ -1,0 +1,23 @@
+event_family,event_family_label,event_count,share_of_archive,rank
+road_safety,Road safety,8025,0.3712699514226232,1
+health,Health,3837,0.17751561415683553,2
+civic_infrastructure,Civic work,2214,0.10242886884108258,3
+flood_weather,Rain and weather,1712,0.07920425630349294,4
+fire_emergency,Fire and emergency,1408,0.06513994910941476,5
+education,Education,922,0.042655563266250286,6
+governance,Governance,863,0.039925977330557486,7
+crime_public_safety,Public safety,663,0.030673143650242887,8
+other_public_news_event,Other public news,452,0.02091140411751099,9
+transport_service,Transport service,394,0.018228082350219756,10
+public_order,Public order,368,0.017025213971778856,11
+policy_context_other,Other policy context,216,0.009993060374739763,12
+coastal_environment,Coastal environment,183,0.008466342817487855,13
+communal_tension_or_discrimination,Communal tension,161,0.00744853111265325,14
+public_event,Public events,117,0.005412907702984039,15
+building_workplace_safety,Building and workplace safety,27,0.0012491325468424704,16
+other.policy_relevant_lead,Other policy lead,27,0.0012491325468424704,17
+communal_discrimination_rights,Communal rights,19,0.0008790191996298866,18
+communal_or_discrimination_tension,Communal tension,3,0.00013879250520471896,19
+welfare_livelihood,Welfare and livelihood,2,9.252833680314597e-05,20
+hazard_emergency,Hazard and emergency,1,4.626416840157298e-05,21
+communal_discrimination_tension,Communal tension,1,4.626416840157298e-05,22

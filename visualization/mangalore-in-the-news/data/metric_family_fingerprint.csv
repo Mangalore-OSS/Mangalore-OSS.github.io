@@ -1,0 +1,169 @@
+metric_key,event_family,event_family_label,event_count,family_event_count,share_with_metric
+injuries,road_safety,Road safety,3928,8025,0.4894704049844237
+deaths,road_safety,Road safety,3173,8025,0.3953894080996885
+deaths,health,Health,1205,3837,0.31404743289027887
+money_inr_estimate,road_safety,Road safety,740,8025,0.09221183800623053
+cases,health,Health,635,3837,0.16549387542350794
+money_inr_estimate,civic_infrastructure,Civic work,518,2214,0.23396567299006324
+cases,road_safety,Road safety,466,8025,0.05806853582554517
+money_inr_estimate,health,Health,431,3837,0.1123273390669794
+injuries,health,Health,308,3837,0.0802710450873078
+deaths,fire_emergency,Fire and emergency,256,1408,0.18181818181818182
+money_inr_estimate,flood_weather,Rain and weather,243,1712,0.1419392523364486
+money_inr_estimate,fire_emergency,Fire and emergency,241,1408,0.17116477272727273
+arrests,road_safety,Road safety,221,8025,0.027538940809968847
+vehicles,road_safety,Road safety,212,8025,0.026417445482866043
+arrests,crime_public_safety,Public safety,210,663,0.3167420814479638
+injuries,fire_emergency,Fire and emergency,187,1408,0.1328125
+deaths,civic_infrastructure,Civic work,186,2214,0.08401084010840108
+deaths,flood_weather,Rain and weather,164,1712,0.09579439252336448
+hospitalized,road_safety,Road safety,160,8025,0.019937694704049845
+money_inr_estimate,governance,Governance,159,863,0.1842410196987254
+deaths,education,Education,144,922,0.1561822125813449
+deaths,crime_public_safety,Public safety,144,663,0.2171945701357466
+hospitalized,health,Health,136,3837,0.035444357571019026
+money_inr_estimate,crime_public_safety,Public safety,128,663,0.19306184012066366
+deaths,governance,Governance,94,863,0.10892236384704519
+rainfall_mm,flood_weather,Rain and weather,90,1712,0.052570093457943924
+arrests,governance,Governance,89,863,0.10312862108922363
+injuries,civic_infrastructure,Civic work,83,2214,0.037488708220415536
+roads_affected,road_safety,Road safety,80,8025,0.009968847352024923
+injuries,flood_weather,Rain and weather,74,1712,0.04322429906542056
+attendees,education,Education,73,922,0.07917570498915401
+money_inr_estimate,education,Education,71,922,0.0770065075921909
+arrests,health,Health,67,3837,0.01746155850925202
+attendees,health,Health,64,3837,0.01667969768047954
+cases,crime_public_safety,Public safety,64,663,0.09653092006033183
+arrests,civic_infrastructure,Civic work,62,2214,0.028003613369467027
+arrests,fire_emergency,Fire and emergency,62,1408,0.04403409090909091
+deaths,other_public_news_event,Other public news,62,452,0.13716814159292035
+attendees,road_safety,Road safety,57,8025,0.007102803738317757
+affected_people,flood_weather,Rain and weather,55,1712,0.03212616822429906
+money_inr_estimate,transport_service,Transport service,55,394,0.13959390862944163
+attendees,civic_infrastructure,Civic work,50,2214,0.022583559168925023
+cases,governance,Governance,49,863,0.056778679026651215
+deaths,public_order,Public order,49,368,0.1331521739130435
+injuries,crime_public_safety,Public safety,48,663,0.07239819004524888
+arrests,education,Education,45,922,0.04880694143167028
+money_inr_estimate,public_order,Public order,44,368,0.11956521739130435
+cases,fire_emergency,Fire and emergency,40,1408,0.028409090909090908
+affected_people,health,Health,39,3837,0.010164190774042221
+money_inr_estimate,other_public_news_event,Other public news,39,452,0.08628318584070796
+cases,civic_infrastructure,Civic work,38,2214,0.017163504968383016
+affected_people,civic_infrastructure,Civic work,38,2214,0.017163504968383016
+injuries,governance,Governance,36,863,0.04171494785631518
+deaths,coastal_environment,Coastal environment,35,183,0.1912568306010929
+deaths,communal_tension_or_discrimination,Communal tension,35,161,0.21739130434782608
+injuries,education,Education,33,922,0.03579175704989154
+affected_people,road_safety,Road safety,33,8025,0.00411214953271028
+deaths,transport_service,Transport service,33,394,0.08375634517766498
+service_disruption_duration_days,road_safety,Road safety,32,8025,0.003987538940809969
+affected_people,other_public_news_event,Other public news,28,452,0.061946902654867256
+attendees,other_public_news_event,Other public news,28,452,0.061946902654867256
+injuries,public_order,Public order,28,368,0.07608695652173914
+roads_affected,civic_infrastructure,Civic work,27,2214,0.012195121951219513
+service_disruption_duration_days,civic_infrastructure,Civic work,25,2214,0.011291779584462511
+vehicles,civic_infrastructure,Civic work,24,2214,0.01084010840108401
+schools_affected,road_safety,Road safety,24,8025,0.0029906542056074765
+service_disruption_duration_days,health,Health,22,3837,0.005733646077664843
+attendees,flood_weather,Rain and weather,21,1712,0.012266355140186916
+cases,flood_weather,Rain and weather,20,1712,0.011682242990654205
+affected_people,governance,Governance,19,863,0.0220162224797219
+injuries,transport_service,Transport service,19,394,0.048223350253807105
+deaths,policy_context_other,Other policy context,18,216,0.08333333333333333
+vehicles,fire_emergency,Fire and emergency,17,1408,0.012073863636363636
+attendees,governance,Governance,17,863,0.019698725376593278
+injuries,policy_context_other,Other policy context,17,216,0.0787037037037037
+arrests,public_order,Public order,17,368,0.04619565217391304
+arrests,flood_weather,Rain and weather,17,1712,0.009929906542056074
+service_disruption_duration_days,flood_weather,Rain and weather,17,1712,0.009929906542056074
+affected_people,education,Education,16,922,0.01735357917570499
+injuries,other_public_news_event,Other public news,16,452,0.035398230088495575
+attendees,crime_public_safety,Public safety,16,663,0.024132730015082957
+vehicles,flood_weather,Rain and weather,16,1712,0.009345794392523364
+rainfall_mm,road_safety,Road safety,16,8025,0.0019937694704049843
+money_inr_estimate,communal_tension_or_discrimination,Communal tension,15,161,0.09316770186335403
+hospitalized,fire_emergency,Fire and emergency,15,1408,0.01065340909090909
+attendees,public_event,Public events,15,117,0.1282051282051282
+arrests,transport_service,Transport service,15,394,0.03807106598984772
+hospitalized,civic_infrastructure,Civic work,14,2214,0.006323396567299007
+affected_people,coastal_environment,Coastal environment,14,183,0.07650273224043716
+cases,education,Education,13,922,0.014099783080260303
+schools_affected,education,Education,13,922,0.014099783080260303
+injuries,coastal_environment,Coastal environment,12,183,0.06557377049180328
+money_inr_estimate,coastal_environment,Coastal environment,12,183,0.06557377049180328
+affected_people,fire_emergency,Fire and emergency,12,1408,0.008522727272727272
+cases,public_order,Public order,12,368,0.03260869565217391
+hospitalized,flood_weather,Rain and weather,12,1712,0.007009345794392523
+roads_affected,flood_weather,Rain and weather,12,1712,0.007009345794392523
+schools_affected,civic_infrastructure,Civic work,11,2214,0.004968383017163505
+affected_people,crime_public_safety,Public safety,11,663,0.016591251885369532
+service_disruption_duration_days,fire_emergency,Fire and emergency,10,1408,0.007102272727272727
+vehicles,transport_service,Transport service,10,394,0.025380710659898477
+vehicles,health,Health,9,3837,0.0023455824863174357
+schools_affected,health,Health,8,3837,0.0020849622100599426
+roads_affected,health,Health,8,3837,0.0020849622100599426
+deaths,public_event,Public events,8,117,0.06837606837606838
+vehicles,crime_public_safety,Public safety,8,663,0.012066365007541479
+injuries,communal_tension_or_discrimination,Communal tension,7,161,0.043478260869565216
+attendees,fire_emergency,Fire and emergency,7,1408,0.004971590909090909
+money_inr_estimate,policy_context_other,Other policy context,7,216,0.032407407407407406
+money_inr_estimate,public_event,Public events,7,117,0.05982905982905983
+schools_affected,flood_weather,Rain and weather,7,1712,0.0040887850467289715
+cases,transport_service,Transport service,7,394,0.017766497461928935
+arrests,communal_tension_or_discrimination,Communal tension,6,161,0.037267080745341616
+rainfall_mm,fire_emergency,Fire and emergency,6,1408,0.004261363636363636
+rainfall_mm,health,Health,6,3837,0.001563721657544957
+cases,other_public_news_event,Other public news,6,452,0.01327433628318584
+hospitalized,public_order,Public order,6,368,0.016304347826086956
+vehicles,public_order,Public order,6,368,0.016304347826086956
+affected_people,public_event,Public events,5,117,0.042735042735042736
+attendees,transport_service,Transport service,5,394,0.012690355329949238
+deaths,building_workplace_safety,Building and workplace safety,4,27,0.14814814814814814
+injuries,building_workplace_safety,Building and workplace safety,4,27,0.14814814814814814
+money_inr_estimate,communal_discrimination_rights,Communal rights,4,19,0.21052631578947367
+hospitalized,communal_tension_or_discrimination,Communal tension,4,161,0.024844720496894408
+cases,communal_tension_or_discrimination,Communal tension,4,161,0.024844720496894408
+attendees,communal_tension_or_discrimination,Communal tension,4,161,0.024844720496894408
+service_disruption_duration_days,governance,Governance,4,863,0.004634994206257242
+service_disruption_duration_days,public_order,Public order,4,368,0.010869565217391304
+roads_affected,transport_service,Transport service,4,394,0.01015228426395939
+rainfall_mm,civic_infrastructure,Civic work,3,2214,0.0013550135501355014
+arrests,coastal_environment,Coastal environment,3,183,0.01639344262295082
+schools_affected,fire_emergency,Fire and emergency,3,1408,0.002130681818181818
+roads_affected,other_public_news_event,Other public news,3,452,0.00663716814159292
+injuries,public_event,Public events,3,117,0.02564102564102564
+attendees,public_order,Public order,3,368,0.008152173913043478
+roads_affected,public_order,Public order,3,368,0.008152173913043478
+service_disruption_duration_days,transport_service,Transport service,3,394,0.007614213197969543
+cases,building_workplace_safety,Building and workplace safety,2,27,0.07407407407407407
+cases,coastal_environment,Coastal environment,2,183,0.01092896174863388
+cases,communal_discrimination_rights,Communal rights,2,19,0.10526315789473684
+hospitalized,education,Education,2,922,0.0021691973969631237
+roads_affected,fire_emergency,Fire and emergency,2,1408,0.0014204545454545455
+arrests,policy_context_other,Other policy context,2,216,0.009259259259259259
+affected_people,public_order,Public order,2,368,0.005434782608695652
+service_disruption_duration_days,building_workplace_safety,Building and workplace safety,1,27,0.037037037037037035
+attendees,coastal_environment,Coastal environment,1,183,0.00546448087431694
+rainfall_mm,coastal_environment,Coastal environment,1,183,0.00546448087431694
+deaths,communal_discrimination_rights,Communal rights,1,19,0.05263157894736842
+injuries,communal_discrimination_rights,Communal rights,1,19,0.05263157894736842
+arrests,communal_discrimination_rights,Communal rights,1,19,0.05263157894736842
+deaths,communal_or_discrimination_tension,Communal tension,1,3,0.3333333333333333
+arrests,communal_or_discrimination_tension,Communal tension,1,3,0.3333333333333333
+affected_people,communal_tension_or_discrimination,Communal tension,1,161,0.006211180124223602
+service_disruption_duration_days,communal_tension_or_discrimination,Communal tension,1,161,0.006211180124223602
+roads_affected,education,Education,1,922,0.0010845986984815619
+vehicles,education,Education,1,922,0.0010845986984815619
+rainfall_mm,education,Education,1,922,0.0010845986984815619
+service_disruption_duration_days,education,Education,1,922,0.0010845986984815619
+hospitalized,governance,Governance,1,863,0.0011587485515643105
+schools_affected,governance,Governance,1,863,0.0011587485515643105
+vehicles,hazard_emergency,Hazard and emergency,1,1,1.0
+affected_people,policy_context_other,Other policy context,1,216,0.004629629629629629
+deaths,other.policy_relevant_lead,Other policy lead,1,27,0.037037037037037035
+roads_affected,public_event,Public events,1,117,0.008547008547008548
+hospitalized,crime_public_safety,Public safety,1,663,0.0015082956259426848
+roads_affected,crime_public_safety,Public safety,1,663,0.0015082956259426848
+affected_people,transport_service,Transport service,1,394,0.0025380710659898475
+schools_affected,transport_service,Transport service,1,394,0.0025380710659898475

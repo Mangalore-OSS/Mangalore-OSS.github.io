@@ -1,0 +1,322 @@
+place_label,event_family,event_family_label,event_count,place_event_count
+Hampankatta,health,Health,181,367
+Hampankatta,road_safety,Road safety,60,367
+Hampankatta,civic_infrastructure,Civic work,54,367
+Hampankatta,fire_emergency,Fire and emergency,23,367
+Hampankatta,flood_weather,Rain and weather,13,367
+Hampankatta,crime_public_safety,Public safety,9,367
+Hampankatta,governance,Governance,8,367
+Hampankatta,public_order,Public order,5,367
+Hampankatta,education,Education,4,367
+Hampankatta,transport_service,Transport service,4,367
+Hampankatta,communal_tension_or_discrimination,Communal tension,2,367
+Hampankatta,building_workplace_safety,Building and workplace safety,1,367
+Hampankatta,coastal_environment,Coastal environment,1,367
+Hampankatta,communal_discrimination_rights,Communal rights,1,367
+Hampankatta,policy_context_other,Other policy context,1,367
+Surathkal,road_safety,Road safety,101,350
+Surathkal,civic_infrastructure,Civic work,61,350
+Surathkal,health,Health,42,350
+Surathkal,flood_weather,Rain and weather,29,350
+Surathkal,governance,Governance,22,350
+Surathkal,other_public_news_event,Other public news,18,350
+Surathkal,crime_public_safety,Public safety,15,350
+Surathkal,education,Education,15,350
+Surathkal,fire_emergency,Fire and emergency,11,350
+Surathkal,communal_tension_or_discrimination,Communal tension,7,350
+Surathkal,policy_context_other,Other policy context,7,350
+Surathkal,coastal_environment,Coastal environment,6,350
+Surathkal,public_order,Public order,6,350
+Surathkal,transport_service,Transport service,6,350
+Surathkal,public_event,Public events,3,350
+Surathkal,building_workplace_safety,Building and workplace safety,1,350
+Kankanady,health,Health,151,332
+Kankanady,road_safety,Road safety,78,332
+Kankanady,civic_infrastructure,Civic work,36,332
+Kankanady,fire_emergency,Fire and emergency,13,332
+Kankanady,education,Education,11,332
+Kankanady,governance,Governance,11,332
+Kankanady,crime_public_safety,Public safety,9,332
+Kankanady,other_public_news_event,Other public news,6,332
+Kankanady,flood_weather,Rain and weather,5,332
+Kankanady,transport_service,Transport service,4,332
+Kankanady,public_order,Public order,3,332
+Kankanady,communal_tension_or_discrimination,Communal tension,2,332
+Kankanady,public_event,Public events,2,332
+Kankanady,policy_context_other,Other policy context,1,332
+Kadri,road_safety,Road safety,87,301
+Kadri,health,Health,71,301
+Kadri,civic_infrastructure,Civic work,36,301
+Kadri,flood_weather,Rain and weather,24,301
+Kadri,fire_emergency,Fire and emergency,16,301
+Kadri,public_event,Public events,14,301
+Kadri,education,Education,11,301
+Kadri,other_public_news_event,Other public news,11,301
+Kadri,crime_public_safety,Public safety,8,301
+Kadri,governance,Governance,8,301
+Kadri,communal_tension_or_discrimination,Communal tension,6,301
+Kadri,coastal_environment,Coastal environment,4,301
+Kadri,policy_context_other,Other policy context,3,301
+Kadri,communal_discrimination_rights,Communal rights,1,301
+Kadri,public_order,Public order,1,301
+Pumpwell,road_safety,Road safety,84,282
+Pumpwell,civic_infrastructure,Civic work,73,282
+Pumpwell,health,Health,37,282
+Pumpwell,flood_weather,Rain and weather,28,282
+Pumpwell,governance,Governance,13,282
+Pumpwell,fire_emergency,Fire and emergency,12,282
+Pumpwell,public_order,Public order,11,282
+Pumpwell,crime_public_safety,Public safety,8,282
+Pumpwell,education,Education,5,282
+Pumpwell,other_public_news_event,Other public news,5,282
+Pumpwell,communal_tension_or_discrimination,Communal tension,2,282
+Pumpwell,transport_service,Transport service,2,282
+Pumpwell,coastal_environment,Coastal environment,1,282
+Pumpwell,policy_context_other,Other policy context,1,282
+st aloysius college,education,Education,103,195
+st aloysius college,health,Health,35,195
+st aloysius college,civic_infrastructure,Civic work,25,195
+st aloysius college,governance,Governance,11,195
+st aloysius college,fire_emergency,Fire and emergency,6,195
+st aloysius college,road_safety,Road safety,6,195
+st aloysius college,public_order,Public order,4,195
+st aloysius college,communal_tension_or_discrimination,Communal tension,3,195
+st aloysius college,flood_weather,Rain and weather,2,195
+Attavar,health,Health,92,150
+Attavar,road_safety,Road safety,17,150
+Attavar,civic_infrastructure,Civic work,11,150
+Attavar,fire_emergency,Fire and emergency,6,150
+Attavar,education,Education,5,150
+Attavar,public_order,Public order,5,150
+Attavar,crime_public_safety,Public safety,3,150
+Attavar,flood_weather,Rain and weather,3,150
+Attavar,communal_tension_or_discrimination,Communal tension,2,150
+Attavar,governance,Governance,2,150
+Attavar,other_public_news_event,Other public news,2,150
+Attavar,coastal_environment,Coastal environment,1,150
+Attavar,transport_service,Transport service,1,150
+Nanthoor,road_safety,Road safety,72,142
+Nanthoor,civic_infrastructure,Civic work,22,142
+Nanthoor,health,Health,15,142
+Nanthoor,fire_emergency,Fire and emergency,7,142
+Nanthoor,flood_weather,Rain and weather,7,142
+Nanthoor,education,Education,5,142
+Nanthoor,governance,Governance,4,142
+Nanthoor,transport_service,Transport service,4,142
+Nanthoor,coastal_environment,Coastal environment,2,142
+Nanthoor,crime_public_safety,Public safety,2,142
+Nanthoor,building_workplace_safety,Building and workplace safety,1,142
+Nanthoor,other_public_news_event,Other public news,1,142
+Bajpe,road_safety,Road safety,46,137
+Bajpe,civic_infrastructure,Civic work,17,137
+Bajpe,health,Health,15,137
+Bajpe,flood_weather,Rain and weather,13,137
+Bajpe,fire_emergency,Fire and emergency,9,137
+Bajpe,governance,Governance,8,137
+Bajpe,crime_public_safety,Public safety,7,137
+Bajpe,education,Education,6,137
+Bajpe,other_public_news_event,Other public news,6,137
+Bajpe,public_event,Public events,5,137
+Bajpe,public_order,Public order,2,137
+Bajpe,coastal_environment,Coastal environment,1,137
+Bajpe,policy_context_other,Other policy context,1,137
+Bajpe,transport_service,Transport service,1,137
+Pandeshwar,fire_emergency,Fire and emergency,41,94
+Pandeshwar,road_safety,Road safety,26,94
+Pandeshwar,civic_infrastructure,Civic work,7,94
+Pandeshwar,crime_public_safety,Public safety,5,94
+Pandeshwar,flood_weather,Rain and weather,5,94
+Pandeshwar,health,Health,3,94
+Pandeshwar,education,Education,2,94
+Pandeshwar,transport_service,Transport service,2,94
+Pandeshwar,communal_discrimination_rights,Communal rights,1,94
+Pandeshwar,governance,Governance,1,94
+Pandeshwar,public_order,Public order,1,94
+Kavoor,road_safety,Road safety,32,88
+Kavoor,fire_emergency,Fire and emergency,10,88
+Kavoor,crime_public_safety,Public safety,8,88
+Kavoor,health,Health,8,88
+Kavoor,civic_infrastructure,Civic work,7,88
+Kavoor,education,Education,7,88
+Kavoor,governance,Governance,7,88
+Kavoor,flood_weather,Rain and weather,6,88
+Kavoor,coastal_environment,Coastal environment,1,88
+Kavoor,public_event,Public events,1,88
+Kavoor,public_order,Public order,1,88
+st aloysius,education,Education,37,76
+st aloysius,health,Health,17,76
+st aloysius,civic_infrastructure,Civic work,7,76
+st aloysius,road_safety,Road safety,4,76
+st aloysius,communal_tension_or_discrimination,Communal tension,3,76
+st aloysius,governance,Governance,3,76
+st aloysius,public_order,Public order,2,76
+st aloysius,crime_public_safety,Public safety,1,76
+st aloysius,fire_emergency,Fire and emergency,1,76
+st aloysius,flood_weather,Rain and weather,1,76
+Panambur,road_safety,Road safety,41,72
+Panambur,civic_infrastructure,Civic work,7,72
+Panambur,fire_emergency,Fire and emergency,5,72
+Panambur,governance,Governance,5,72
+Panambur,flood_weather,Rain and weather,4,72
+Panambur,coastal_environment,Coastal environment,2,72
+Panambur,education,Education,2,72
+Panambur,health,Health,2,72
+Panambur,transport_service,Transport service,2,72
+Panambur,crime_public_safety,Public safety,1,72
+Panambur,public_order,Public order,1,72
+State Bank,road_safety,Road safety,54,70
+State Bank,civic_infrastructure,Civic work,6,70
+State Bank,fire_emergency,Fire and emergency,2,70
+State Bank,governance,Governance,2,70
+State Bank,transport_service,Transport service,2,70
+State Bank,communal_tension_or_discrimination,Communal tension,1,70
+State Bank,flood_weather,Rain and weather,1,70
+State Bank,health,Health,1,70
+State Bank,public_order,Public order,1,70
+Bejai,road_safety,Road safety,21,60
+Bejai,civic_infrastructure,Civic work,10,60
+Bejai,fire_emergency,Fire and emergency,6,60
+Bejai,governance,Governance,5,60
+Bejai,flood_weather,Rain and weather,4,60
+Bejai,crime_public_safety,Public safety,3,60
+Bejai,education,Education,3,60
+Bejai,health,Health,3,60
+Bejai,transport_service,Transport service,2,60
+Bejai,public_event,Public events,1,60
+Bejai,public_order,Public order,1,60
+Bejai,welfare_livelihood,Welfare and livelihood,1,60
+Bajpe/Kenjar airport area,road_safety,Road safety,40,51
+Padil,road_safety,Road safety,26,51
+Kulur,road_safety,Road safety,22,51
+Kulur,flood_weather,Rain and weather,9,51
+Padil,civic_infrastructure,Civic work,8,51
+Kulur,civic_infrastructure,Civic work,7,51
+Padil,health,Health,5,51
+Bajpe/Kenjar airport area,transport_service,Transport service,4,51
+Padil,flood_weather,Rain and weather,4,51
+Bajpe/Kenjar airport area,civic_infrastructure,Civic work,3,51
+Kulur,fire_emergency,Fire and emergency,3,51
+Kulur,health,Health,3,51
+Bajpe/Kenjar airport area,flood_weather,Rain and weather,2,51
+Kulur,education,Education,2,51
+Kulur,governance,Governance,2,51
+Kulur,transport_service,Transport service,2,51
+Padil,crime_public_safety,Public safety,2,51
+Padil,public_order,Public order,2,51
+Bajpe/Kenjar airport area,fire_emergency,Fire and emergency,1,51
+Bajpe/Kenjar airport area,health,Health,1,51
+Kulur,coastal_environment,Coastal environment,1,51
+Padil,communal_tension_or_discrimination,Communal tension,1,51
+Padil,fire_emergency,Fire and emergency,1,51
+Padil,governance,Governance,1,51
+Padil,transport_service,Transport service,1,51
+Vamanjoor,road_safety,Road safety,18,45
+Vamanjoor,flood_weather,Rain and weather,6,45
+Vamanjoor,crime_public_safety,Public safety,5,45
+Vamanjoor,fire_emergency,Fire and emergency,4,45
+Vamanjoor,civic_infrastructure,Civic work,3,45
+Vamanjoor,education,Education,3,45
+Vamanjoor,public_order,Public order,3,45
+Vamanjoor,building_workplace_safety,Building and workplace safety,1,45
+Vamanjoor,communal_tension_or_discrimination,Communal tension,1,45
+Vamanjoor,transport_service,Transport service,1,45
+Baikampady,road_safety,Road safety,19,43
+Baikampady,civic_infrastructure,Civic work,7,43
+Baikampady,fire_emergency,Fire and emergency,5,43
+Baikampady,flood_weather,Rain and weather,4,43
+Baikampady,public_order,Public order,3,43
+Baikampady,health,Health,2,43
+Baikampady,building_workplace_safety,Building and workplace safety,1,43
+Baikampady,crime_public_safety,Public safety,1,43
+Baikampady,governance,Governance,1,43
+Jeppinamogaru,road_safety,Road safety,17,39
+Jeppinamogaru,flood_weather,Rain and weather,6,39
+Jeppinamogaru,governance,Governance,6,39
+Jeppinamogaru,fire_emergency,Fire and emergency,4,39
+Jeppinamogaru,civic_infrastructure,Civic work,1,39
+Jeppinamogaru,crime_public_safety,Public safety,1,39
+Jeppinamogaru,other_public_news_event,Other public news,1,39
+Jeppinamogaru,public_event,Public events,1,39
+Jeppinamogaru,public_order,Public order,1,39
+Jeppinamogaru,transport_service,Transport service,1,39
+Bondel,road_safety,Road safety,21,36
+Kottara Chowki,road_safety,Road safety,14,36
+Kottara Chowki,flood_weather,Rain and weather,9,36
+Bondel,civic_infrastructure,Civic work,7,36
+Kottara Chowki,civic_infrastructure,Civic work,6,36
+Bondel,fire_emergency,Fire and emergency,5,36
+Bondel,flood_weather,Rain and weather,2,36
+Kottara Chowki,crime_public_safety,Public safety,2,36
+Kottara Chowki,health,Health,2,36
+Bondel,policy_context_other,Other policy context,1,36
+Kottara Chowki,fire_emergency,Fire and emergency,1,36
+Kottara Chowki,governance,Governance,1,36
+Kottara Chowki,transport_service,Transport service,1,36
+Balmatta,civic_infrastructure,Civic work,14,35
+Balmatta,road_safety,Road safety,12,35
+Balmatta,crime_public_safety,Public safety,2,35
+Balmatta,fire_emergency,Fire and emergency,2,35
+Balmatta,health,Health,2,35
+Balmatta,education,Education,1,35
+Balmatta,flood_weather,Rain and weather,1,35
+Balmatta,transport_service,Transport service,1,35
+Kottara,flood_weather,Rain and weather,10,25
+Kottara,road_safety,Road safety,5,25
+Kottara,transport_service,Transport service,3,25
+Kottara,civic_infrastructure,Civic work,2,25
+Kottara,fire_emergency,Fire and emergency,2,25
+Kottara,education,Education,1,25
+Kottara,policy_context_other,Other policy context,1,25
+Kottara,public_order,Public order,1,25
+Ullal,health,Health,9,19
+mrpl,civic_infrastructure,Civic work,6,19
+mrpl,fire_emergency,Fire and emergency,4,19
+mrpl,road_safety,Road safety,4,19
+Ullal,civic_infrastructure,Civic work,3,19
+Ullal,education,Education,3,19
+Ullal,road_safety,Road safety,3,19
+mrpl,health,Health,3,19
+Ullal,fire_emergency,Fire and emergency,1,19
+mrpl,education,Education,1,19
+mrpl,governance,Governance,1,19
+KPT,road_safety,Road safety,11,18
+Falnir,fire_emergency,Fire and emergency,4,18
+Falnir,health,Health,4,18
+panambur,civic_infrastructure,Civic work,4,18
+panambur,road_safety,Road safety,4,18
+Falnir,civic_infrastructure,Civic work,3,18
+Falnir,road_safety,Road safety,3,18
+KPT,flood_weather,Rain and weather,2,18
+panambur,coastal_environment,Coastal environment,2,18
+panambur,crime_public_safety,Public safety,2,18
+panambur,education,Education,2,18
+panambur,fire_emergency,Fire and emergency,2,18
+panambur,governance,Governance,2,18
+Falnir,communal_tension_or_discrimination,Communal tension,1,18
+Falnir,crime_public_safety,Public safety,1,18
+Falnir,flood_weather,Rain and weather,1,18
+Falnir,policy_context_other,Other policy context,1,18
+KPT,civic_infrastructure,Civic work,1,18
+KPT,education,Education,1,18
+KPT,fire_emergency,Fire and emergency,1,18
+KPT,governance,Governance,1,18
+KPT,public_order,Public order,1,18
+Adyar,road_safety,Road safety,11,17
+Adyar,fire_emergency,Fire and emergency,3,17
+Adyar,education,Education,1,17
+Adyar,flood_weather,Rain and weather,1,17
+Adyar,transport_service,Transport service,1,17
+KMC Hospital,health,Health,13,16
+Shaktinagar,road_safety,Road safety,8,16
+Shaktinagar,civic_infrastructure,Civic work,3,16
+Shaktinagar,flood_weather,Rain and weather,3,16
+KMC Hospital,road_safety,Road safety,2,16
+KMC Hospital,building_workplace_safety,Building and workplace safety,1,16
+Shaktinagar,building_workplace_safety,Building and workplace safety,1,16
+Shaktinagar,health,Health,1,16
+Nethravathi Bridge,road_safety,Road safety,12,15
+Urwa,road_safety,Road safety,7,15
+Urwa,civic_infrastructure,Civic work,5,15
+Nethravathi Bridge,civic_infrastructure,Civic work,3,15
+Urwa,governance,Governance,2,15
+Urwa,health,Health,1,15

@@ -1,0 +1,170 @@
+event_year,family_group,family_group_label,event_count
+2007,road_safety,Road safety,24
+2007,civic_infrastructure,Civic work,4
+2007,fire_emergency,Fire and emergency,4
+2007,flood_weather,Rain and weather,4
+2007,other,Other,4
+2007,education,Education,3
+2007,health,Health,2
+2008,road_safety,Road safety,66
+2008,fire_emergency,Fire and emergency,21
+2008,flood_weather,Rain and weather,16
+2008,crime_public_safety,Public safety,15
+2008,civic_infrastructure,Civic work,14
+2008,education,Education,13
+2008,other,Other,11
+2008,health,Health,8
+2008,governance,Governance,2
+2009,road_safety,Road safety,61
+2009,flood_weather,Rain and weather,39
+2009,civic_infrastructure,Civic work,30
+2009,fire_emergency,Fire and emergency,17
+2009,other,Other,13
+2009,crime_public_safety,Public safety,9
+2009,education,Education,7
+2009,health,Health,6
+2010,road_safety,Road safety,129
+2010,civic_infrastructure,Civic work,29
+2010,fire_emergency,Fire and emergency,22
+2010,flood_weather,Rain and weather,19
+2010,education,Education,17
+2010,health,Health,13
+2010,other,Other,8
+2010,crime_public_safety,Public safety,7
+2010,governance,Governance,2
+2011,road_safety,Road safety,143
+2011,civic_infrastructure,Civic work,39
+2011,fire_emergency,Fire and emergency,34
+2011,education,Education,15
+2011,flood_weather,Rain and weather,13
+2011,other,Other,13
+2011,crime_public_safety,Public safety,11
+2011,health,Health,10
+2011,governance,Governance,6
+2012,road_safety,Road safety,174
+2012,fire_emergency,Fire and emergency,50
+2012,civic_infrastructure,Civic work,42
+2012,crime_public_safety,Public safety,31
+2012,flood_weather,Rain and weather,26
+2012,other,Other,24
+2012,education,Education,23
+2012,health,Health,20
+2013,road_safety,Road safety,305
+2013,fire_emergency,Fire and emergency,46
+2013,civic_infrastructure,Civic work,36
+2013,crime_public_safety,Public safety,26
+2013,flood_weather,Rain and weather,26
+2013,other,Other,21
+2013,health,Health,15
+2013,education,Education,11
+2014,road_safety,Road safety,334
+2014,civic_infrastructure,Civic work,75
+2014,fire_emergency,Fire and emergency,32
+2014,health,Health,25
+2014,flood_weather,Rain and weather,21
+2014,other,Other,17
+2015,road_safety,Road safety,398
+2015,civic_infrastructure,Civic work,74
+2015,health,Health,57
+2015,fire_emergency,Fire and emergency,29
+2015,flood_weather,Rain and weather,29
+2015,other,Other,14
+2016,road_safety,Road safety,402
+2016,civic_infrastructure,Civic work,95
+2016,health,Health,62
+2016,other,Other,26
+2016,flood_weather,Rain and weather,24
+2016,fire_emergency,Fire and emergency,22
+2016,governance,Governance,13
+2016,crime_public_safety,Public safety,5
+2016,education,Education,1
+2017,road_safety,Road safety,272
+2017,governance,Governance,76
+2017,civic_infrastructure,Civic work,63
+2017,fire_emergency,Fire and emergency,56
+2017,other,Other,56
+2017,health,Health,53
+2017,crime_public_safety,Public safety,43
+2017,flood_weather,Rain and weather,24
+2017,education,Education,9
+2018,road_safety,Road safety,372
+2018,health,Health,257
+2018,civic_infrastructure,Civic work,152
+2018,governance,Governance,118
+2018,other,Other,98
+2018,flood_weather,Rain and weather,97
+2018,education,Education,96
+2018,fire_emergency,Fire and emergency,84
+2018,crime_public_safety,Public safety,51
+2019,health,Health,542
+2019,road_safety,Road safety,448
+2019,civic_infrastructure,Civic work,254
+2019,flood_weather,Rain and weather,201
+2019,education,Education,197
+2019,other,Other,194
+2019,fire_emergency,Fire and emergency,121
+2019,governance,Governance,108
+2019,crime_public_safety,Public safety,71
+2020,health,Health,1453
+2020,road_safety,Road safety,233
+2020,civic_infrastructure,Civic work,147
+2020,fire_emergency,Fire and emergency,145
+2020,other,Other,107
+2020,flood_weather,Rain and weather,99
+2020,education,Education,64
+2020,governance,Governance,48
+2020,crime_public_safety,Public safety,26
+2021,road_safety,Road safety,276
+2021,health,Health,145
+2021,civic_infrastructure,Civic work,120
+2021,fire_emergency,Fire and emergency,93
+2021,other,Other,80
+2021,flood_weather,Rain and weather,68
+2021,education,Education,19
+2021,crime_public_safety,Public safety,18
+2021,governance,Governance,11
+2022,road_safety,Road safety,440
+2022,health,Health,188
+2022,other,Other,118
+2022,civic_infrastructure,Civic work,105
+2022,fire_emergency,Fire and emergency,83
+2022,flood_weather,Rain and weather,65
+2022,governance,Governance,61
+2022,education,Education,56
+2022,crime_public_safety,Public safety,54
+2023,road_safety,Road safety,1029
+2023,other,Other,536
+2023,civic_infrastructure,Civic work,333
+2023,health,Health,285
+2023,governance,Governance,249
+2023,education,Education,235
+2023,flood_weather,Rain and weather,193
+2023,crime_public_safety,Public safety,182
+2023,fire_emergency,Fire and emergency,132
+2024,road_safety,Road safety,1180
+2024,other,Other,303
+2024,health,Health,279
+2024,civic_infrastructure,Civic work,272
+2024,flood_weather,Rain and weather,253
+2024,fire_emergency,Fire and emergency,173
+2024,education,Education,124
+2024,governance,Governance,92
+2024,crime_public_safety,Public safety,38
+2025,road_safety,Road safety,1242
+2025,flood_weather,Rain and weather,399
+2025,health,Health,280
+2025,other,Other,248
+2025,civic_infrastructure,Civic work,219
+2025,fire_emergency,Fire and emergency,171
+2025,crime_public_safety,Public safety,62
+2025,governance,Governance,48
+2025,education,Education,17
+2026,road_safety,Road safety,497
+2026,health,Health,137
+2026,civic_infrastructure,Civic work,111
+2026,flood_weather,Rain and weather,95
+2026,other,Other,79
+2026,fire_emergency,Fire and emergency,73
+2026,governance,Governance,24
+2026,education,Education,15
+2026,crime_public_safety,Public safety,14
