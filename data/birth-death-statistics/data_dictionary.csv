@@ -1,0 +1,22 @@
+file,column,description
+births.csv/deaths.csv,year,Calendar year of the Karnataka Civil Registration System annual report.
+births.csv/deaths.csv,geography_id,Stable normalized geography identifier used in this public dataset.
+births.csv/deaths.csv,geography_name,"District, city, or one-lakh-plus town/corporation name."
+births.csv/deaths.csv,geography_level,"Geography level, such as district or city."
+births.csv/deaths.csv,parent_district_id,Stable normalized parent district identifier.
+births.csv/deaths.csv,parent_district_name,Parent district name for the geography.
+births.csv/deaths.csv,focus_role,"Role in the local focus extract: primary city, primary district, surrounding district, or surrounding town."
+births.csv/deaths.csv,area_type,"Source area type: RURAL, URBAN, TOTAL, or ONE_LAKH_PLUS_TOWN."
+births.csv/deaths.csv,table_basis,Whether the source CRS table is place_of_occurrence or place_of_residence.
+births.csv/deaths.csv,count_male,"Male count for births or deaths, depending on file."
+births.csv/deaths.csv,count_female,"Female count for births or deaths, depending on file."
+births.csv/deaths.csv,count_total,"Total count for births or deaths, depending on file."
+births.csv/deaths.csv,rate,Birth or death rate when the source table provides one; blank otherwise.
+births.csv/deaths.csv,within_area_count,Count within the reporting area for the relevant cross-area dimension.
+births.csv/deaths.csv,outside_area_count,Count outside the reporting area for the relevant cross-area dimension.
+births.csv/deaths.csv,outside_state_count,Count outside Karnataka/state when the source table provides it; blank otherwise.
+births.csv/deaths.csv,source_id,Portable source identifier joining to source_manifest.csv.
+births.csv/deaths.csv,quality_flag,Known extraction quality flag for the row; blank means no flag currently recorded.
+source_manifest.csv,source_url,OpenCity resource URL for the annual source PDF.
+source_manifest.csv,original_source_url,Original eJanMa / Government of Karnataka source domain recorded by the source package.
+quality_flags.csv,issue,Extraction quality issue observed in the source-derived row.

@@ -1,0 +1,30 @@
+{
+  "subset": "dakshina-kannada",
+  "title": "Dakshina Kannada and Mangaluru City",
+  "year_min": 2001,
+  "year_max": 2024,
+  "year_count": 24,
+  "geography_count": 2,
+  "geographies": [
+    {
+      "geography_id": "dakshina_kannada",
+      "geography_name": "Dakshina Kannada",
+      "geography_level": "district"
+    },
+    {
+      "geography_id": "mangaluru_city",
+      "geography_name": "Mangaluru City",
+      "geography_level": "city"
+    }
+  ],
+  "birth_rows": 192,
+  "death_rows": 192,
+  "quality_flag_rows": 9,
+  "files": {
+    "births": "births.csv",
+    "deaths": "deaths.csv",
+    "quality_flags": "quality_flags.csv"
+  },
+  "source_manifest": "../source_manifest.csv",
+  "data_dictionary": "../data_dictionary.csv"
+}

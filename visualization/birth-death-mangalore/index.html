@@ -1,0 +1,1738 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Mangaluru Birth and Death Rates | Mangalore datasets</title>
+  <meta name="description" content="Birth and death rate chart for Mangaluru, Dakshina Kannada, and nearby areas.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;600;700;800&family=Raleway:wght@500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+  <style>
+    :root {
+      color-scheme: light;
+      --hue-primary: 210;
+      --hue-step: 30;
+      --hue-complement: calc(var(--hue-primary) + 180);
+      --hue-base: var(--hue-primary);
+      --hue-accent: var(--hue-primary);
+      --hue-mangaluru: var(--hue-primary);
+      --hue-dk: calc(var(--hue-primary) + var(--hue-step));
+      --hue-nearby: var(--hue-complement);
+      --series-saturation: 34%;
+      --series-lightness: 43%;
+      --series-soft-saturation: 42%;
+      --series-soft-lightness: 93%;
+      --transparent: hsla(0, 0%, 0%, 0);
+      --page: hsla(var(--hue-primary), 46%, 97%, 1);
+      --paper: hsla(var(--hue-primary), 48%, 99%, 1);
+      --panel: hsla(var(--hue-primary), 42%, 96%, 1);
+      --ink: hsla(var(--hue-accent), 13%, 9%, 1);
+      --muted: hsla(var(--hue-base), 8%, 43%, 1);
+      --subtle: hsla(var(--hue-base), 8%, 43%, 0.68);
+      --faded: hsla(var(--hue-base), 8%, 43%, 0.42);
+      --axis-label: hsla(var(--hue-base), 8%, 43%, 0.48);
+      --faint: hsla(var(--hue-base), 33%, 88%, 1);
+      --mangaluru: hsla(var(--hue-mangaluru), var(--series-saturation), var(--series-lightness), 1);
+      --dk: hsla(var(--hue-dk), var(--series-saturation), var(--series-lightness), 1);
+      --nearby: hsla(var(--hue-nearby), var(--series-saturation), var(--series-lightness), 1);
+      --accent: hsla(var(--hue-accent), 24%, 14%, 1);
+      --accent-ink: hsla(var(--hue-base), 56%, 98%, 1);
+      --soft-mangaluru: hsla(var(--hue-mangaluru), var(--series-soft-saturation), var(--series-soft-lightness), 1);
+      --soft-dk: hsla(var(--hue-dk), var(--series-soft-saturation), var(--series-soft-lightness), 1);
+      --soft-nearby: hsla(var(--hue-nearby), var(--series-soft-saturation), var(--series-soft-lightness), 1);
+      --soft-complement: hsla(var(--hue-complement), 50%, 93%, 1);
+      --icon-well: hsla(var(--hue-base), 55%, 99%, 0.72);
+      --focus: hsla(var(--hue-accent), 35%, 24%, 1);
+      --focus-line: hsla(var(--hue-accent), 18%, 18%, 0.22);
+      --shadow-soft: hsla(var(--hue-base), 35%, 18%, 0.045);
+      --shadow-medium: hsla(var(--hue-base), 35%, 18%, 0.065);
+      --shadow-strong: hsla(var(--hue-base), 35%, 18%, 0.075);
+      --radius: 22px;
+      --shadow: 0 18px 46px var(--shadow-strong);
+      --section-gutter: clamp(24px, 4.8vw, 58px);
+      --section-top-gutter: clamp(10px, 1.8vw, 22px);
+    }
+
+    :root[data-theme="dark"] {
+      color-scheme: dark;
+      --page: hsla(var(--hue-primary), 24%, 10%, 1);
+      --paper: hsla(var(--hue-primary), 21%, 15%, 1);
+      --panel: hsla(var(--hue-primary), 19%, 17%, 1);
+      --ink: hsla(var(--hue-base), 40%, 93%, 1);
+      --muted: hsla(var(--hue-base), 15%, 67%, 1);
+      --subtle: hsla(var(--hue-base), 15%, 67%, 0.68);
+      --faded: hsla(var(--hue-base), 15%, 67%, 0.46);
+      --axis-label: hsla(var(--hue-base), 15%, 67%, 0.48);
+      --faint: hsla(var(--hue-accent), 12%, 24%, 1);
+      --series-saturation: 38%;
+      --series-lightness: 66%;
+      --series-soft-saturation: 28%;
+      --series-soft-lightness: 24%;
+      --accent: hsla(var(--hue-base), 52%, 89%, 1);
+      --accent-ink: hsla(var(--hue-accent), 24%, 13%, 1);
+      --soft-complement: hsla(var(--hue-complement), 27%, 24%, 1);
+      --icon-well: hsla(var(--hue-accent), 18%, 20%, 0.76);
+      --focus: hsla(var(--hue-base), 42%, 82%, 1);
+      --focus-line: hsla(var(--hue-base), 20%, 82%, 0.24);
+      --shadow-soft: hsla(0, 0%, 0%, 0.16);
+      --shadow-medium: hsla(0, 0%, 0%, 0.22);
+      --shadow-strong: hsla(0, 0%, 0%, 0.28);
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    [hidden] {
+      display: none !important;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      margin: 0;
+      background: var(--page);
+      color: var(--ink);
+      font-family: "Nunito", ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      font-size: 16px;
+      line-height: 1.5;
+    }
+
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    button {
+      font: inherit;
+    }
+
+    i {
+      line-height: 1;
+    }
+
+    a:focus-visible,
+    button:focus-visible {
+      outline: 2px solid var(--focus);
+      outline-offset: 4px;
+    }
+
+    .skip {
+      position: fixed;
+      left: 16px;
+      top: 16px;
+      z-index: 20;
+      transform: translateY(-150%);
+      padding: 10px 14px;
+      border-radius: 999px;
+      background: var(--ink);
+      color: var(--page);
+      text-decoration: none;
+    }
+
+    .skip:focus {
+      transform: translateY(0);
+    }
+
+    .app {
+      min-height: 100vh;
+      display: block;
+      background: var(--page);
+    }
+
+    .content {
+      width: min(1280px, calc(100% - 72px));
+      margin: 0 auto;
+      padding: 42px 0 70px;
+    }
+
+    .hero {
+      position: relative;
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      gap: 24px;
+      align-items: start;
+      margin-bottom: 28px;
+    }
+
+    .hero-copy {
+      min-width: 0;
+    }
+
+    .hero-actions {
+      display: flex;
+      align-items: center;
+      justify-content: flex-end;
+      gap: 10px;
+      min-width: 0;
+      flex-wrap: wrap;
+    }
+
+    .theme-toggle {
+      width: 48px;
+      height: 48px;
+      display: grid;
+      place-items: center;
+      border: 0;
+      border-radius: 50%;
+      background: var(--paper);
+      color: var(--muted);
+      box-shadow: 0 12px 28px var(--shadow-medium);
+      cursor: pointer;
+    }
+
+    .home-link {
+      width: 48px;
+      height: 48px;
+      display: grid;
+      place-items: center;
+      border-radius: 50%;
+      background: var(--paper);
+      color: var(--muted);
+      box-shadow: 0 12px 28px var(--shadow-medium);
+    }
+
+    .eyebrow {
+      margin: 0 0 8px;
+      color: var(--faded);
+      font-size: 1rem;
+    }
+
+    h1 {
+      margin: 0;
+      max-width: 900px;
+      font-family: "Raleway", ui-sans-serif, system-ui, sans-serif;
+      font-size: clamp(2.35rem, 3.45vw, 3.45rem);
+      line-height: 1.04;
+      letter-spacing: 0;
+      font-weight: 720;
+    }
+
+    .lede {
+      margin: 14px 0 0;
+      max-width: 720px;
+      color: var(--subtle);
+      font-size: 1rem;
+    }
+
+    .segmented {
+      display: inline-flex;
+      min-height: 48px;
+      padding: 4px;
+      gap: 4px;
+      border: 0;
+      border-radius: 999px;
+      background: var(--paper);
+      box-shadow: 0 12px 28px var(--shadow-medium);
+      max-width: 100%;
+    }
+
+    .segmented button {
+      min-height: 40px;
+      min-width: clamp(112px, 10vw, 132px);
+      padding: 0 16px;
+      border: 0;
+      border-radius: 999px;
+      background: var(--transparent);
+      color: var(--subtle);
+      cursor: pointer;
+      white-space: nowrap;
+      min-inline-size: 0;
+    }
+
+    .segmented button[aria-pressed="true"] {
+      background: var(--accent);
+      color: var(--accent-ink);
+    }
+
+    .label-short {
+      display: none;
+    }
+
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(min(100%, 280px), 1fr));
+      gap: 14px;
+      margin-bottom: 24px;
+    }
+
+    .stat {
+      min-height: 112px;
+      display: grid;
+      grid-template-columns: 58px minmax(0, 1fr);
+      grid-template-rows: auto auto;
+      align-items: center;
+      column-gap: 18px;
+      padding: 24px 22px;
+      border: 0;
+      border-radius: 20px;
+      box-shadow: 0 14px 34px var(--shadow-soft);
+      min-width: 0;
+      position: relative;
+      cursor: pointer;
+      transition: opacity 180ms ease, transform 180ms ease;
+    }
+
+    .stat:hover,
+    .stat:focus-visible {
+      transform: translateY(-2px);
+    }
+
+    .stat-mangaluru {
+      background: var(--soft-mangaluru);
+    }
+
+    .stat-dk {
+      background: var(--soft-dk);
+    }
+
+    .stat-surrounding {
+      background: var(--soft-nearby);
+    }
+
+    .stat-top {
+      display: contents;
+    }
+
+    .stat-label {
+      display: block;
+      color: var(--subtle);
+      font-size: 0.95rem;
+      margin: 0 0 3px;
+      min-width: 0;
+      overflow-wrap: anywhere;
+      grid-column: 2;
+      grid-row: 1;
+    }
+
+    .stat-icon {
+      width: 58px;
+      height: 58px;
+      display: grid;
+      place-items: center;
+      border-radius: 50%;
+      background: var(--transparent);
+      color: var(--ink);
+      grid-column: 1;
+      grid-row: 1 / span 2;
+      font-size: 1.52rem;
+      opacity: 0.68;
+    }
+
+    .stat strong {
+      display: block;
+      font-size: clamp(1.65rem, 2.45vw, 2.05rem);
+      line-height: 1.05;
+      letter-spacing: 0;
+      overflow-wrap: anywhere;
+      min-width: 0;
+      grid-column: 2;
+      grid-row: 2;
+    }
+
+    .stat-meta {
+      display: block;
+      color: var(--subtle);
+      font-size: 0.9rem;
+      grid-column: 2;
+      overflow-wrap: anywhere;
+    }
+
+    .stat-expand {
+      position: absolute;
+      top: 14px;
+      right: 14px;
+      width: 32px;
+      height: 32px;
+      display: grid;
+      place-items: center;
+      border: 0;
+      border-radius: 50%;
+      background: var(--transparent);
+      color: var(--subtle);
+      cursor: pointer;
+      font-size: 1.05rem;
+    }
+
+    .stat-expand i {
+      opacity: 0.95;
+      transform: scaleX(1.14);
+      transition: transform 180ms ease;
+    }
+
+    .stat-expand[aria-expanded="true"] i {
+      transform: rotate(180deg) scaleX(1.14);
+    }
+
+    .stat-surrounding .stat-expand {
+      color: var(--nearby);
+      font-size: 1.2rem;
+    }
+
+    .stats[data-highlight] .stat {
+      opacity: 0.58;
+    }
+
+    .stats[data-highlight="mangaluru"] .stat-mangaluru,
+    .stats[data-highlight="dk"] .stat-dk,
+    .stats[data-highlight="surrounding"] .stat-surrounding {
+      opacity: 1;
+    }
+
+    .nearby-panel {
+      grid-column: 1 / -1;
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 8px;
+      margin: -6px 0 10px;
+      padding: 4px 0 0;
+    }
+
+    .nearby-chip {
+      min-height: 36px;
+      display: inline-flex;
+      align-items: center;
+      gap: 9px;
+      padding: 9px 17px;
+      border: 0;
+      border-radius: 999px;
+      background: hsla(var(--line-hue), var(--series-soft-saturation), var(--series-soft-lightness), 0.84);
+      color: var(--subtle);
+      cursor: pointer;
+      font-size: 0.82rem;
+      line-height: 1;
+      min-width: 0;
+    }
+
+    .nearby-chip::before {
+      content: "";
+      display: block;
+      width: 10px;
+      height: 10px;
+      flex: 0 0 auto;
+      border-radius: 50%;
+      background: hsla(var(--line-hue), var(--series-saturation), var(--series-lightness), 1);
+    }
+
+    .nearby-chip span {
+      display: inline-flex;
+      align-items: center;
+      line-height: 1;
+    }
+
+    .nearby-chip strong {
+      display: inline-flex;
+      align-items: center;
+      color: var(--ink);
+      font-size: inherit;
+      line-height: 1;
+    }
+
+    .nearby-chip:hover,
+    .nearby-chip:focus-visible {
+      transform: translateY(-1px);
+    }
+
+    .stats[data-highlight] .nearby-chip {
+      opacity: 0.58;
+    }
+
+    .stats[data-highlight] .nearby-chip.is-highlighted {
+      opacity: 1;
+    }
+
+    .nearby-note {
+      flex: 1 0 100%;
+      padding: 3px 17px 0;
+      color: var(--faded);
+      font-size: 0.82rem;
+      line-height: 1.35;
+    }
+
+    .stat-mangaluru .stat-icon {
+      color: var(--mangaluru);
+    }
+
+    .stat-dk .stat-icon {
+      color: var(--dk);
+    }
+
+    .stat-surrounding .stat-icon {
+      color: var(--nearby);
+    }
+
+    .chart-section {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr);
+      gap: 28px;
+      align-items: start;
+    }
+
+    .chart-section > div:first-child {
+      min-width: 0;
+      padding: 0;
+      border: 0;
+      border-radius: 0;
+      background: var(--transparent);
+      box-shadow: none;
+    }
+
+    .chart-copy {
+      margin-bottom: 10px;
+    }
+
+    h2 {
+      margin: 0;
+      font-family: "Raleway", ui-sans-serif, system-ui, sans-serif;
+      font-size: clamp(1.08rem, 1.45vw, 1.28rem);
+      line-height: 1.12;
+      letter-spacing: 0;
+    }
+
+    .chart-subtitle {
+      margin: 6px 0 0;
+      max-width: 660px;
+      color: var(--subtle);
+      overflow-wrap: anywhere;
+      font-size: 0.94rem;
+    }
+
+    .line-mangaluru {
+      --series-stroke: var(--mangaluru);
+      stroke: var(--series-stroke);
+    }
+
+    .line-dk {
+      --series-stroke: var(--dk);
+      stroke: var(--series-stroke);
+    }
+
+    .line-surrounding {
+      --series-stroke: var(--nearby);
+      stroke: var(--series-stroke);
+    }
+
+    #trend-chart[data-highlight] .series-line {
+      opacity: 0.18;
+      stroke: var(--axis-label);
+      stroke-width: 2;
+    }
+
+    #trend-chart[data-highlight] .series-line.is-highlighted {
+      opacity: 1;
+      stroke: var(--series-stroke);
+      stroke-width: 3.5;
+    }
+
+    #trend-chart[data-highlight] .line-nearby-detail.is-highlighted {
+      stroke-width: 3;
+    }
+
+    .chart-wrap {
+      position: relative;
+      min-height: 420px;
+    }
+
+    svg {
+      display: block;
+      width: 100%;
+      height: auto;
+      overflow: visible;
+    }
+
+    .tick-label {
+      fill: var(--axis-label);
+      font-size: 12px;
+    }
+
+    .series-line {
+      fill: none;
+      stroke-width: 2.7;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      transition: opacity 180ms ease, stroke 180ms ease, stroke-width 180ms ease;
+    }
+
+    .series-line.line-nearby-detail {
+      --series-stroke: hsla(var(--line-hue), var(--series-saturation), var(--series-lightness), 1);
+      stroke: var(--series-stroke);
+      opacity: 0.28;
+      stroke-width: 1.55;
+    }
+
+    #trend-chart[data-highlight] .series-line.line-nearby-detail {
+      opacity: 0.12;
+      stroke-width: 1.4;
+    }
+
+    #trend-chart[data-highlight] .series-line.line-nearby-detail.is-highlighted {
+      opacity: 1;
+      stroke: var(--series-stroke);
+      stroke-width: 3;
+    }
+
+    .focus-line {
+      stroke: var(--focus-line);
+      stroke-width: 1;
+      stroke-dasharray: 4 5;
+    }
+
+    .zero-line {
+      stroke: var(--focus-line);
+      stroke-width: 1.2;
+    }
+
+    .focus-dot {
+      fill: var(--paper);
+      stroke-width: 2.5;
+      transition: opacity 180ms ease, stroke 180ms ease;
+    }
+
+    #trend-chart[data-highlight] .focus-dot {
+      opacity: 0.22;
+      stroke: var(--axis-label);
+    }
+
+    #trend-chart[data-highlight] .focus-dot.is-highlighted {
+      opacity: 1;
+      stroke: var(--series-stroke);
+    }
+
+    .plot-hit {
+      fill: var(--transparent);
+      cursor: crosshair;
+    }
+
+    .tooltip {
+      position: absolute;
+      z-index: 3;
+      min-width: 220px;
+      max-width: 270px;
+      padding: 13px 14px;
+      border: 0;
+      border-radius: 18px;
+      background: var(--paper);
+      box-shadow: var(--shadow);
+      color: var(--ink);
+      pointer-events: none;
+      font-size: 0.92rem;
+    }
+
+    .tooltip strong {
+      display: block;
+      margin-bottom: 7px;
+    }
+
+    .tooltip-row {
+      display: flex;
+      justify-content: space-between;
+      gap: 20px;
+      color: var(--subtle);
+    }
+
+    .tooltip-row-mangaluru {
+      color: var(--mangaluru);
+    }
+
+    .tooltip-row-dk {
+      color: var(--dk);
+    }
+
+    .tooltip-row-surrounding {
+      color: var(--nearby);
+    }
+
+    .tooltip-row-nearby-detail {
+      color: hsla(var(--line-hue), var(--series-saturation), var(--series-lightness), 1);
+    }
+
+    .tooltip-row b {
+      font-weight: 720;
+    }
+
+    .side-panel {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 14px;
+      position: static;
+      padding: 0;
+      border: 0;
+      border-radius: 0;
+      background: var(--transparent);
+      box-shadow: none;
+    }
+
+    .side-title {
+      grid-column: 1 / -1;
+      margin: 2px 0 0;
+      font-family: "Raleway", ui-sans-serif, system-ui, sans-serif;
+      font-size: 1.05rem;
+      line-height: 1.2;
+      font-weight: 650;
+    }
+
+    .source-item {
+      display: grid;
+      gap: 4px;
+      min-height: 86px;
+      padding: 18px;
+      border-radius: 18px;
+      background: var(--panel);
+      box-shadow: none;
+      min-width: 0;
+    }
+
+    .source-item:nth-of-type(1) {
+      background: var(--soft-mangaluru);
+    }
+
+    .source-item:nth-of-type(2) {
+      background: var(--soft-complement);
+    }
+
+    .source-item:nth-of-type(3) {
+      background: var(--soft-dk);
+    }
+
+    .source-item strong {
+      font-size: 1rem;
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      min-width: 0;
+      overflow-wrap: anywhere;
+    }
+
+    .source-item span,
+    .source-item a {
+      color: var(--subtle);
+      font-size: 0.92rem;
+      overflow-wrap: anywhere;
+    }
+
+    .method {
+      grid-column: 1 / -1;
+      margin: 4px 0 0;
+      color: var(--faded);
+      font-size: 0.92rem;
+    }
+
+    footer {
+      margin-top: 60px;
+      padding-top: 24px;
+      border-top: 0;
+      color: var(--faded);
+      font-size: 0.92rem;
+    }
+
+    .sr-only {
+      position: absolute;
+      width: 1px;
+      height: 1px;
+      padding: 0;
+      margin: -1px;
+      overflow: hidden;
+      clip: rect(0, 0, 0, 0);
+      white-space: nowrap;
+      border: 0;
+    }
+
+    @media (min-width: 1601px) {
+      .chart-section {
+        grid-template-columns: minmax(0, 1fr) 300px;
+        gap: 18px;
+      }
+
+      .side-panel {
+        position: sticky;
+        top: 34px;
+        grid-template-columns: 1fr;
+      }
+    }
+
+    @media (min-width: 621px) and (max-width: 1600px) {
+      .hero,
+      .stats,
+      .chart-copy,
+      .chart-wrap,
+      .side-panel,
+      footer {
+        padding-inline: var(--section-gutter);
+      }
+
+      .hero {
+        padding-top: var(--section-top-gutter);
+      }
+
+      .chart-copy {
+        padding-top: clamp(10px, 1.4vw, 18px);
+      }
+    }
+
+    @media (max-width: 980px) {
+      .content {
+        width: min(100% - 28px, 1260px);
+        padding-top: 34px;
+      }
+
+      .hero,
+      .chart-section {
+        grid-template-columns: 1fr;
+      }
+
+      .hero .segmented {
+        justify-self: start;
+      }
+
+    }
+
+    @media (max-width: 760px) {
+      .stat {
+        min-height: 104px;
+      }
+    }
+
+    @media (max-width: 620px) {
+      .hero {
+        gap: 20px;
+      }
+
+      .hero-copy {
+        padding-top: 6px;
+        padding-left: clamp(16px, 4vw, 22px);
+        padding-right: 76px;
+      }
+
+      .hero-actions {
+        display: grid;
+        grid-template-columns: 48px 48px;
+        grid-template-areas:
+          "home theme"
+          "tabs tabs";
+        align-items: center;
+        justify-content: space-between;
+        row-gap: 12px;
+        column-gap: 12px;
+        width: 100%;
+      }
+
+      .home-link {
+        grid-area: home;
+      }
+
+      .theme-toggle {
+        position: static;
+        grid-area: theme;
+        justify-self: end;
+      }
+
+      .segmented {
+        grid-area: tabs;
+        display: grid;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        width: 100%;
+        max-width: none;
+        border-radius: 999px;
+      }
+
+      .segmented button {
+        min-width: 0;
+        padding: 0 8px;
+        font-size: clamp(0.84rem, 3.35vw, 0.95rem);
+      }
+
+      .side-panel {
+        grid-template-columns: 1fr;
+      }
+
+      .stats {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 10px;
+      }
+
+      .stat {
+        min-height: 156px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: center;
+        gap: 7px;
+        padding: 17px 15px;
+      }
+
+      .stat-expand {
+        top: 10px;
+        right: 10px;
+      }
+
+      .nearby-panel {
+        gap: 7px;
+      }
+
+      .stat-label,
+      .stat strong,
+      .stat-meta,
+      .stat-icon {
+        grid-column: auto;
+        grid-row: auto;
+      }
+
+      .stat-icon {
+        order: 1;
+        width: 56px;
+        height: 56px;
+        font-size: 1.58rem;
+      }
+
+      .stat-label {
+        order: 2;
+        margin: 0;
+        font-size: 0.86rem;
+        line-height: 1.22;
+        overflow-wrap: break-word;
+        hyphens: auto;
+      }
+
+      .stat strong {
+        order: 3;
+        font-size: clamp(1.45rem, 7vw, 1.74rem);
+      }
+
+      .stat-meta {
+        order: 4;
+        font-size: clamp(0.72rem, 2.8vw, 0.84rem);
+        line-height: 1.25;
+        overflow-wrap: break-word;
+      }
+
+      .chart-copy {
+        display: grid;
+        margin-bottom: 16px;
+        padding: 34px clamp(22px, 6vw, 34px) 22px;
+      }
+
+      .chart-wrap {
+        min-height: 520px;
+        overflow-x: auto;
+        overflow-y: visible;
+        scrollbar-width: none;
+        -webkit-overflow-scrolling: touch;
+      }
+
+      .chart-wrap::-webkit-scrollbar {
+        display: none;
+      }
+
+      #trend-chart {
+        width: 900px;
+        max-width: none;
+      }
+
+    }
+
+    @media (max-width: 420px) {
+      .content {
+        width: min(100% - 24px, 1260px);
+      }
+
+      h1 {
+        font-size: clamp(2.35rem, 11vw, 3rem);
+      }
+
+      .stat {
+        min-height: 150px;
+        padding: 15px 13px;
+      }
+
+      .stat-icon {
+        width: 54px;
+        height: 54px;
+        font-size: 1.54rem;
+      }
+
+      .label-full {
+        display: none;
+      }
+
+      .label-short {
+        display: inline;
+      }
+    }
+
+    @media (max-width: 249px) {
+      .stats {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    @media (max-width: 380px) {
+      .stats {
+        grid-template-columns: 1fr;
+      }
+
+      .stat {
+        min-height: 126px;
+        display: grid;
+        grid-template-columns: 58px minmax(0, 1fr);
+        grid-template-rows: auto auto;
+        align-items: center;
+        column-gap: 16px;
+        gap: 0;
+      }
+
+      .stat-label,
+      .stat strong,
+      .stat-meta,
+      .stat-icon {
+        order: initial;
+      }
+
+      .stat-label {
+        grid-column: 2;
+        grid-row: 1;
+        font-size: 0.95rem;
+      }
+
+      .stat-icon {
+        width: 58px;
+        height: 58px;
+        grid-column: 1;
+        grid-row: 1 / span 2;
+        font-size: 1.58rem;
+      }
+
+      .stat strong {
+        grid-column: 2;
+        grid-row: 2;
+      }
+
+      .stat-meta {
+        grid-column: 2;
+      }
+    }
+  </style>
+</head>
+<body>
+  <a class="skip" href="#chart-title">Skip to chart</a>
+  <div class="app">
+    <main class="content" id="main-content">
+      <section class="hero" id="overview" aria-labelledby="page-title">
+        <div class="hero-copy">
+          <p class="eyebrow">Birth and death rate data, 2001-2024</p>
+          <h1 id="page-title">Mangaluru birth and death rates</h1>
+          <p class="lede">Birth and death rates for Mangaluru, Dakshina Kannada, and nearby areas.</p>
+        </div>
+
+        <div class="hero-actions">
+          <a class="home-link" href="../../" aria-label="Back to Mangalore datasets">
+            <i class="fa-solid fa-house" aria-hidden="true"></i>
+          </a>
+          <div class="segmented" role="group" aria-label="Choose indicator">
+            <button type="button" data-indicator="births" aria-pressed="true"><span class="label-full">Birth rate</span><span class="label-short">Birth</span></button>
+            <button type="button" data-indicator="deaths" aria-pressed="false"><span class="label-full">Death rate</span><span class="label-short">Death</span></button>
+            <button type="button" data-indicator="change" aria-pressed="false"><span class="label-full">Rate difference</span><span class="label-short">Difference</span></button>
+          </div>
+          <button class="theme-toggle" type="button" id="theme-toggle" aria-label="Use dark theme">
+            <i class="fa-solid fa-moon" aria-hidden="true"></i>
+          </button>
+        </div>
+      </section>
+
+      <section class="stats" id="stats" aria-live="polite"></section>
+
+      <section class="chart-section" id="trend" aria-label="Rate trend chart">
+        <div>
+          <div class="chart-copy">
+            <div>
+              <h2 id="chart-title">Birth rate by area</h2>
+              <p class="chart-subtitle" id="chart-subtitle">Rates per 1,000 people.</p>
+            </div>
+          </div>
+
+          <div class="chart-wrap" id="chart-wrap">
+            <svg id="trend-chart" viewBox="0 0 920 470" role="img" aria-labelledby="chart-title chart-description"></svg>
+            <div class="tooltip" id="tooltip" hidden></div>
+          </div>
+          <p id="chart-description" class="sr-only">Line chart comparing rates for Mangaluru City, Dakshina Kannada, and nearby areas from 2001 to 2024.</p>
+        </div>
+
+        <aside class="side-panel" id="sources" aria-label="Source and data notes">
+          <h2 class="side-title">Data and sources</h2>
+          <div class="source-item">
+            <strong><i class="fa-regular fa-circle-check" aria-hidden="true"></i>Years covered</strong>
+            <span>2001-2024.</span>
+          </div>
+          <div class="source-item">
+            <strong><i class="fa-regular fa-file-lines" aria-hidden="true"></i>Source file</strong>
+            <a href="https://github.com/Mangalore-OSS/Mangalore-OSS.github.io/blob/main/data/birth-death-statistics/source_manifest.csv" target="_blank" rel="noopener">View source file</a>
+          </div>
+          <div class="source-item">
+            <strong><i class="fa-solid fa-book-open" aria-hidden="true"></i>Karnataka reports</strong>
+            <span><a href="https://data.opencity.in/dataset/14c80edf-0ee9-4c86-87e5-05f4de7363b0" target="_blank" rel="noopener">OpenCity dataset</a> and <a href="https://ejanma.karnataka.gov.in/" target="_blank" rel="noopener">eJanMa website</a>.</span>
+          </div>
+          <p class="method">Comparison areas include 6 districts and 4 towns.</p>
+        </aside>
+      </section>
+
+      <footer>
+        <span>Part of Mangalore datasets. Data comes from public Karnataka birth and death reports.</span>
+        <span><a href="https://github.com/Mangalore-OSS/Mangalore-OSS.github.io" target="_blank" rel="noopener">GitHub repository</a></span>
+      </footer>
+    </main>
+  </div>
+
+  <script src="../../js/site-ui-state.js"></script>
+  <script>
+    const DATA_PATHS = {
+      births: "../../data/birth-death-statistics/births.csv",
+      deaths: "../../data/birth-death-statistics/deaths.csv"
+    };
+
+    const SERIES = [
+      { key: "mangaluru", label: "Mangaluru City", colorClass: "mangaluru", icon: "fa-location-dot", geoIds: ["mangaluru_city"], mode: "single" },
+      { key: "dk", label: "Dakshina Kannada", colorClass: "dk", icon: "fa-map", geoIds: ["dakshina_kannada"], mode: "single" },
+      { key: "surrounding", label: "Nearby area average", colorClass: "surrounding", icon: "fa-layer-group", rolePrefix: "surrounding_", mode: "average" }
+    ];
+
+    const INDICATORS = {
+      births: {
+        title: "Birth rate by area",
+        subtitle: "Births per 1,000 residents.",
+        noun: "births",
+        metaLabel: "rate"
+      },
+      deaths: {
+        title: "Death rate by area",
+        subtitle: "Deaths per 1,000 residents.",
+        noun: "deaths",
+        metaLabel: "rate"
+      },
+      change: {
+        title: "Rate difference by area",
+        subtitle: "Births minus deaths per 1,000 residents.",
+        noun: "births minus deaths",
+        metaLabel: "difference"
+      }
+    };
+
+    const NEARBY_HUE_OFFSETS = [-34, -26, -18, -10, -2, 6, 14, 22, 30, 38, 46, 54];
+
+    const state = {
+      indicator: "births",
+      births: [],
+      deaths: [],
+      series: [],
+      summarySeries: [],
+      detailSeries: [],
+      highlight: "",
+      nearbyExpanded: false
+    };
+
+    const formatter = new Intl.NumberFormat("en-IN");
+    const chart = document.getElementById("trend-chart");
+    const chartWrap = document.getElementById("chart-wrap");
+    const tooltip = document.getElementById("tooltip");
+    const stats = document.getElementById("stats");
+    const chartTitle = document.getElementById("chart-title");
+    const chartSubtitle = document.getElementById("chart-subtitle");
+    const chartDescription = document.getElementById("chart-description");
+    const themeToggle = document.getElementById("theme-toggle");
+
+    function parseCSV(text) {
+      const rows = [];
+      let row = [];
+      let value = "";
+      let quoted = false;
+
+      for (let i = 0; i < text.length; i += 1) {
+        const char = text[i];
+        const next = text[i + 1];
+
+        if (char === '"' && quoted && next === '"') {
+          value += '"';
+          i += 1;
+        } else if (char === '"') {
+          quoted = !quoted;
+        } else if (char === "," && !quoted) {
+          row.push(value);
+          value = "";
+        } else if ((char === "\n" || char === "\r") && !quoted) {
+          if (char === "\r" && next === "\n") i += 1;
+          row.push(value);
+          if (row.some((cell) => cell.length)) rows.push(row);
+          row = [];
+          value = "";
+        } else {
+          value += char;
+        }
+      }
+
+      if (value.length || row.length) {
+        row.push(value);
+        if (row.some((cell) => cell.length)) rows.push(row);
+      }
+
+      const headers = rows.shift();
+      return rows.map((cells) => Object.fromEntries(headers.map((header, index) => [header, cells[index] || ""])));
+    }
+
+    async function loadData() {
+      const [birthText, deathText] = await Promise.all([
+        fetch(DATA_PATHS.births).then((response) => {
+          if (!response.ok) throw new Error("Could not load births.csv");
+          return response.text();
+        }),
+        fetch(DATA_PATHS.deaths).then((response) => {
+          if (!response.ok) throw new Error("Could not load deaths.csv");
+          return response.text();
+        })
+      ]);
+
+      state.births = parseCSV(birthText);
+      state.deaths = parseCSV(deathText);
+      updateView();
+    }
+
+    function isComparableAreaRow(row) {
+      if (row.geography_level === "district") return row.area_type === "TOTAL";
+      return row.area_type === "ONE_LAKH_PLUS_TOWN";
+    }
+
+    function residenceRateRows(rows) {
+      return rows
+        .filter((row) => row.table_basis === "place_of_residence")
+        .filter(isComparableAreaRow)
+        .filter((row) => row.rate)
+        .map((row) => ({ ...row, yearNumber: Number(row.year), rateNumber: Number(row.rate), countNumber: row.count_total ? Number(row.count_total) : null }));
+    }
+
+    function rowsForIndicator(indicator = state.indicator) {
+      return residenceRateRows(indicator === "deaths" ? state.deaths : state.births);
+    }
+
+    function areaRows(rows, config) {
+      if (config.mode === "single") {
+        return rows.filter((row) => config.geoIds.includes(row.geography_id));
+      }
+
+      return rows.filter((row) => row.focus_role && row.focus_role.startsWith(config.rolePrefix));
+    }
+
+    function aggregateSeries(rows, config) {
+      const relevant = areaRows(rows, config);
+      const byYear = new Map();
+
+      relevant.forEach((row) => {
+        const bucket = byYear.get(row.yearNumber) || [];
+        bucket.push(row);
+        byYear.set(row.yearNumber, bucket);
+      });
+
+      return Array.from(byYear.entries())
+        .sort(([a], [b]) => a - b)
+        .map(([year, yearRows]) => {
+          const rates = yearRows.map((row) => row.rateNumber).filter(Number.isFinite);
+          const counts = yearRows.map((row) => row.countNumber).filter(Number.isFinite);
+          return {
+            year,
+            value: rates.reduce((sum, value) => sum + value, 0) / rates.length,
+            countTotal: config.mode === "average" ? counts.reduce((sum, value) => sum + value, 0) : counts[0],
+            sourceId: yearRows[0]?.source_id || "",
+            sampleSize: yearRows.length
+          };
+        });
+    }
+
+    function aggregateChangeSeries(birthRows, deathRows, config) {
+      const birthRelevant = areaRows(birthRows, config);
+      const deathRelevant = areaRows(deathRows, config);
+      const deathByAreaYear = new Map();
+
+      deathRelevant.forEach((row) => {
+        deathByAreaYear.set(`${row.yearNumber}:${row.geography_id}`, row);
+      });
+
+      const byYear = new Map();
+      birthRelevant.forEach((birthRow) => {
+        const deathRow = deathByAreaYear.get(`${birthRow.yearNumber}:${birthRow.geography_id}`);
+        if (!deathRow || !Number.isFinite(birthRow.rateNumber) || !Number.isFinite(deathRow.rateNumber)) return;
+
+        const bucket = byYear.get(birthRow.yearNumber) || [];
+        bucket.push({
+          value: birthRow.rateNumber - deathRow.rateNumber,
+          countChange: Number.isFinite(birthRow.countNumber) && Number.isFinite(deathRow.countNumber)
+            ? birthRow.countNumber - deathRow.countNumber
+            : null,
+          sourceId: birthRow.source_id || deathRow.source_id || ""
+        });
+        byYear.set(birthRow.yearNumber, bucket);
+      });
+
+      return Array.from(byYear.entries())
+        .sort(([a], [b]) => a - b)
+        .map(([year, yearRows]) => {
+          const values = yearRows.map((row) => row.value).filter(Number.isFinite);
+          const counts = yearRows.map((row) => row.countChange).filter(Number.isFinite);
+          return {
+            year,
+            value: values.reduce((sum, value) => sum + value, 0) / values.length,
+            countTotal: counts.reduce((sum, value) => sum + value, 0),
+            sourceId: yearRows[0]?.sourceId || "",
+            sampleSize: yearRows.length
+          };
+        });
+    }
+
+    function nearbyDetailConfigs(rows) {
+      const surroundingConfig = SERIES.find((item) => item.key === "surrounding");
+      const seen = new Map();
+      areaRows(rows, surroundingConfig).forEach((row) => {
+        if (!seen.has(row.geography_id)) {
+          seen.set(row.geography_id, {
+            geographyId: row.geography_id,
+            label: row.geography_name
+          });
+        }
+      });
+
+      return Array.from(seen.values())
+        .sort((a, b) => a.label.localeCompare(b.label))
+        .map((item, index) => ({
+          key: `nearby-${item.geographyId}`,
+          label: item.label,
+          colorClass: "nearby-detail",
+          groupKey: "surrounding",
+          icon: "fa-circle",
+          geoIds: [item.geographyId],
+          mode: "single",
+          detail: true,
+          hueOffset: NEARBY_HUE_OFFSETS[index % NEARBY_HUE_OFFSETS.length]
+        }));
+    }
+
+    function buildPoints(config, birthRows, deathRows, indicatorRows) {
+      if (state.indicator === "change") {
+        return aggregateChangeSeries(birthRows, deathRows, config);
+      }
+      return aggregateSeries(indicatorRows, config);
+    }
+
+    function buildSeries() {
+      const birthRows = rowsForIndicator("births");
+      const deathRows = rowsForIndicator("deaths");
+      const indicatorRows = rowsForIndicator();
+
+      state.summarySeries = SERIES.map((config) => ({
+        ...config,
+        groupKey: config.key,
+        points: buildPoints(config, birthRows, deathRows, indicatorRows)
+      }));
+
+      state.detailSeries = state.nearbyExpanded
+        ? nearbyDetailConfigs(indicatorRows)
+          .map((config) => ({
+            ...config,
+            points: buildPoints(config, birthRows, deathRows, indicatorRows)
+          }))
+          .filter((item) => item.points.length)
+        : [];
+
+      state.series = [...state.summarySeries, ...state.detailSeries];
+    }
+
+    function formatRate(value) {
+      if (!Number.isFinite(value)) return "n/a";
+      return value.toFixed(2).replace(/\.00$/, "");
+    }
+
+    function formatSignedRate(value) {
+      if (!Number.isFinite(value)) return "n/a";
+      const sign = value > 0 ? "+" : value < 0 ? "-" : "";
+      return `${sign}${formatRate(Math.abs(value))}`;
+    }
+
+    function formatCount(value) {
+      if (!Number.isFinite(value)) return "n/a";
+      return formatter.format(Math.round(value));
+    }
+
+    function formatSignedCount(value) {
+      if (!Number.isFinite(value)) return "n/a";
+      const sign = value > 0 ? "+" : value < 0 ? "-" : "";
+      return `${sign}${formatCount(Math.abs(value))}`;
+    }
+
+    function formatValue(value) {
+      return state.indicator === "change" ? formatSignedRate(value) : formatRate(value);
+    }
+
+    function formatTick(value) {
+      return Math.abs(value % 1) < 0.001 ? String(Math.round(value)) : value.toFixed(1);
+    }
+
+    function latestPoint(points) {
+      if (!points?.length) return null;
+      return points.find((row) => row.year === 2024) || points[points.length - 1];
+    }
+
+    function lineHueStyle(item) {
+      return Number.isFinite(item.hueOffset) ? `--line-hue: calc(var(--hue-nearby) + ${item.hueOffset});` : "";
+    }
+
+    function isSeriesHighlighted(item) {
+      if (!state.highlight) return false;
+      return item.key === state.highlight || item.groupKey === state.highlight;
+    }
+
+    function setSeriesHighlight(key) {
+      state.highlight = key || "";
+      applySeriesHighlight();
+    }
+
+    function applySeriesHighlight() {
+      if (state.highlight) {
+        chart.dataset.highlight = state.highlight;
+        stats.dataset.highlight = state.highlight;
+      } else {
+        chart.removeAttribute("data-highlight");
+        stats.removeAttribute("data-highlight");
+      }
+
+      chart.querySelectorAll("[data-series-key]").forEach((element) => {
+        const highlighted = state.highlight
+          && (element.dataset.seriesKey === state.highlight || (element.dataset.detail !== "true" && element.dataset.groupKey === state.highlight));
+        element.classList.toggle("is-highlighted", Boolean(highlighted));
+      });
+
+      stats.querySelectorAll("[data-series-key]").forEach((element) => {
+        const highlighted = state.highlight
+          && (element.dataset.seriesKey === state.highlight || (element.dataset.detail !== "true" && element.dataset.groupKey === state.highlight));
+        element.classList.toggle("is-highlighted", Boolean(highlighted));
+      });
+    }
+
+    function toggleNearbyExpanded() {
+      state.nearbyExpanded = !state.nearbyExpanded;
+      state.highlight = "";
+      updateView();
+    }
+
+    function drawStats() {
+      const indicator = INDICATORS[state.indicator];
+
+      const cards = state.summarySeries.map((item) => {
+        const point = latestPoint(item.points);
+        const countText = state.indicator === "change"
+          ? `${formatSignedCount(point?.countTotal)} ${indicator.noun}`
+          : item.mode === "average"
+            ? `${point?.sampleSize || 0} areas`
+            : `${formatCount(point?.countTotal)} ${indicator.noun}`;
+        const expandButton = item.key === "surrounding"
+          ? `
+            <button class="stat-expand" type="button" data-expand-nearby aria-expanded="${state.nearbyExpanded}" aria-controls="nearby-panel">
+              <i class="fa-solid fa-chevron-down" aria-hidden="true"></i>
+              <span class="sr-only">${state.nearbyExpanded ? "Hide nearby areas" : "Show nearby areas"}</span>
+            </button>
+          `
+          : "";
+
+        return `
+          <article class="stat stat-${item.colorClass}" data-series-key="${item.key}" data-group-key="${item.groupKey}" tabindex="0" aria-label="Highlight ${item.label}" ${item.key === "surrounding" ? `aria-expanded="${state.nearbyExpanded}"` : ""}>
+            ${expandButton}
+            <div class="stat-top">
+              <span class="stat-label">${item.label}</span>
+              <span class="stat-icon" aria-hidden="true"><i class="fa-solid ${item.icon}"></i></span>
+            </div>
+            <strong>${formatValue(point?.value)}</strong>
+            <span class="stat-meta">2024 ${indicator.metaLabel}; ${countText}</span>
+          </article>
+        `;
+      }).join("");
+
+      const nearbyPanel = state.nearbyExpanded && state.detailSeries.length
+        ? `
+          <div class="nearby-panel" id="nearby-panel" aria-label="Nearby areas shown on chart">
+            ${state.detailSeries.map((item) => {
+              const point = latestPoint(item.points);
+              return `
+                <button class="nearby-chip" type="button" data-series-key="${item.key}" data-group-key="${item.groupKey}" data-detail="true" style="${lineHueStyle(item)}">
+                  <span>${item.label}</span>
+                  <strong>${formatValue(point?.value)}</strong>
+                </button>
+              `;
+            }).join("")}
+            <p class="nearby-note">CMC means City Municipal Council. These are town entries with populations over 100,000 in the civil registration reports.</p>
+          </div>
+        `
+        : "";
+
+      stats.innerHTML = `${cards}${nearbyPanel}`;
+      attachStatInteractions();
+      applySeriesHighlight();
+    }
+
+    function niceTicksForRange(minValue, maxValue) {
+      let min = Number.isFinite(minValue) ? minValue : 0;
+      let max = Number.isFinite(maxValue) ? maxValue : 1;
+      if (min === max) {
+        min -= 1;
+        max += 1;
+      }
+
+      const span = max - min;
+      const target = Math.max(1, span / 4);
+      const power = Math.pow(10, Math.floor(Math.log10(target)));
+      const fraction = target / power;
+      const step = fraction <= 1 ? power : fraction <= 2 ? 2 * power : fraction <= 5 ? 5 * power : 10 * power;
+      const start = Math.floor(min / step) * step;
+      const end = Math.ceil(max / step) * step;
+      const ticks = [];
+      for (let value = start; value <= end + step / 2; value += step) {
+        ticks.push(Math.abs(value) < step / 1000 ? 0 : value);
+      }
+      return ticks;
+    }
+
+    function createSvgElement(name, attributes = {}) {
+      const element = document.createElementNS("http://www.w3.org/2000/svg", name);
+      Object.entries(attributes).forEach(([key, value]) => element.setAttribute(key, value));
+      return element;
+    }
+
+    function linePath(points, xScale, yScale) {
+      const usable = points
+        .filter((point) => Number.isFinite(point.value))
+        .map((point) => ({ x: xScale(point.year), y: yScale(point.value) }));
+
+      if (usable.length < 2) return "";
+
+      return usable.map((point, index) => {
+        if (index === 0) return `M ${point.x.toFixed(2)} ${point.y.toFixed(2)}`;
+        const previous = usable[index - 1];
+        const next = usable[index + 1] || point;
+        const beforePrevious = usable[index - 2] || previous;
+        const cp1x = previous.x + (point.x - beforePrevious.x) / 6;
+        const cp1y = previous.y + (point.y - beforePrevious.y) / 6;
+        const cp2x = point.x - (next.x - previous.x) / 6;
+        const cp2y = point.y - (next.y - previous.y) / 6;
+        return `C ${cp1x.toFixed(2)} ${cp1y.toFixed(2)} ${cp2x.toFixed(2)} ${cp2y.toFixed(2)} ${point.x.toFixed(2)} ${point.y.toFixed(2)}`;
+      }).join(" ");
+    }
+
+    function drawChart() {
+      chart.replaceChildren();
+      tooltip.hidden = true;
+
+      const compact = chartWrap.clientWidth < 680;
+      const width = compact ? 900 : 920;
+      const height = compact ? 500 : 470;
+      const margin = compact
+        ? { top: 24, right: 34, bottom: 58, left: 52 }
+        : { top: 20, right: 28, bottom: 56, left: 46 };
+      const innerWidth = width - margin.left - margin.right;
+      const innerHeight = height - margin.top - margin.bottom;
+      const allPoints = state.series.flatMap((item) => item.points);
+      if (!allPoints.length) return;
+      const years = allPoints.map((point) => point.year);
+      const minYear = Math.min(...years);
+      const maxYear = Math.max(...years);
+      const values = allPoints.map((point) => point.value).filter(Number.isFinite);
+      const minValue = state.indicator === "change" ? Math.min(0, ...values) : 0;
+      const maxValue = Math.max(0, ...values);
+      const ticks = niceTicksForRange(minValue, maxValue);
+      const yMin = ticks[0];
+      const yMax = ticks[ticks.length - 1];
+      const xScale = (year) => margin.left + ((year - minYear) / (maxYear - minYear)) * innerWidth;
+      const yScale = (value) => margin.top + ((yMax - value) / (yMax - yMin)) * innerHeight;
+
+      chart.setAttribute("viewBox", `0 0 ${width} ${height}`);
+
+      ticks.forEach((tick) => {
+        const y = yScale(tick);
+        const label = createSvgElement("text", { class: "tick-label", x: margin.left - 10, y: y + 4, "text-anchor": "end" });
+        label.textContent = formatTick(tick);
+        chart.appendChild(label);
+      });
+
+      [2001, 2006, 2011, 2016, 2021, 2024].forEach((tick) => {
+        const label = createSvgElement("text", { class: "tick-label", x: xScale(tick), y: height - 18, "text-anchor": "middle" });
+        label.textContent = tick;
+        chart.appendChild(label);
+      });
+
+      if (yMin < 0 && yMax > 0) {
+        chart.appendChild(createSvgElement("line", {
+          class: "zero-line",
+          x1: margin.left,
+          x2: margin.left + innerWidth,
+          y1: yScale(0),
+          y2: yScale(0)
+        }));
+      }
+
+      state.series.forEach((item) => {
+        const attributes = {
+          class: `series-line line-${item.colorClass}`,
+          d: linePath(item.points, xScale, yScale),
+          "data-series-key": item.key,
+          "data-group-key": item.groupKey,
+          "data-detail": String(Boolean(item.detail))
+        };
+        const style = lineHueStyle(item);
+        if (style) attributes.style = style;
+        chart.appendChild(createSvgElement("path", attributes));
+      });
+
+      const focus = createSvgElement("g", { hidden: "true" });
+      const focusLine = createSvgElement("line", { class: "focus-line", y1: margin.top, y2: margin.top + innerHeight });
+      focus.appendChild(focusLine);
+      const focusDots = state.series.map((item) => {
+        const attributes = {
+          class: `focus-dot line-${item.colorClass}`,
+          r: 5,
+          "data-series-key": item.key,
+          "data-group-key": item.groupKey,
+          "data-detail": String(Boolean(item.detail))
+        };
+        const style = lineHueStyle(item);
+        if (style) attributes.style = style;
+        const dot = createSvgElement("circle", attributes);
+        focus.appendChild(dot);
+        return { item, dot };
+      });
+      chart.appendChild(focus);
+
+      const hit = createSvgElement("rect", {
+        class: "plot-hit",
+        x: margin.left,
+        y: margin.top,
+        width: innerWidth,
+        height: innerHeight
+      });
+      chart.appendChild(hit);
+
+      function setFocus(event) {
+        const svgPoint = chart.createSVGPoint();
+        svgPoint.x = event.clientX;
+        svgPoint.y = event.clientY;
+        const point = svgPoint.matrixTransform(chart.getScreenCTM().inverse());
+        const year = allPoints.reduce((best, row) => {
+          const distance = Math.abs(xScale(row.year) - point.x);
+          return distance < best.distance ? { year: row.year, distance } : best;
+        }, { year: allPoints[0].year, distance: Infinity }).year;
+        const x = xScale(year);
+
+        focus.removeAttribute("hidden");
+        focusLine.setAttribute("x1", x);
+        focusLine.setAttribute("x2", x);
+
+        const rows = state.series.map((item, index) => {
+          const found = item.points.find((candidate) => candidate.year === year);
+          if (found) {
+            focusDots[index].dot.setAttribute("cx", x);
+            focusDots[index].dot.setAttribute("cy", yScale(found.value));
+          }
+          return { item, point: found };
+        });
+
+        tooltip.innerHTML = `
+          <strong>${year}</strong>
+          ${rows.map(({ item, point: row }) => `
+            <span class="tooltip-row tooltip-row-${item.colorClass}" style="${lineHueStyle(item)}"><span>${item.label}</span><b>${formatValue(row?.value)}</b></span>
+          `).join("")}
+        `;
+        tooltip.hidden = false;
+
+        const rect = chartWrap.getBoundingClientRect();
+        const tooltipWidth = tooltip.offsetWidth || 240;
+        const left = Math.min(Math.max(event.clientX - rect.left + 14, 10), rect.width - tooltipWidth - 10);
+        const tooltipHeight = tooltip.offsetHeight || 120;
+        const maxTop = Math.max(10, rect.height - tooltipHeight - 10);
+        const top = Math.min(Math.max(event.clientY - rect.top - 36, 10), maxTop);
+        tooltip.style.left = `${left}px`;
+        tooltip.style.top = `${top}px`;
+      }
+
+      hit.addEventListener("pointermove", setFocus);
+      hit.addEventListener("pointerenter", setFocus);
+      hit.addEventListener("pointerleave", () => {
+        focus.setAttribute("hidden", "true");
+        tooltip.hidden = true;
+      });
+
+      applySeriesHighlight();
+    }
+
+    function attachStatInteractions() {
+      stats.querySelectorAll("[data-series-key]").forEach((element) => {
+        const key = element.dataset.seriesKey;
+
+        element.addEventListener("pointerenter", () => setSeriesHighlight(key));
+        element.addEventListener("pointerleave", () => setSeriesHighlight(""));
+        element.addEventListener("focusin", () => setSeriesHighlight(key));
+        element.addEventListener("focusout", (event) => {
+          if (!element.contains(event.relatedTarget)) setSeriesHighlight("");
+        });
+
+        if (element.classList.contains("stat-surrounding")) {
+          element.addEventListener("click", (event) => {
+            if (!event.target.closest("[data-expand-nearby]")) toggleNearbyExpanded();
+          });
+          element.addEventListener("keydown", (event) => {
+            if ((event.key === "Enter" || event.key === " ") && !event.target.closest("[data-expand-nearby]")) {
+              event.preventDefault();
+              toggleNearbyExpanded();
+            }
+          });
+        }
+      });
+
+      stats.querySelectorAll("[data-expand-nearby]").forEach((button) => {
+        button.addEventListener("click", (event) => {
+          event.stopPropagation();
+          toggleNearbyExpanded();
+        });
+      });
+    }
+
+    function updateLabels() {
+      const indicator = INDICATORS[state.indicator];
+      chartTitle.textContent = indicator.title;
+      chartSubtitle.textContent = indicator.subtitle;
+      chartDescription.textContent = `${chartTitle.textContent}, 2001 to 2024.`;
+    }
+
+    function updateButtons() {
+      document.querySelectorAll("[data-indicator]").forEach((button) => {
+        button.setAttribute("aria-pressed", String(button.dataset.indicator === state.indicator));
+      });
+    }
+
+    function updateView() {
+      buildSeries();
+      drawStats();
+      updateLabels();
+      updateButtons();
+      drawChart();
+    }
+
+    document.querySelectorAll("[data-indicator]").forEach((button) => {
+      button.addEventListener("click", () => {
+        state.indicator = button.dataset.indicator;
+        state.highlight = "";
+        updateView();
+      });
+    });
+
+    window.MangaloreDataUI.bindThemeToggle(themeToggle);
+    loadData().catch((error) => {
+      stats.innerHTML = `<div class="stat"><div class="stat-top"><span class="stat-label">Data loading failed</span><span class="stat-icon" aria-hidden="true"><i class="fa-solid fa-triangle-exclamation"></i></span></div><strong>${error.message}</strong></div>`;
+    });
+  </script>
+</body>
+</html>

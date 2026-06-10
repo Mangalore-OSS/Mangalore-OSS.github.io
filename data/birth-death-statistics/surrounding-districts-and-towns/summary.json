@@ -1,0 +1,70 @@
+{
+  "subset": "surrounding-districts-and-towns",
+  "title": "Surrounding comparator districts and towns",
+  "year_min": 2001,
+  "year_max": 2024,
+  "year_count": 24,
+  "geography_count": 10,
+  "geographies": [
+    {
+      "geography_id": "chikkamagaluru",
+      "geography_name": "Chikkamagaluru",
+      "geography_level": "district"
+    },
+    {
+      "geography_id": "chikkamagaluru_cmc",
+      "geography_name": "Chikkamagaluru CMC",
+      "geography_level": "town_1_lakh_plus"
+    },
+    {
+      "geography_id": "hassan",
+      "geography_name": "Hassan",
+      "geography_level": "district"
+    },
+    {
+      "geography_id": "hassan_cmc",
+      "geography_name": "Hassan CMC",
+      "geography_level": "town_1_lakh_plus"
+    },
+    {
+      "geography_id": "kodagu",
+      "geography_name": "Kodagu",
+      "geography_level": "district"
+    },
+    {
+      "geography_id": "shivamogga",
+      "geography_name": "Shivamogga",
+      "geography_level": "district"
+    },
+    {
+      "geography_id": "shivamogga_cmc",
+      "geography_name": "Shivamogga CMC",
+      "geography_level": "town_1_lakh_plus"
+    },
+    {
+      "geography_id": "udupi",
+      "geography_name": "Udupi",
+      "geography_level": "district"
+    },
+    {
+      "geography_id": "udupi_cmc",
+      "geography_name": "Udupi CMC",
+      "geography_level": "town_1_lakh_plus"
+    },
+    {
+      "geography_id": "uttara_kannada",
+      "geography_name": "Uttara Kannada",
+      "geography_level": "district"
+    }
+  ],
+  "birth_rows": 1051,
+  "death_rows": 1051,
+  "quality_flag_rows": 18,
+  "files": {
+    "births": "births.csv",
+    "deaths": "deaths.csv",
+    "quality_flags": "quality_flags.csv"
+  },
+  "source_manifest": "../source_manifest.csv",
+  "data_dictionary": "../data_dictionary.csv"
+}

@@ -1,0 +1,19 @@
+year,table_basis,geography_name,geography_level,area_type,issue,births_total,deaths_total,births_rate,deaths_rate,source_id
+2001,place_of_occurrence,Chikkamagaluru,district,TOTAL,missing_death_side,23037,,,,karnataka_crs_2001
+2002,place_of_residence,Udupi,district,RURAL,missing_death_side,20878,,22.92,,karnataka_crs_2002
+2002,place_of_residence,Udupi,district,TOTAL,missing_death_side,23507,,21.06,,karnataka_crs_2002
+2003,place_of_residence,Chikkamagaluru,district,RURAL,missing_death_side,17346,,19.87,,karnataka_crs_2003
+2003,place_of_residence,Chikkamagaluru,district,TOTAL,missing_death_side,22004,,19.92,,karnataka_crs_2003
+2003,place_of_occurrence,Udupi,district,RURAL,missing_birth_side,,8457,,,karnataka_crs_2003
+2005,place_of_residence,Uttara Kannada,district,TOTAL,missing_birth_side,,9200,,6.46,karnataka_crs_2005
+2011,place_of_occurrence,Chikkamagaluru,district,TOTAL,missing_death_side,17366,,,,karnataka_crs_2011
+2011,place_of_occurrence,Chikkamagaluru CMC,town_1_lakh_plus,ONE_LAKH_PLUS_TOWN,missing_death_side,5137,,,,karnataka_crs_2011
+2011,place_of_occurrence,Hassan,district,TOTAL,missing_death_side,26445,,,,karnataka_crs_2011
+2011,place_of_occurrence,Hassan CMC,town_1_lakh_plus,ONE_LAKH_PLUS_TOWN,missing_death_side,12416,,,,karnataka_crs_2011
+2011,place_of_occurrence,Kodagu,district,TOTAL,missing_death_side,8300,,,,karnataka_crs_2011
+2011,place_of_occurrence,Shivamogga,district,TOTAL,missing_death_side,33555,,,,karnataka_crs_2011
+2011,place_of_occurrence,Shivamogga CMC,town_1_lakh_plus,ONE_LAKH_PLUS_TOWN,missing_death_side,14750,,,,karnataka_crs_2011
+2011,place_of_occurrence,Udupi,district,TOTAL,missing_death_side,19928,,,,karnataka_crs_2011
+2011,place_of_occurrence,Udupi CMC,town_1_lakh_plus,ONE_LAKH_PLUS_TOWN,missing_death_side,7104,,,,karnataka_crs_2011
+2011,place_of_occurrence,Uttara Kannada,district,TOTAL,missing_death_side,26425,,,,karnataka_crs_2011
+2021,place_of_residence,Shivamogga,district,TOTAL,missing_birth_side,,19401,,11.18,karnataka_crs_2021

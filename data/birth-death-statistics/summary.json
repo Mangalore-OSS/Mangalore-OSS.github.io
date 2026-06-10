@@ -1,0 +1,49 @@
+{
+  "dataset": "birth-death-statistics",
+  "title": "Karnataka birth and death statistics for Mangaluru, Dakshina Kannada, and nearby areas",
+  "description": "Clean public-facing CSVs derived from Karnataka Civil Registration System annual reports.",
+  "year_min": 2001,
+  "year_max": 2024,
+  "year_count": 24,
+  "geography_count": 12,
+  "birth_rows": 1243,
+  "death_rows": 1243,
+  "source_rows": 24,
+  "quality_flag_rows": 27,
+  "birth_rows_missing_total": 3,
+  "death_rows_missing_total": 24,
+  "core_geographies": {
+    "dakshina_kannada_birth_rows": 144,
+    "dakshina_kannada_death_rows": 144,
+    "mangaluru_city_birth_rows": 48,
+    "mangaluru_city_death_rows": 48
+  },
+  "files": {
+    "births": "births.csv",
+    "deaths": "deaths.csv",
+    "sources": "source_manifest.csv",
+    "quality_flags": "quality_flags.csv",
+    "data_dictionary": "data_dictionary.csv"
+  },
+  "notes": [
+    "Public files use portable source references.",
+    "source_id joins each data row to source_manifest.csv.",
+    "This is a PDF-derived public data extract, not an official machine-readable CRS release."
+  ],
+  "subsets": {
+    "dakshina_kannada": {
+      "folder": "dakshina-kannada",
+      "description": "Dakshina Kannada district and Mangaluru City rows.",
+      "birth_rows": 192,
+      "death_rows": 192,
+      "quality_flag_rows": 9
+    },
+    "surrounding_districts_and_towns": {
+      "folder": "surrounding-districts-and-towns",
+      "description": "Comparator district and town rows from surrounding/coastal Karnataka areas.",
+      "birth_rows": 1051,
+      "death_rows": 1051,
+      "quality_flag_rows": 18
+    }
+  }
+}
