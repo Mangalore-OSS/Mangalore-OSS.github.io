@@ -263,9 +263,11 @@
   let dotLayer = null;
   let labelLayer = null;
   let tooltip = null;
+  let tooltipHideTimer = 0;
   let canvasAnimation = 0;
   let canvasLastPositions = new Map();
   let canvasHitPoints = [];
+  let activeCanvasArticleRow = null;
   let lastMapCamera = null;
   let currentMapCamera = null;
   let currentMapNode = null;
@@ -528,6 +530,8 @@
   function showSvgSurface() {
     cancelAnimationFrame(canvasAnimation);
     canvasHitPoints = [];
+    activeCanvasArticleRow = null;
+    canvas.classList.remove("has-article");
     canvas.dataset.renderedPoints = "0";
     canvas.classList.add("chart-surface-hidden");
     svg.classList.remove("chart-surface-hidden");
@@ -850,11 +854,13 @@
         showTooltip(
           event,
           newsHeadline(row),
-          `${place} · ${row.event_year} · ${row.topic_label} · ${row.source_label}`
+          `${place} · ${row.event_year} · ${row.topic_label} · ${row.source_label}`,
+          row
         );
       });
       dot.addEventListener("mousemove", moveTooltip);
       dot.addEventListener("mouseleave", hideTooltip);
+      linkDataPoint(dot, row, { keyboard: true });
       layer.appendChild(dot);
       currentMapMarkers.push(dot);
       requestAnimationFrame(() => {
@@ -1014,19 +1020,81 @@
     return row ? number(row.event_count) : 0;
   }
 
-  function showTooltip(event, title, body) {
+  function articleUrl(row) {
+    const url = String(row?.url || row?.canonical_url || row?.article_url || "").trim();
+    return /^https?:\/\//i.test(url) ? url : "";
+  }
+
+  function articleLabel(row) {
+    return newsHeadline(row);
+  }
+
+  function openArticle(row) {
+    const url = articleUrl(row);
+    if (!url) return false;
+    window.open(url, "_blank", "noopener,noreferrer");
+    return true;
+  }
+
+  function handleArticleKeydown(event, row) {
+    if (event.key !== "Enter" && event.key !== " ") return;
+    event.preventDefault();
+    openArticle(row);
+  }
+
+  function linkDataPoint(node, row, options = {}) {
+    if (!articleUrl(row)) return;
+    node.classList.add("has-article");
+    node.addEventListener("pointerdown", (event) => event.stopPropagation());
+    node.addEventListener("click", (event) => {
+      event.stopPropagation();
+      openArticle(row);
+    });
+    if (options.keyboard) {
+      node.setAttribute("tabindex", "0");
+      node.setAttribute("role", "link");
+      node.setAttribute("aria-label", `Open article: ${articleLabel(row)}`);
+      node.addEventListener("keydown", (event) => handleArticleKeydown(event, row));
+    }
+  }
+
+  function ensureTooltip() {
     if (!tooltip) {
       tooltip = document.createElement("div");
       tooltip.className = "chart-tooltip";
       tooltip.hidden = true;
+      tooltip.addEventListener("mouseenter", () => window.clearTimeout(tooltipHideTimer));
+      tooltip.addEventListener("mouseleave", () => hideTooltip());
       document.body.appendChild(tooltip);
     }
+  }
+
+  function showTooltip(event, title, body, row = null) {
+    ensureTooltip();
+    window.clearTimeout(tooltipHideTimer);
     tooltip.innerHTML = "";
+    tooltip.classList.toggle("has-action", Boolean(articleUrl(row)));
     const strong = document.createElement("strong");
     const span = document.createElement("span");
     strong.textContent = title;
     span.textContent = body;
     tooltip.append(strong, span);
+    const url = articleUrl(row);
+    if (url) {
+      const action = document.createElement("a");
+      const icon = document.createElement("i");
+      const actionText = document.createElement("span");
+      action.className = "tooltip-action";
+      action.href = url;
+      action.target = "_blank";
+      action.rel = "noopener noreferrer";
+      action.setAttribute("aria-label", `Open article: ${articleLabel(row)}`);
+      icon.className = "fa-solid fa-arrow-up-right-from-square";
+      icon.setAttribute("aria-hidden", "true");
+      actionText.textContent = "Open article";
+      action.append(icon, actionText);
+      tooltip.appendChild(action);
+    }
     tooltip.hidden = false;
     moveTooltip(event);
   }
@@ -1042,7 +1110,12 @@
   }
 
   function hideTooltip() {
-    if (tooltip) tooltip.hidden = true;
+    if (!tooltip) return;
+    window.clearTimeout(tooltipHideTimer);
+    tooltipHideTimer = window.setTimeout(() => {
+      tooltip.hidden = true;
+      tooltip.classList.remove("has-action");
+    }, 100);
   }
 
   function handleCanvasHover(event) {
@@ -1062,16 +1135,25 @@
       }
     });
     if (!best) {
+      activeCanvasArticleRow = null;
+      canvas.classList.remove("has-article");
       hideTooltip();
       return;
     }
     const row = best.row;
+    activeCanvasArticleRow = articleUrl(row) ? row : null;
+    canvas.classList.toggle("has-article", Boolean(activeCanvasArticleRow));
     const tags = tagsFor(row).slice(0, 3).join(", ");
     showTooltip(
       event,
       row.title || row.event_family_label,
-      `${row.event_year} · ${row.event_family_label}${tags ? ` · ${tags}` : ""}`
+      `${row.event_year} · ${row.event_family_label}${tags ? ` · ${tags}` : ""}`,
+      row
     );
+  }
+
+  function handleCanvasClick() {
+    if (activeCanvasArticleRow) openArticle(activeCanvasArticleRow);
   }
 
   function dotPosition(row, mode, width, height) {
@@ -1354,10 +1436,11 @@
         const tagText = tagsFor(row).slice(0, 4).join(", ");
         const extra = tagsFor(row).length > 4 ? "..." : "";
         const body = `${row.event_year} · Main subject: ${row.event_family_label}${tagText ? ` · Also: ${tagText}${extra}` : ""}`;
-        showTooltip(event, title, body);
+        showTooltip(event, title, body, row);
       });
       dot.addEventListener("mousemove", moveTooltip);
       dot.addEventListener("mouseleave", hideTooltip);
+      linkDataPoint(dot, row);
       dotLayer.appendChild(dot);
     });
 
@@ -1791,9 +1874,10 @@
       });
       dot.style.transform = `translate(${start.x}px, ${start.y}px)`;
       dot.style.transitionDelay = reducedMotion ? "0ms" : `${Math.min(rank, 60) * 5}ms`;
-      dot.addEventListener("mouseenter", (event) => showTooltip(event, row.title || topic, `${row.event_year} · tagged ${topic}`));
+      dot.addEventListener("mouseenter", (event) => showTooltip(event, row.title || topic, `${row.event_year} · tagged ${topic}`, row));
       dot.addEventListener("mousemove", moveTooltip);
       dot.addEventListener("mouseleave", hideTooltip);
+      linkDataPoint(dot, row);
       svg.appendChild(dot);
       requestAnimationFrame(() => {
         dot.style.transform = `translate(${end.x}px, ${end.y}px)`;
@@ -2171,9 +2255,10 @@
       });
       dot.style.transform = `translate(${start.x}px, ${start.y}px)`;
       dot.style.transitionDelay = "0ms";
-      dot.addEventListener("mouseenter", (event) => showTooltip(event, row.title || "Road incident", roadTooltipBody(row, grain)));
+      dot.addEventListener("mouseenter", (event) => showTooltip(event, row.title || "Road incident", roadTooltipBody(row, grain), row));
       dot.addEventListener("mousemove", moveTooltip);
       dot.addEventListener("mouseleave", hideTooltip);
+      linkDataPoint(dot, row);
       fragment.appendChild(dot);
       dotUpdates.push({ dot, point });
       nextPositions.set(id, point);
@@ -2490,7 +2575,12 @@
     }
 
     canvas.addEventListener("mousemove", handleCanvasHover);
-    canvas.addEventListener("mouseleave", hideTooltip);
+    canvas.addEventListener("click", handleCanvasClick);
+    canvas.addEventListener("mouseleave", () => {
+      activeCanvasArticleRow = null;
+      canvas.classList.remove("has-article");
+      hideTooltip();
+    });
     viewport.addEventListener("wheel", handleMapWheel, { passive: false });
     viewport.addEventListener("pointerdown", handleMapPointerDown);
     viewport.addEventListener("pointermove", handleMapPointerMove);

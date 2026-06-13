@@ -25,6 +25,7 @@
   "clear_mangaluru_place_records": 3933,
   "point_map_ready_records": 5666,
   "reviewed_coordinate_point_records": 102,
+  "event_sample_article_url_records": 21615,
   "map_note": "Only the reviewed_coordinate_point_records are drawn as city map points. The full news archive is not geocoded to exact coordinates.",
   "road_incident_note": "The road_incidents and road_vehicle_mentions tables are compact derivatives for the accident chapter. They exclude Outside city counts and compare only the main vehicle groups used in the visualization. Outcome views leave out rows where no death, injury, or hospitalization count was captured.",
   "scope_buckets": [
@@ -118,6 +119,10 @@
     "event_sample": {
       "file": "event_sample.csv",
       "rows": 21615
+    },
+    "issues": {
+      "file": "issues.csv",
+      "rows": 1
     },
     "road_incidents": {
       "file": "road_incidents.csv",

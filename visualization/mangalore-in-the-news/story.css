@@ -335,6 +335,10 @@ h1 {
   touch-action: manipulation;
 }
 
+.chart-canvas.has-article {
+  cursor: pointer;
+}
+
 .chart-surface-hidden {
   display: none !important;
 }
@@ -406,6 +410,13 @@ h1 {
   stroke: var(--page);
   stroke-width: 1.2;
   vector-effect: non-scaling-stroke;
+}
+
+.map-event-point.has-article,
+.month-sample-dot.has-article,
+.road-dot.has-article,
+.event-dot.has-article {
+  cursor: pointer;
 }
 
 .month-sample-dot {
@@ -528,6 +539,10 @@ h1 {
   pointer-events: none;
 }
 
+.chart-tooltip.has-action {
+  pointer-events: auto;
+}
+
 .chart-tooltip strong,
 .chart-tooltip span {
   display: block;
@@ -541,6 +556,35 @@ h1 {
 .chart-tooltip span {
   color: var(--subtle);
   font-size: 0.82rem;
+}
+
+.chart-tooltip .tooltip-action {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  width: max-content;
+  max-width: 100%;
+  margin-top: 3px;
+  color: var(--accent);
+  font-size: 0.82rem;
+  font-weight: 800;
+  line-height: 1;
+  text-decoration: none;
+}
+
+.chart-tooltip .tooltip-action span {
+  display: inline;
+  color: inherit;
+}
+
+.chart-tooltip .tooltip-action:hover {
+  text-decoration: underline;
+}
+
+.chart-tooltip .tooltip-action:focus-visible {
+  outline: 2px solid var(--focus);
+  outline-offset: 3px;
+  border-radius: 4px;
 }
 
 [hidden].chart-tooltip {
