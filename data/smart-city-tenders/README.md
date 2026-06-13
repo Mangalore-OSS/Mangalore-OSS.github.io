@@ -17,6 +17,7 @@ The data is meant for browsing and analysis. It does not prove tender winners un
 - `source_records.csv` - source record inventory with public URLs and source notes; raw payloads and private trace hashes are removed.
 - `dashboard_projects.json` - compact JSON used by the dashboard.
 - `manifest.json` - release summary and caveats.
+- `issues.csv` - public data issue log with reporter credit and resolution status.
 
 ## Current Scope
 
@@ -26,6 +27,10 @@ The data is meant for browsing and analysis. It does not prove tender winners un
 - 22 projects with work-order amounts
 - 6 projects with actual completion dates in the joined work-order data
 - 0 projects with verified successful-bidder names in the official award join
+
+## Resolved Issues
+
+- 2026-06-13: Central Market redevelopment was incorrectly displayed as `under_hold` after an older MSCL hold/stay note was treated as current status. Report credited to Reddit user `u/Professional_Dot5920` at https://www.reddit.com/r/mangalore/comments/1u4gg0g/comment/ord0p35/. The dashboard status now shows `ongoing`; the legacy hold note remains only as source provenance.
 
 ## Caveats
 

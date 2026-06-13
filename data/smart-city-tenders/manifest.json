@@ -11,10 +11,9 @@
   "verified_winner_project_count": 0,
   "status_counts": {
     "completed": 25,
-    "ongoing": 5,
-    "unknown": 2,
+    "ongoing": 6,
     "tendered": 1,
-    "under_hold": 1
+    "unknown": 2
   },
   "files": {
     "project_index": "project_index.csv",
@@ -25,7 +24,8 @@
     "boq_totals": "boq_totals.csv",
     "timeline_events": "timeline_events.csv",
     "public_party_leads": "public_party_leads.csv",
-    "award_closure_dossiers": "award_closure_dossiers.csv"
+    "award_closure_dossiers": "award_closure_dossiers.csv",
+    "issues": "issues.csv"
   },
   "caveats": [
     "Public party leads are not the same as verified tender winners.",

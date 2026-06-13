@@ -12,10 +12,9 @@
     "verified_winner_project_count": 0,
     "status_counts": {
       "completed": 25,
-      "ongoing": 5,
-      "unknown": 2,
+      "ongoing": 6,
       "tendered": 1,
-      "under_hold": 1
+      "unknown": 2
     },
     "files": {
       "project_index": "project_index.csv",
@@ -26,7 +25,8 @@
       "boq_totals": "boq_totals.csv",
       "timeline_events": "timeline_events.csv",
       "public_party_leads": "public_party_leads.csv",
-      "award_closure_dossiers": "award_closure_dossiers.csv"
+      "award_closure_dossiers": "award_closure_dossiers.csv",
+      "issues": "issues.csv"
     },
     "caveats": [
       "Public party leads are not the same as verified tender winners.",
@@ -2379,7 +2379,7 @@
       "opportunity_title": "Redevelopment of Central Market & Fish Market in Mangaluru city on Design, Build, Finance, Operate and Transfer (DBFOT) Basis through Public Private Partnership (PPP)",
       "opportunity_kind": "tender_opportunity",
       "source_procurement_stage": "quotation_notice",
-      "official_status_normalized": "under_hold",
+      "official_status_normalized": "ongoing",
       "tender_type": "OPEN",
       "tender_category": "SERVICES",
       "estimated_cost_inr": 1140400000.0,
@@ -2392,7 +2392,7 @@
       "official_award_closure_status": "official_work_order_status_joined_contractor_gap",
       "official_join_readiness": "ready_for_eproc_or_kppp_lookup",
       "data_completeness_score": 75,
-      "limitations": "Tender opportunity facts consolidate source-linked evidence; joined official work-order rows are not contractor/successful-bidder truth unless those fields are present.",
+      "limitations": "Tender opportunity facts consolidate source-linked evidence; joined official work-order rows are not contractor/successful-bidder truth unless those fields are present. Legacy MSCL High Court stay/hold note is retained as provenance only; later work-order and 2025/2026 progress evidence show the project advanced, so the current display status is ongoing.",
       "work_order_amount_inr": "",
       "work_order_date": "2020-10-28",
       "contract_completion_date": "2024-09-01",
@@ -2450,7 +2450,7 @@
       "has_public_party_lead": true,
       "has_document_trail": false,
       "public_party_names_text": "Somayaji Estates; unnamed Mangaluru-based concessionaire / city-based contractor; unnamed contractor",
-      "dashboard_notes": "Verified winner is not available in this release."
+      "dashboard_notes": "Resolved 2026-06-13: legacy hold note is preserved as source context only; display status set to ongoing. Report credited to Reddit u/Professional_Dot5920."
     }
   ]
 }
